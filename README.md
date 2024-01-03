@@ -46,6 +46,7 @@
 
 ## C 
 
+- [godlytalias/Bible-Database](https://github.com/godlytalias/Bible-Database) - Bible databases as XML, JSON, SQL & SQLITE3 Database format for various languages. Developers can download it freely for their development works. Freely received, freely give.
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 
 ## C# # 
@@ -97,6 +98,8 @@
 
 ## Go 
 
+- [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases) - Bible versions and cross-reference databases.
+- [pandodao/botastic](https://github.com/pandodao/botastic) - An AI framework for building cool things.
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [yks0000/starred-repo-toc](https://github.com/yks0000/starred-repo-toc) - Generates Markdown table for all Starred Repositories by a GitHub user.
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
@@ -105,6 +108,7 @@
 
 ## HTML 
 
+- [denysdovhan/learnyouhtml](https://github.com/denysdovhan/learnyouhtml) - Learn you how to create your first web page
 - [lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
 - [caiorss/bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker) - Tool to create bookmarklet/ javascript apps to automate the web browser.
 - [dragon731012/-WORKING-bookmarklets-and-games](https://github.com/dragon731012/-WORKING-bookmarklets-and-games) - thanks guys so much for the stars and forks. over 60 working bookmarklets and games-please star and check out my discord server! Thanks! news: added cool cursor
@@ -136,6 +140,7 @@
 
 ## JavaScript 
 
+- [omarciovsena/abibliadigital](https://github.com/omarciovsena/abibliadigital) - A RESTful API for Bible
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [chhoumann/Templater_Templates](https://github.com/chhoumann/Templater_Templates) - My templates for the Templater Obsidian.md plugin.
 - [Pamela-Wang/Obsidian-Starter-Vaults](https://github.com/Pamela-Wang/Obsidian-Starter-Vaults) - This repo contains the templates used in my automated obsidian weekly review video and also an accompanying vault with the folder structure expected and plugins (periodic note settings etc)
@@ -220,7 +225,6 @@
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
-- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [jacqizee/Plantpedia](https://github.com/jacqizee/Plantpedia) - Encyclopedia for Houseplants! 🌸🪴🌱 Built with the MERN stack (MongoDB, Express.js, React, and Node.js), with Material UI components
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
@@ -627,6 +631,7 @@
 
 ## Ruby 
 
+- [seven1m/bible_api](https://github.com/seven1m/bible_api) - Ruby web app that serves JSON API for open and public domain bibles
 - [treflehq/trefle-api](https://github.com/treflehq/trefle-api) - 🍀 Trefle is a botanical JSON REST API for plants species, allowing you to search and query over all the registered species, and build the next gardening apps and farming robots.
 - [cheald/srp-bill-calculator](https://github.com/cheald/srp-bill-calculator) - Compute your power bill on APS & SRP's various billing plans
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
@@ -678,6 +683,7 @@
 
 ## TypeScript 
 
+- [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference) - Take Bible Study notes easily in the popular note-taking app Obsidian, with automatic verse and reference suggestions.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) - Plain text accounting in Obsidian.md
 - [danielo515/obsidian-modal-form](https://github.com/danielo515/obsidian-modal-form) - Define forms for filling data that you will be able to open from anywhere you can run JS
@@ -775,6 +781,7 @@
 - [ZaneH/piano-trainer](https://github.com/ZaneH/piano-trainer) - Memorize piano scales with ease! A piano practice program w/ MIDI support. Consider it an interactive reference manual 🎹
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
@@ -817,6 +824,7 @@
 
 ## Vue 
 
+- [morkro/happy-plants](https://github.com/morkro/happy-plants) - 🌵 Web application to manage plants
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [adv1996/sleeper-viz](https://github.com/adv1996/sleeper-viz) - Visualize Sleeper Fantasy Football
 
