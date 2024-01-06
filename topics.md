@@ -192,7 +192,7 @@
 - [lobehub/lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 Agent Index - This is the agent index for LobeChat. It accesses index.json from this repository to display a list of available agents for LobeChat to the agent market.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
-- [free-for-life/free-for-life](https://github.com/free-for-life/free-for-life) - A massive list including a huge amount of products and services that are completely free!
+- [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A massive list including a huge amount of products and services that are completely free!
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺 Discover the latest machine learning / AI courses on YouTube.
@@ -245,7 +245,7 @@
 - [treflehq/documentation](https://github.com/treflehq/documentation) - The Trefle API documentation and reference
 - [iamrbn/JSON-API-viewer](https://github.com/iamrbn/JSON-API-viewer) - Small script for a better view of (large) api json-response.
 - [roclark/sportsipy](https://github.com/roclark/sportsipy) - A free sports API written for python
-- [free-for-life/free-for-life](https://github.com/free-for-life/free-for-life) - A massive list including a huge amount of products and services that are completely free!
+- [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A massive list including a huge amount of products and services that are completely free!
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [splitbee/notion-api-worker](https://github.com/splitbee/notion-api-worker) - Notion as CMS with easy API access
 - [postmanlabs/postman-docs](https://github.com/postmanlabs/postman-docs) - Documentation for Postman, a collaboration platform for API development. Available for Mac, Windows, and Linux.
@@ -482,7 +482,7 @@
 - [dersvenhesse/awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable) - A curated list of awesome Scriptable scripts and widgets.
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
-- [free-for-life/free-for-life](https://github.com/free-for-life/free-for-life) - A massive list including a huge amount of products and services that are completely free!
+- [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A massive list including a huge amount of products and services that are completely free!
 - [promptslab/Awesome-Openai-GPTs](https://github.com/promptslab/Awesome-Openai-GPTs) - Awesome GPTs
 - [yulongwang12/awesome-gpt-store](https://github.com/yulongwang12/awesome-gpt-store) - This repo includes all customized GPTs on openai gpt store
 - [taranjeet/awesome-gpts](https://github.com/taranjeet/awesome-gpts) - Collection of all the GPTs created by the community
@@ -693,7 +693,7 @@
 
 ## code 
 
-- [free-for-life/free-for-life](https://github.com/free-for-life/free-for-life) - A massive list including a huge amount of products and services that are completely free!
+- [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A massive list including a huge amount of products and services that are completely free!
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 
 ## coding 
@@ -758,7 +758,7 @@
 ## data 
 
 - [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - A curated list of awesome JSON datasets that don't require authentication.
-- [free-for-life/free-for-life](https://github.com/free-for-life/free-for-life) - A massive list including a huge amount of products and services that are completely free!
+- [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A massive list including a huge amount of products and services that are completely free!
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [mrdbourke/machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
 
@@ -853,7 +853,7 @@
 ## design 
 
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
-- [free-for-life/free-for-life](https://github.com/free-for-life/free-for-life) - A massive list including a huge amount of products and services that are completely free!
+- [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A massive list including a huge amount of products and services that are completely free!
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [NARKOZ/guides](https://github.com/NARKOZ/guides) - Design and development guides
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
@@ -1593,6 +1593,7 @@
 
 ## others 
 
+- [amebalabs/Esse](https://github.com/amebalabs/Esse) - Swiss army knife of text transformation for iOS and macOS
 - [FrancescoGuarneri/AzLyricsAPI](https://github.com/FrancescoGuarneri/AzLyricsAPI) - API for AzLyrics. Description, features and roadmap in README.
 - [kzhovn/uri-commands-obsidian](https://github.com/kzhovn/uri-commands-obsidian) - Execute URIs from the command palette
 - [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri) - Advanced modes for Obsidian URI
@@ -2164,7 +2165,7 @@
 ## software 
 
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
-- [free-for-life/free-for-life](https://github.com/free-for-life/free-for-life) - A massive list including a huge amount of products and services that are completely free!
+- [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A massive list including a huge amount of products and services that are completely free!
 - [xiaoyu2er/productivity-tools](https://github.com/xiaoyu2er/productivity-tools) - 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
