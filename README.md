@@ -315,6 +315,7 @@
 
 ## Others 
 
+- [Twigonometry/Cybersecurity-Notes](https://github.com/Twigonometry/Cybersecurity-Notes) - My Markdown notes for all things cybersecurity
 - [krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024) - 
 - [agmmnn/starred](https://github.com/agmmnn/starred) - agmmnn's starred repos, updated daily! ✨
 - [faroukx/obsidian-homepage](https://github.com/faroukx/obsidian-homepage) - Obsidian homepage - Minimal and aesthetic template (with my unique features)
@@ -544,6 +545,7 @@
 
 ## Python 
 
+- [danymat/Obsidian-Markdown-Parser](https://github.com/danymat/Obsidian-Markdown-Parser) - This repository will give you tools to parse and fetch useful informations of your notes in your Obsidian vault.
 - [FrancescoGuarneri/AzLyricsAPI](https://github.com/FrancescoGuarneri/AzLyricsAPI) - API for AzLyrics. Description, features and roadmap in README.
 - [jackdoe/programming-for-kids](https://github.com/jackdoe/programming-for-kids) - book for parents and kids.
 - [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A script to effortlessly extract your entire ChatGPT data export from JSON files to nicely-formatted markdown files.
@@ -708,7 +710,7 @@
 - [javalent/obsidian-leaflet](https://github.com/javalent/obsidian-leaflet) - Adds interactive maps to Obsidian.md using Leaflet.js
 - [saml-dev/obsidian-custom-js](https://github.com/saml-dev/obsidian-custom-js) - An Obsidian plugin to allow users to reuse code blocks across all devices and OSes
 - [jgchristopher/obsidian-clipper](https://github.com/jgchristopher/obsidian-clipper) - Obsidian plugin that allows users to clip parts of a website into their obsidian daily note (or new note)
-- [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Webpage HTML Export lets you export single files or whole vaults as HTML websites or documents. It is similar to publish, but you get direct access to the exported HTML.
+- [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Lets you export single files or whole vaults as HTML websites or documents. It is similar to publish, but you get direct access to the exported HTML, with a focus on feature and style parity.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [dy-sh/obsidian-consistent-attachments-and-links](https://github.com/dy-sh/obsidian-consistent-attachments-and-links) - Obsidian plugin. Move note with attachments.
