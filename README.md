@@ -274,6 +274,7 @@
 
 ## Jupyter Notebook 
 
+- [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Generative AI developer site
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [MiesnerJacob/learn-prompting](https://github.com/MiesnerJacob/learn-prompting) - The most comprehensive prompt engineering course available.
 - [pollinations/hive](https://github.com/pollinations/hive) - Generative Colab notebooks for Pollinations.AI
@@ -714,6 +715,8 @@
 
 ## TypeScript 
 
+- [TfTHacker/obsidian42-HelpMate](https://github.com/TfTHacker/obsidian42-HelpMate) - HelpMate for Obsidian - providing help and documentation from within Obsidian
+- [nguyenvanduocit/obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) - Empower your Obsidian notes with seamless web integration.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [czottmann/obsidian-blockquote-levels](https://github.com/czottmann/obsidian-blockquote-levels) - A plugin for Obsidian (https://obsidian.md) that adds commands for increasing/decreasing the blockquote level of the current line or selection(s).
 - [invariant/obsidian-archivebox-plugin](https://github.com/invariant/obsidian-archivebox-plugin) - An Obsidian plugin to submit file links to an ArchiveBox instance.
