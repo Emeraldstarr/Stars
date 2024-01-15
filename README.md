@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [AppleScript](#applescript)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -41,6 +42,10 @@
 - [Vim Script](#vim-script)
 - [Visual Basic](#visual-basic)
 - [Vue](#vue)
+
+## AppleScript 
+
+- [briangonzalez/awesome-applescripts](https://github.com/briangonzalez/awesome-applescripts) - A collection of awesome, useful, not-so-obvious applescripts.
 
 ## Batchfile 
 
@@ -330,6 +335,7 @@
 
 ## Others 
 
+- [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
 - [Twigonometry/Cybersecurity-Notes](https://github.com/Twigonometry/Cybersecurity-Notes) - My Markdown notes for all things cybersecurity
 - [krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024) - 
 - [agmmnn/starred](https://github.com/agmmnn/starred) - agmmnn's starred repos, updated daily! ✨
@@ -699,6 +705,7 @@
 
 ## Swift 
 
+- [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
