@@ -45,6 +45,8 @@
 
 ## AppleScript 
 
+- [extracts/mac-scripting](https://github.com/extracts/mac-scripting) - Automation scripts for macOS
+- [mhucka/devonthink-hacks](https://github.com/mhucka/devonthink-hacks) - Scripts and other things for working with DEVONthink, a personal information management system.
 - [briangonzalez/awesome-applescripts](https://github.com/briangonzalez/awesome-applescripts) - A collection of awesome, useful, not-so-obvious applescripts.
 
 ## Batchfile 
@@ -152,6 +154,7 @@
 
 ## JavaScript 
 
+- [torystosse/writerly-api](https://github.com/torystosse/writerly-api) - A writing prompt generator.
 - [konhi/obsidian-community-list](https://github.com/konhi/obsidian-community-list) - 📃 • updated list of community themes & plugins for obsidian.md!
 - [mayurankv/Obsidian-Code-Styler](https://github.com/mayurankv/Obsidian-Code-Styler) - A plugin for Obsidian.md for styling codeblocks and inline code
 - [noonesimg/obsidian-audio-player](https://github.com/noonesimg/obsidian-audio-player) - audio player plugin with bookmarks for Obsidian.md
@@ -280,6 +283,7 @@
 
 ## Jupyter Notebook 
 
+- [bjpayne/mortgage-underwriting-assistant](https://github.com/bjpayne/mortgage-underwriting-assistant) - Udacity Data Science Capstone Project - Mortgage Underwriting Asistant
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Generative AI developer site
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [MiesnerJacob/learn-prompting](https://github.com/MiesnerJacob/learn-prompting) - The most comprehensive prompt engineering course available.
@@ -335,6 +339,7 @@
 
 ## Others 
 
+- [bcdavasconcelos/DEVONthink-3](https://github.com/bcdavasconcelos/DEVONthink-3) - Applescripts, smart rules and templates for DEVONthink 3
 - [bhagyas/app-urls](https://github.com/bhagyas/app-urls) - A long list of App URLs for iOS, macOS and Android
 - [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
 - [Twigonometry/Cybersecurity-Notes](https://github.com/Twigonometry/Cybersecurity-Notes) - My Markdown notes for all things cybersecurity
@@ -724,6 +729,7 @@
 
 ## TypeScript 
 
+- [ryanjamurphy/DEVONlink-obsidian](https://github.com/ryanjamurphy/DEVONlink-obsidian) - Open notes indexed in DEVONthink in, well, DEVONthink
 - [TfTHacker/obsidian42-HelpMate](https://github.com/TfTHacker/obsidian42-HelpMate) - HelpMate for Obsidian - providing help and documentation from within Obsidian
 - [nguyenvanduocit/obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) - Empower your Obsidian notes with seamless web integration.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
