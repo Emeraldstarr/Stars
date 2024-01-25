@@ -600,6 +600,7 @@
 
 ## bash 
 
+- [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -747,6 +748,7 @@
 
 ## css 
 
+- [SyedUmairCodes/self-taught-web-developer](https://github.com/SyedUmairCodes/self-taught-web-developer) - A comprehensive list of YouTube tutorials to learn Full-stack Web Development.
 - [chetachiezikeuzor/MySnippets-Plugin](https://github.com/chetachiezikeuzor/MySnippets-Plugin) - MySnippets is a plugin that adds a status bar menu allowing the user to quickly manage their snippets within the comfort of their workspace 🖌.
 - [ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets) - This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand
 - [micromata/awesome-css-learning](https://github.com/micromata/awesome-css-learning) - A tiny list limited to the best CSS Learning Resources
@@ -898,6 +900,7 @@
 
 ## docker 
 
+- [SyedUmairCodes/self-taught-web-developer](https://github.com/SyedUmairCodes/self-taught-web-developer) - A comprehensive list of YouTube tutorials to learn Full-stack Web Development.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -1109,6 +1112,7 @@
 
 ## graphql 
 
+- [SyedUmairCodes/self-taught-web-developer](https://github.com/SyedUmairCodes/self-taught-web-developer) - A comprehensive list of YouTube tutorials to learn Full-stack Web Development.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 
@@ -1272,6 +1276,7 @@
 
 ## javascript 
 
+- [SyedUmairCodes/self-taught-web-developer](https://github.com/SyedUmairCodes/self-taught-web-developer) - A comprehensive list of YouTube tutorials to learn Full-stack Web Development.
 - [lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
 - [andrew--r/channels](https://github.com/andrew--r/channels) - 📺 A collection of useful YouTube channels for javascript developers and web designers
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
@@ -1385,6 +1390,7 @@
 
 ## learning 
 
+- [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [jackdoe/programming-for-kids](https://github.com/jackdoe/programming-for-kids) - book for parents and kids.
 - [denysdovhan/learnyouhtml](https://github.com/denysdovhan/learnyouhtml) - Learn you how to create your first web page
 - [lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
@@ -1519,6 +1525,7 @@
 
 ## mongodb 
 
+- [SyedUmairCodes/self-taught-web-developer](https://github.com/SyedUmairCodes/self-taught-web-developer) - A comprehensive list of YouTube tutorials to learn Full-stack Web Development.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [jacqizee/Plantpedia](https://github.com/jacqizee/Plantpedia) - Encyclopedia for Houseplants! 🌸🪴🌱 Built with the MERN stack (MongoDB, Express.js, React, and Node.js), with Material UI components
@@ -1644,6 +1651,10 @@
 
 ## others 
 
+- [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
+- [sophi-li/OKRs-self-learning](https://github.com/sophi-li/OKRs-self-learning) - Sophia's OKRs for learning how to code.
+- [coderplex-org/learn](https://github.com/coderplex-org/learn) - Open Source Learning Guides to master your favorite technology
+- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 - [torystosse/writerly-api](https://github.com/torystosse/writerly-api) - A writing prompt generator.
 - [bjpayne/mortgage-underwriting-assistant](https://github.com/bjpayne/mortgage-underwriting-assistant) - Udacity Data Science Capstone Project - Mortgage Underwriting Asistant
@@ -2052,6 +2063,7 @@
 
 ## postgresql 
 
+- [SyedUmairCodes/self-taught-web-developer](https://github.com/SyedUmairCodes/self-taught-web-developer) - A comprehensive list of YouTube tutorials to learn Full-stack Web Development.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
@@ -2084,6 +2096,7 @@
 
 ## python 
 
+- [SyedUmairCodes/self-taught-web-developer](https://github.com/SyedUmairCodes/self-taught-web-developer) - A comprehensive list of YouTube tutorials to learn Full-stack Web Development.
 - [tillahoffmann/obsidian-jupyter](https://github.com/tillahoffmann/obsidian-jupyter) - 
 - [danymat/Obsidian-Markdown-Parser](https://github.com/danymat/Obsidian-Markdown-Parser) - This repository will give you tools to parse and fetch useful informations of your notes in your Obsidian vault.
 - [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A script to effortlessly extract your entire ChatGPT data export from JSON files to nicely-formatted markdown files.
@@ -2176,6 +2189,7 @@
 
 ## react 
 
+- [SyedUmairCodes/self-taught-web-developer](https://github.com/SyedUmairCodes/self-taught-web-developer) - A comprehensive list of YouTube tutorials to learn Full-stack Web Development.
 - [jaywcjlove/awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) - Collect JS Frameworks, Web components library and Admin Template.
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [RafaelGB/obsidian-db-folder](https://github.com/RafaelGB/obsidian-db-folder) - Obsidian Plugin to Allow Notion like database based on folders
@@ -2283,6 +2297,7 @@
 
 ## shell 
 
+- [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
 - [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles, shells, and terminals inside Obsidian.
@@ -2307,6 +2322,7 @@
 
 ## sql 
 
+- [SyedUmairCodes/self-taught-web-developer](https://github.com/SyedUmairCodes/self-taught-web-developer) - A comprehensive list of YouTube tutorials to learn Full-stack Web Development.
 - [Moataz-Elmesmary/Data-Science-Roadmap](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap) - Data Science Roadmap from A to Z
 - [apptension/developer-handbook](https://github.com/apptension/developer-handbook) - An opinionated guide on how to become a professional Web/Mobile App Developer.
 
@@ -2415,6 +2431,7 @@
 
 ## vue 
 
+- [SyedUmairCodes/self-taught-web-developer](https://github.com/SyedUmairCodes/self-taught-web-developer) - A comprehensive list of YouTube tutorials to learn Full-stack Web Development.
 - [jaywcjlove/awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) - Collect JS Frameworks, Web components library and Admin Template.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
