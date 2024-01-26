@@ -515,7 +515,7 @@
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and op
 - [lvwzhen/tools](https://github.com/lvwzhen/tools) - Tools Online
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [gillesheinesch/opensource-discordbots](https://github.com/gillesheinesch/opensource-discordbots) - Curated list of awesome open-source Discord Bots
@@ -763,7 +763,7 @@
 - [ennioitaliano/obsidian-auto-glossary](https://github.com/ennioitaliano/obsidian-auto-glossary) - Obsidian plugin that allows user to create a glossary of notes or a MOC from a selected folder.
 - [lukasbach/obsidian-code-files](https://github.com/lukasbach/obsidian-code-files) - Plugin for ObsidianMD to show and edit code files along other notes.
 - [Feel-ix-343/obsidian-canvas-moc](https://github.com/Feel-ix-343/obsidian-canvas-moc) - Converts MOC note files to an obsidian canvas
-- [l1xnan/obsidian-better-export-pdf](https://github.com/l1xnan/obsidian-better-export-pdf) - Obsidian PDF export enhancement plugin that adds the ability to export bookmarks outline and page numbers to PDF
+- [l1xnan/obsidian-better-export-pdf](https://github.com/l1xnan/obsidian-better-export-pdf) - Obsidian PDF export enhancement plugin
 - [ruivieira/obsidian-plugin-logseq](https://github.com/ruivieira/obsidian-plugin-logseq) - A simple plugin to make Obsidian's preview of LogSeq markdown a bit more pleasant.
 - [chrisgrieser/obsidian-theme-design-utilities](https://github.com/chrisgrieser/obsidian-theme-design-utilities) - Some Utilities and Quality-of-Life Features for Designers of Obsidian Themes
 - [franciskafieh/obsidian-list-modified](https://github.com/franciskafieh/obsidian-list-modified) - 🪨 A simple obsidian plugin that links all modified files meeting certain criteria to a daily note
