@@ -171,6 +171,7 @@
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [termux](#termux)
 - [testing](#testing)
 - [twitter](#twitter)
 - [typescript](#typescript)
@@ -228,6 +229,7 @@
 
 ## android 
 
+- [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -601,6 +603,7 @@
 
 ## bash 
 
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [SaniTheWay/LearnBase-LinuxTerminalCommands](https://github.com/SaniTheWay/LearnBase-LinuxTerminalCommands) - A base where you learn basic Linux Terminal Commands and can apply them by yourself.
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
@@ -689,6 +692,7 @@
 
 ## cli 
 
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [obsidian-tools/obsidian-tools](https://github.com/obsidian-tools/obsidian-tools) - An unofficial collection of tools that helps you build plugins for obsidian.md
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -1066,6 +1070,7 @@
 
 ## git 
 
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
@@ -1135,6 +1140,7 @@
 
 ## hacktoberfest 
 
+- [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [SaniTheWay/LearnBase-LinuxTerminalCommands](https://github.com/SaniTheWay/LearnBase-LinuxTerminalCommands) - A base where you learn basic Linux Terminal Commands and can apply them by yourself.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) - 
@@ -1184,6 +1190,7 @@
 
 ## home-assistant 
 
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 
@@ -1419,6 +1426,7 @@
 
 ## linux 
 
+- [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [SaniTheWay/LearnBase-LinuxTerminalCommands](https://github.com/SaniTheWay/LearnBase-LinuxTerminalCommands) - A base where you learn basic Linux Terminal Commands and can apply them by yourself.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -1500,6 +1508,7 @@
 
 ## markdown 
 
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [LilaRest/obsidian-custom-classes](https://github.com/LilaRest/obsidian-custom-classes) - A minimal Obsidian plugin that allows you to add your own HTML classes to chosen Markdown elements directly from your notes.
 - [cristianvasquez/obsidian-prettify](https://github.com/cristianvasquez/obsidian-prettify) - A markdown prettifier for obsidian
 - [ganesshkumar/obsidian-excel-to-markdown-table](https://github.com/ganesshkumar/obsidian-excel-to-markdown-table) - An Obsidian plugin to paste data from Microsoft Excel, Google Sheets, Apple Numbers and LibreOffice Calc as Markdown tables in Obsidian editor.
@@ -2103,6 +2112,7 @@
 
 ## python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [SyedUmairCodes/self-taught-web-developer](https://github.com/SyedUmairCodes/self-taught-web-developer) - A comprehensive list of YouTube tutorials to learn Full-stack Web Development.
 - [tillahoffmann/obsidian-jupyter](https://github.com/tillahoffmann/obsidian-jupyter) - 
 - [danymat/Obsidian-Markdown-Parser](https://github.com/danymat/Obsidian-Markdown-Parser) - This repository will give you tools to parse and fetch useful informations of your notes in your Obsidian vault.
@@ -2304,6 +2314,7 @@
 
 ## shell 
 
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
@@ -2393,6 +2404,10 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 
+## termux 
+
+- [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
+
 ## testing 
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
@@ -2428,6 +2443,7 @@
 
 ## vim 
 
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
