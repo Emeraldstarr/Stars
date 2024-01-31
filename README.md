@@ -743,6 +743,8 @@
 
 ## TypeScript 
 
+- [akosbalasko/zoottelkeeper-obsidian-plugin](https://github.com/akosbalasko/zoottelkeeper-obsidian-plugin) - Obsidian plugin of Zoottelkeeper: An automated folder-level index file generator and maintainer.
+- [akosbalasko/obsidian-dataview-scripthub](https://github.com/akosbalasko/obsidian-dataview-scripthub) - It's a place to collect awesome scripts developed on top of Obisidian's Dataview plugin
 - [ryanjamurphy/DEVONlink-obsidian](https://github.com/ryanjamurphy/DEVONlink-obsidian) - Open notes indexed in DEVONthink in, well, DEVONthink
 - [TfTHacker/obsidian42-HelpMate](https://github.com/TfTHacker/obsidian42-HelpMate) - HelpMate for Obsidian - providing help and documentation from within Obsidian
 - [nguyenvanduocit/obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) - Empower your Obsidian notes with seamless web integration.
@@ -831,7 +833,7 @@
 - [javalent/obsidian-leaflet](https://github.com/javalent/obsidian-leaflet) - Adds interactive maps to Obsidian.md using Leaflet.js
 - [saml-dev/obsidian-custom-js](https://github.com/saml-dev/obsidian-custom-js) - An Obsidian plugin to allow users to reuse code blocks across all devices and OSes
 - [jgchristopher/obsidian-clipper](https://github.com/jgchristopher/obsidian-clipper) - Obsidian plugin that allows users to clip parts of a website into their obsidian daily note (or new note)
-- [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Export full websites or html documents from single files, canvas pages, or whole vaults. Similar to obsidian's publish or digital garden, but with direct access to the exported HTML. Focuses on flexib
+- [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style p
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [dy-sh/obsidian-consistent-attachments-and-links](https://github.com/dy-sh/obsidian-consistent-attachments-and-links) - Obsidian plugin. Move note with attachments.
