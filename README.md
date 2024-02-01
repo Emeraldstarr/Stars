@@ -157,6 +157,7 @@
 
 ## JavaScript 
 
+- [ryanschiang/chatgpt-export](https://github.com/ryanschiang/chatgpt-export) - Script to share and export  ChatGPT chat logs to Markdown, JSON, or as Image (PNG)
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [torystosse/writerly-api](https://github.com/torystosse/writerly-api) - A writing prompt generator.
 - [konhi/obsidian-community-list](https://github.com/konhi/obsidian-community-list) - 📃 • updated list of community themes & plugins for obsidian.md!
@@ -743,6 +744,7 @@
 
 ## TypeScript 
 
+- [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 - [akosbalasko/zoottelkeeper-obsidian-plugin](https://github.com/akosbalasko/zoottelkeeper-obsidian-plugin) - Obsidian plugin of Zoottelkeeper: An automated folder-level index file generator and maintainer.
 - [akosbalasko/obsidian-dataview-scripthub](https://github.com/akosbalasko/obsidian-dataview-scripthub) - It's a place to collect awesome scripts developed on top of Obisidian's Dataview plugin
 - [ryanjamurphy/DEVONlink-obsidian](https://github.com/ryanjamurphy/DEVONlink-obsidian) - Open notes indexed in DEVONthink in, well, DEVONthink
