@@ -1674,6 +1674,7 @@
 
 ## others 
 
+- [Fffrank/southwest-alerts](https://github.com/Fffrank/southwest-alerts) - 
 - [VBA-tools/VBA-JSON](https://github.com/VBA-tools/VBA-JSON) - JSON conversion and parsing for VBA
 - [Schaka/media-server-guide](https://github.com/Schaka/media-server-guide) - A full guide for creating and maintaining your media server at home
 - [trganda/obsidian-attachment-management](https://github.com/trganda/obsidian-attachment-management) - Attachment Management of Obsidian
