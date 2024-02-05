@@ -109,7 +109,7 @@
 ## Go 
 
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-- [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
+- [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Apple Shortcuts Programming Language 🍒
 - [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases) - Bible versions and cross-reference databases.
 - [pandodao/botastic](https://github.com/pandodao/botastic) - An AI framework for building cool things.
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
@@ -157,6 +157,7 @@
 
 ## JavaScript 
 
+- [Airtable/airtable.js](https://github.com/Airtable/airtable.js) - Airtable javascript client
 - [ryanschiang/chatgpt-export](https://github.com/ryanschiang/chatgpt-export) - Script to share and export  ChatGPT chat logs to Markdown, JSON, or as Image (PNG)
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [torystosse/writerly-api](https://github.com/torystosse/writerly-api) - A writing prompt generator.
@@ -583,6 +584,8 @@
 
 ## Python 
 
+- [simonw/airtable-export](https://github.com/simonw/airtable-export) - Export Airtable data to YAML, JSON or SQLite files on disk
+- [gtalarico/pyairtable](https://github.com/gtalarico/pyairtable) - Python Api Client for Airtable
 - [Fffrank/southwest-alerts](https://github.com/Fffrank/southwest-alerts) - 
 - [natelandau/obsidian-metadata](https://github.com/natelandau/obsidian-metadata) - Batch updates to metadata in an Obsidian vault
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
@@ -748,6 +751,7 @@
 
 ## TypeScript 
 
+- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [trganda/obsidian-attachment-management](https://github.com/trganda/obsidian-attachment-management) - Attachment Management of Obsidian
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 - [akosbalasko/zoottelkeeper-obsidian-plugin](https://github.com/akosbalasko/zoottelkeeper-obsidian-plugin) - Obsidian plugin of Zoottelkeeper: An automated folder-level index file generator and maintainer.
