@@ -108,6 +108,7 @@
 
 ## Go 
 
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
 - [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases) - Bible versions and cross-reference databases.
@@ -158,6 +159,8 @@
 
 ## JavaScript 
 
+- [elementor/elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
+- [bwp91/homebridge-govee](https://github.com/bwp91/homebridge-govee) - Homebridge plugin to integrate Govee devices into HomeKit.
 - [vojtamolda/homebridge-bluetooth](https://github.com/vojtamolda/homebridge-bluetooth) - Homebridge plugin to expose BLE peripherals as HomeKit accessories.
 - [Airtable/airtable.js](https://github.com/Airtable/airtable.js) - Airtable javascript client
 - [ryanschiang/chatgpt-export](https://github.com/ryanschiang/chatgpt-export) - Script to share and export  ChatGPT chat logs to Markdown, JSON, or as Image (PNG)
@@ -347,6 +350,7 @@
 
 ## Others 
 
+- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [Kussie/awesome-home-media-server](https://github.com/Kussie/awesome-home-media-server) - This is a carefully compiled list of remarkable projects with the focus on home media.
 - [SaniTheWay/LearnBase-LinuxTerminalCommands](https://github.com/SaniTheWay/LearnBase-LinuxTerminalCommands) - A base where you learn basic Linux Terminal Commands and can apply them by yourself.
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
@@ -584,6 +588,9 @@
 
 ## Python 
 
+- [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The middleware for building custom AI, enabling smarter organizations.
 - [simonw/airtable-export](https://github.com/simonw/airtable-export) - Export Airtable data to YAML, JSON or SQLite files on disk
 - [gtalarico/pyairtable](https://github.com/gtalarico/pyairtable) - Python Api Client for Airtable
 - [Fffrank/southwest-alerts](https://github.com/Fffrank/southwest-alerts) - 
@@ -695,6 +702,8 @@
 
 ## Rust 
 
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [trashhalo/obsidian-extract-url](https://github.com/trashhalo/obsidian-extract-url) - Plugin to extract markdown out of urls
 - [bayne/dot-http](https://github.com/bayne/dot-http) - dot-http is a text-based scriptable HTTP client
 
@@ -752,6 +761,13 @@
 
 ## TypeScript 
 
+- [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [AlexGustafsson/homebridge-wol](https://github.com/AlexGustafsson/homebridge-wol) - A Wake on Lan plugin for Homebridge
+- [homebridge/verified](https://github.com/homebridge/verified) - Plugins Verified by Homebridge
+- [oznu/homebridge-gsh](https://github.com/oznu/homebridge-gsh) - Allow Google Assistant to control your Homebridge accessories.
+- [plasticrake/homebridge-tplink-smarthome](https://github.com/plasticrake/homebridge-tplink-smarthome) - TP-Link Smarthome Plugin for Homebridge
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [trganda/obsidian-attachment-management](https://github.com/trganda/obsidian-attachment-management) - Attachment Management of Obsidian
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
