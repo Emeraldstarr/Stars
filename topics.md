@@ -1736,6 +1736,8 @@
 
 ## others 
 
+- [alexandru-dinu/obsidian-sortable](https://github.com/alexandru-dinu/obsidian-sortable) - Table sorting plugin for https://obsidian.md
+- [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business) - Using Obsidian.... For Business!
 - [simonw/airtable-export](https://github.com/simonw/airtable-export) - Export Airtable data to YAML, JSON or SQLite files on disk
 - [Airtable/airtable.js](https://github.com/Airtable/airtable.js) - Airtable javascript client
 - [Fffrank/southwest-alerts](https://github.com/Fffrank/southwest-alerts) - 
