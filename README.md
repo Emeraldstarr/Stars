@@ -19,6 +19,7 @@
 - [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [MATLAB](#matlab)
 - [MDX](#mdx)
@@ -291,6 +292,10 @@
 - [EthanCoulter/Offseason-Fantasy](https://github.com/EthanCoulter/Offseason-Fantasy) - An offseason fantasy football website using Sleeper's API
 - [vbudhram/fantasy-football-io](https://github.com/vbudhram/fantasy-football-io) - Fantasy Football News, Player and League API
 - [flipperbw/FantasyPlus](https://github.com/flipperbw/FantasyPlus) - Adds FantasyPros projections to fantasy football sites.
+
+## Jinja 
+
+- [hassio-addons/addon-adguard-home](https://github.com/hassio-addons/addon-adguard-home) - AdGuard Home - Home Assistant Community Add-ons
 
 ## Jupyter Notebook 
 
