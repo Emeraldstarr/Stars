@@ -162,6 +162,7 @@
 
 ## JavaScript 
 
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a "theme" for HomeAssistant
 - [TBens/lovelace-ui-minimalist](https://github.com/TBens/lovelace-ui-minimalist) - 🌻 Lovelace UI • Minimalist
 - [custom-cards/secondaryinfo-entity-row](https://github.com/custom-cards/secondaryinfo-entity-row) - Custom entity row for HomeAssistant, providing additional types of data to be displayed in the secondary info area of the Lovelace Entities card
@@ -737,6 +738,7 @@
 
 ## Shell 
 
+- [LinkedInLearning/learning-linux-command-line-3005201](https://github.com/LinkedInLearning/learning-linux-command-line-3005201) - Learning Linux Command Line
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [Schaka/media-server-guide](https://github.com/Schaka/media-server-guide) - A full guide for creating and maintaining your media server at home
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
