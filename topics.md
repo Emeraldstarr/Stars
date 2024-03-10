@@ -259,7 +259,7 @@
 
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [gtalarico/pyairtable](https://github.com/gtalarico/pyairtable) - Python Api Client for Airtable
-- [Rooyca/obsidian-api-request](https://github.com/Rooyca/obsidian-api-request) - This is a plugin for Obsidian that allows you to make API requests and get the response in the form of a JSON file
+- [Rooyca/obsidian-api-request](https://github.com/Rooyca/obsidian-api-request) - This is a plugin for Obsidian that allows you to make API requests and get the response in the form of a JSON, TXT and MD file
 - [omarciovsena/abibliadigital](https://github.com/omarciovsena/abibliadigital) - A RESTful API for Bible
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [treflehq/documentation](https://github.com/treflehq/documentation) - The Trefle API documentation and reference
@@ -2553,7 +2553,7 @@
 ## telegram 
 
 - [slpbx/obsidian-plugin](https://github.com/slpbx/obsidian-plugin) - Save data directly to Obsidian with a specified template. Capture from Telegram, WhatsApp, Slack, Email, SMS, Raycast and more.
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## tensorflow 
 
@@ -2582,7 +2582,7 @@
 
 ## twitter 
 
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 
 ## typescript 
