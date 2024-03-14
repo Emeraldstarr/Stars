@@ -259,7 +259,7 @@
 
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [gtalarico/pyairtable](https://github.com/gtalarico/pyairtable) - Python Api Client for Airtable
-- [Rooyca/obsidian-api-request](https://github.com/Rooyca/obsidian-api-request) - This is a plugin for Obsidian that allows you to make API requests and get the response in the form of a JSON, TXT and MD file
+- [Rooyca/obsidian-api-request](https://github.com/Rooyca/obsidian-api-request) - Obsidian plugin that allows you to make API requests and get responses in: JSON, TXT and MD file
 - [omarciovsena/abibliadigital](https://github.com/omarciovsena/abibliadigital) - A RESTful API for Bible
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [treflehq/documentation](https://github.com/treflehq/documentation) - The Trefle API documentation and reference
@@ -313,6 +313,7 @@
 
 ## awesome 
 
+- [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [hobbyquaker/awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt) - A curated list of MQTT related stuff. :sparkles:
@@ -477,6 +478,7 @@
 
 ## awesome-list 
 
+- [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [hobbyquaker/awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt) - A curated list of MQTT related stuff. :sparkles:
@@ -632,6 +634,7 @@
 
 ## bash 
 
+- [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [SaniTheWay/LearnBase-LinuxTerminalCommands](https://github.com/SaniTheWay/LearnBase-LinuxTerminalCommands) - A base where you learn basic Linux Terminal Commands and can apply them by yourself.
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
@@ -1786,6 +1789,7 @@
 
 ## others 
 
+- [toddmotto/public-apis](https://github.com/toddmotto/public-apis) - A collective list of free APIs
 - [LinkedInLearning/learning-linux-command-line-3005201](https://github.com/LinkedInLearning/learning-linux-command-line-3005201) - Learning Linux Command Line
 - [TBens/lovelace-ui-minimalist](https://github.com/TBens/lovelace-ui-minimalist) - 🌻 Lovelace UI • Minimalist
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever y
