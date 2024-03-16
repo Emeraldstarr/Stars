@@ -313,6 +313,7 @@
 
 ## awesome 
 
+- [lmammino/awesome-learn-by-playing](https://github.com/lmammino/awesome-learn-by-playing) - A collection of tech resources that allow you to learn new things by playing games
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -478,6 +479,9 @@
 
 ## awesome-list 
 
+- [imaurer/awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research.
+- [lmammino/awesome-learn-by-playing](https://github.com/lmammino/awesome-learn-by-playing) - A collection of tech resources that allow you to learn new things by playing games
+- [burningtree/awesome-json](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -663,6 +667,7 @@
 
 ## chatgpt 
 
+- [imaurer/awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research.
 - [ryanschiang/chatgpt-export](https://github.com/ryanschiang/chatgpt-export) - Script to share and export  ChatGPT chat logs to Markdown, JSON, or as Image (PNG)
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 - [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A script to effortlessly extract your entire ChatGPT data export from JSON files to nicely-formatted markdown files.
@@ -754,6 +759,7 @@
 
 ## coding 
 
+- [lmammino/awesome-learn-by-playing](https://github.com/lmammino/awesome-learn-by-playing) - A collection of tech resources that allow you to learn new things by playing games
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 
 ## compiler 
@@ -1087,6 +1093,7 @@
 
 ## game 
 
+- [lmammino/awesome-learn-by-playing](https://github.com/lmammino/awesome-learn-by-playing) - A collection of tech resources that allow you to learn new things by playing games
 - [michelpereira/awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding) - A curated list of games that can teach you how to learn a programming language.
 - [sightread/sightread](https://github.com/sightread/sightread) - 🎹 Learn to play piano
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
@@ -1457,6 +1464,7 @@
 
 ## json 
 
+- [burningtree/awesome-json](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A script to effortlessly extract your entire ChatGPT data export from JSON files to nicely-formatted markdown files.
 - [godlytalias/Bible-Database](https://github.com/godlytalias/Bible-Database) - Bible databases as XML, JSON, SQL & SQLITE3 Database format for various languages. Developers can download it freely for their development works. Freely received, freely give.
@@ -1494,6 +1502,7 @@
 
 ## learning 
 
+- [lmammino/awesome-learn-by-playing](https://github.com/lmammino/awesome-learn-by-playing) - A collection of tech resources that allow you to learn new things by playing games
 - [SaniTheWay/LearnBase-LinuxTerminalCommands](https://github.com/SaniTheWay/LearnBase-LinuxTerminalCommands) - A base where you learn basic Linux Terminal Commands and can apply them by yourself.
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [jackdoe/programming-for-kids](https://github.com/jackdoe/programming-for-kids) - book for parents and kids.
@@ -1789,6 +1798,8 @@
 
 ## others 
 
+- [taranjeet/awesome-gpt4](https://github.com/taranjeet/awesome-gpt4) - Curated list of awesome resources, use cases and demos for GPT-4
+- [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [toddmotto/public-apis](https://github.com/toddmotto/public-apis) - A collective list of free APIs
 - [LinkedInLearning/learning-linux-command-line-3005201](https://github.com/LinkedInLearning/learning-linux-command-line-3005201) - Learning Linux Command Line
 - [TBens/lovelace-ui-minimalist](https://github.com/TBens/lovelace-ui-minimalist) - 🌻 Lovelace UI • Minimalist
@@ -1893,7 +1904,7 @@
 - [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri) - Advanced modes for Obsidian URI
 - [esteinmann/chatgpt-convdown](https://github.com/esteinmann/chatgpt-convdown) - 
 - [sylhare/Excel_VBA](https://github.com/sylhare/Excel_VBA) - :necktie: Some Excel macros
-- [tienduy-nguyen/vba-excel](https://github.com/tienduy-nguyen/vba-excel) - My collection of macros VBA Excel
+- [tduyng/vba-excel](https://github.com/tduyng/vba-excel) - My collection of macros VBA Excel
 - [skilbjo/excel-vba-formatting-macros](https://github.com/skilbjo/excel-vba-formatting-macros) - 
 - [tdalon/outlook-vba](https://github.com/tdalon/outlook-vba) - Collection of Outlook macros/vba code I use
 - [AllenMattson/VBA](https://github.com/AllenMattson/VBA) - Code Blocks relating to everything VBA
@@ -2244,6 +2255,7 @@
 
 ## programming 
 
+- [lmammino/awesome-learn-by-playing](https://github.com/lmammino/awesome-learn-by-playing) - A collection of tech resources that allow you to learn new things by playing games
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
@@ -2259,6 +2271,7 @@
 
 ## python 
 
+- [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [hacs/integration](https://github.com/hacs/integration) - HACS gives you a powerful UI to handle downloads of all your custom needs.
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
