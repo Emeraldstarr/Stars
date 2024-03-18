@@ -805,7 +805,7 @@
 - [custom-cards/slider-button-card](https://github.com/custom-cards/slider-button-card) - A button card with integrated slider
 - [alexandru-dinu/obsidian-sortable](https://github.com/alexandru-dinu/obsidian-sortable) - Table sorting plugin for https://obsidian.md
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [AlexGustafsson/homebridge-wol](https://github.com/AlexGustafsson/homebridge-wol) - A Wake on Lan plugin for Homebridge
 - [homebridge/verified](https://github.com/homebridge/verified) - Plugins Verified by Homebridge
