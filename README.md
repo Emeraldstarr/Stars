@@ -614,6 +614,7 @@
 
 ## Python 
 
+- [ericeya/mortgage-buddy](https://github.com/ericeya/mortgage-buddy) - Mortgage calculator and simple qualification check terminal program. A little taste of mortgage lending fun facts coming from professional mortgage underwriter.
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [toddmotto/public-apis](https://github.com/toddmotto/public-apis) - A collective list of free APIs
 - [geekofweek/homeassistant](https://github.com/geekofweek/homeassistant) - Example Home Assistant Configs
@@ -712,6 +713,7 @@
 
 ## R 
 
+- [toddwschneider/agency-loan-level](https://github.com/toddwschneider/agency-loan-level) - Loan-level analysis of Fannie Mae and Freddie Mac data
 - [qinwf/awesome-R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks and software.
 - [njbultman/sleeperapi](https://github.com/njbultman/sleeperapi) - Helper Functions Around Sleeper API
 - [nflverse/nflverse-pbp](https://github.com/nflverse/nflverse-pbp) - builds play by play and player stats for nflverse/nflverse-data
