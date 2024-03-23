@@ -1384,6 +1384,7 @@
 ## javascript 
 
 - [pkozul/ha-floorplan](https://github.com/pkozul/ha-floorplan) - Floorplan for Home Assistant
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [SyedUmairCodes/self-taught-web-developer](https://github.com/SyedUmairCodes/self-taught-web-developer) - A comprehensive list of YouTube tutorials to learn Full-stack Web Development.
 - [lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
@@ -1902,7 +1903,6 @@
 - [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 - [vslinko/obsidian-outliner](https://github.com/vslinko/obsidian-outliner) - Work with your lists like in Workflowy or RoamResearch
 - [amebalabs/Esse](https://github.com/amebalabs/Esse) - Swiss army knife of text transformation for iOS and macOS
-- [FrancescoGuarneri/AzLyricsAPI](https://github.com/FrancescoGuarneri/AzLyricsAPI) - API for AzLyrics. Description, features and roadmap in README.
 - [kzhovn/uri-commands-obsidian](https://github.com/kzhovn/uri-commands-obsidian) - Execute URIs from the command palette
 - [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri) - Advanced modes for Obsidian URI
 - [esteinmann/chatgpt-convdown](https://github.com/esteinmann/chatgpt-convdown) - 
@@ -2608,6 +2608,7 @@
 ## typescript 
 
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [Feel-ix-343/obsidian-canvas-moc](https://github.com/Feel-ix-343/obsidian-canvas-moc) - Converts MOC note files to an obsidian canvas
 - [tomzorz/obsidian-link-archive](https://github.com/tomzorz/obsidian-link-archive) - Link Archive plugin for Obsidian
