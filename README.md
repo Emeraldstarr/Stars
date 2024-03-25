@@ -135,6 +135,7 @@
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [zero-to-mastery/resources](https://github.com/zero-to-mastery/resources) - Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite  resources as well and help others in their journey of
 - [ShoroukAziz/notion_widgets](https://github.com/ShoroukAziz/notion_widgets) - A set of HTML widgets that could be embedded into  Notion.so  https://www.notion.so/ pages. For more see https://blog.shorouk.dev/notion-widgets-gallery/
 - [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
@@ -164,6 +165,7 @@
 
 ## JavaScript 
 
+- [Elaws/script_videogames_quickAdd](https://github.com/Elaws/script_videogames_quickAdd) - A script for Obsidian's QuickAdd plugin, to fetch video game data from IGDB API.
 - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a "theme" for HomeAssistant
@@ -614,6 +616,7 @@
 
 ## Python 
 
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [testing variable font] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [ericeya/mortgage-buddy](https://github.com/ericeya/mortgage-buddy) - Mortgage calculator and simple qualification check terminal program. A little taste of mortgage lending fun facts coming from professional mortgage underwriter.
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [toddmotto/public-apis](https://github.com/toddmotto/public-apis) - A collective list of free APIs
@@ -685,7 +688,7 @@
 - [SleeperPy/SleeperTradesGraph](https://github.com/SleeperPy/SleeperTradesGraph) - This Python script uses the Sleeper API to gather data on the number of trades made by each player in your fantasy football league, and generates a graph to visualize this data.
 - [fantasydatapros/LearnPythonWithFantasyFootball](https://github.com/fantasydatapros/LearnPythonWithFantasyFootball) - Data files for the Learn Python with Fantasy Football course on fantasydatapros.com
 - [bendominguez0111/fantasy-csv-data](https://github.com/bendominguez0111/fantasy-csv-data) - Fantasy Football data in the form of CSV files available for use in pandas, R, excel etc.
-- [cooperdff/nfl_data_py](https://github.com/cooperdff/nfl_data_py) - Python code for working with NFL play by play data.
+- [nflverse/nfl_data_py](https://github.com/nflverse/nfl_data_py) - Python code for working with NFL play by play data.
 - [bendominguez0111/practice-problems](https://github.com/bendominguez0111/practice-problems) - Basic Python practice problems for Learn Python with Fantasy Football
 - [panzarino/fantasy-football](https://github.com/panzarino/fantasy-football) - Fantasy Football Website To Provide Predictions (Django)
 - [rbarton65/espnff](https://github.com/rbarton65/espnff) - ESPN Fantasy Football API
@@ -762,7 +765,6 @@
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [selfire1/goodsidian](https://github.com/selfire1/goodsidian) - A Goodreads to Obsidian script
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
-- [zero-to-mastery/resources](https://github.com/zero-to-mastery/resources) - Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite  resources as well and help others in their journey of
 - [timovv/notion-website-template](https://github.com/timovv/notion-website-template) - Make a personal website using Notion and GitHub Pages
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
