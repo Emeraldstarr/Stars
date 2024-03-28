@@ -269,7 +269,6 @@
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A massive list including a huge amount of products and services that are completely free!
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [splitbee/notion-api-worker](https://github.com/splitbee/notion-api-worker) - Notion as CMS with easy API access
-- [postmanlabs/postman-docs](https://github.com/postmanlabs/postman-docs) - Documentation for Postman, a collaboration platform for API development. Available for Mac, Windows, and Linux.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [sdcalmes/sleeper-api](https://github.com/sdcalmes/sleeper-api) - Java wrapper around the Sleeper Fantasy Football API
 - [rbarton65/espnff](https://github.com/rbarton65/espnff) - ESPN Fantasy Football API
@@ -976,7 +975,6 @@
 - [Lathryx/Scriptable-Getting-Started-Guide](https://github.com/Lathryx/Scriptable-Getting-Started-Guide) - A getting started guide to the Scriptable mobile app for iOS.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
-- [postmanlabs/postman-docs](https://github.com/postmanlabs/postman-docs) - Documentation for Postman, a collaboration platform for API development. Available for Mac, Windows, and Linux.
 
 ## education 
 
