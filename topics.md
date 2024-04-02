@@ -1798,6 +1798,7 @@
 
 ## others 
 
+- [davish/obsidian-full-calendar](https://github.com/davish/obsidian-full-calendar) - Keep events and manage your calendar alongside all your other notes in your Obsidian Vault.
 - [coddingtonbear/obsidian-itinerary](https://github.com/coddingtonbear/obsidian-itinerary) - Make planning your trip or event easier by rendering a calendar from event information found in your notes.
 - [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - Unlock your automation needs by interacting with your notes in Obsidian over a secure REST API.
 - [Elaws/script_videogames_quickAdd](https://github.com/Elaws/script_videogames_quickAdd) - A script for Obsidian's QuickAdd plugin, to fetch video game data from IGDB API.
