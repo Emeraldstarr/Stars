@@ -100,7 +100,6 @@
 
 ## Dockerfile 
 
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [jaywcjlove/awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) - Collect JS Frameworks, Web components library and Admin Template.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
@@ -612,6 +611,7 @@
 
 ## PHP 
 
+- [danielbrendel/hortusfox-web](https://github.com/danielbrendel/hortusfox-web) - Self-hosted collaborative plant management system for your local environment
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 - [ivanvorobei/awesome-ios](https://github.com/ivanvorobei/awesome-ios) - A collaborative list of awesome for iOS developers. Include quick preview.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -619,6 +619,7 @@
 
 ## Python 
 
+- [andbof/plantdb](https://github.com/andbof/plantdb) - A plant database for keeping track of all your home-grown stuff using the python web framework Django
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [testing variable font] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [ericeya/mortgage-buddy](https://github.com/ericeya/mortgage-buddy) - Mortgage calculator and simple qualification check terminal program. A little taste of mortgage lending fun facts coming from professional mortgage underwriter.
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
@@ -758,6 +759,7 @@
 - [LinkedInLearning/learning-linux-command-line-3005201](https://github.com/LinkedInLearning/learning-linux-command-line-3005201) - Learning Linux Command Line
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [Schaka/media-server-guide](https://github.com/Schaka/media-server-guide) - A full guide for creating and maintaining your media server at home
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [czottmann/obsidian-mononote](https://github.com/czottmann/obsidian-mononote) - An Obsidian plugin that ensures each note occupies only one tab. If a note is already open, its existing tab will be focussed instead of opening the same file in the current tab.
