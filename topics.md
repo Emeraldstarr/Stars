@@ -1818,6 +1818,8 @@
 
 ## others 
 
+- [andbof/plantdb](https://github.com/andbof/plantdb) - A plant database for keeping track of all your home-grown stuff using the python web framework Django
+- [danielbrendel/hortusfox-web](https://github.com/danielbrendel/hortusfox-web) - Self-hosted collaborative plant management system for your local environment
 - [pashashocky/obsidian-note-gallery](https://github.com/pashashocky/obsidian-note-gallery) - A masonry note gallery for obsidian.
 - [thomasloven/lovelace-card-tools](https://github.com/thomasloven/lovelace-card-tools) - 🔹A collection of tools for other lovelace plugins to use
 - [davish/obsidian-full-calendar](https://github.com/davish/obsidian-full-calendar) - Keep events and manage your calendar alongside all your other notes in your Obsidian Vault.
