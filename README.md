@@ -175,7 +175,6 @@
 - [custom-cards/secondaryinfo-entity-row](https://github.com/custom-cards/secondaryinfo-entity-row) - Custom entity row for HomeAssistant, providing additional types of data to be displayed in the secondary info area of the Lovelace Entities card
 - [custom-cards/gauge-card](https://github.com/custom-cards/gauge-card) - 
 - [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business) - Using Obsidian.... For Business!
-- [elementor/elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
 - [bwp91/homebridge-govee](https://github.com/bwp91/homebridge-govee) - Homebridge plugin to integrate Govee devices into HomeKit.
 - [vojtamolda/homebridge-bluetooth](https://github.com/vojtamolda/homebridge-bluetooth) - Homebridge plugin to expose BLE peripherals as HomeKit accessories.
 - [Airtable/airtable.js](https://github.com/Airtable/airtable.js) - Airtable javascript client
@@ -312,7 +311,7 @@
 ## Jupyter Notebook 
 
 - [bjpayne/mortgage-underwriting-assistant](https://github.com/bjpayne/mortgage-underwriting-assistant) - Udacity Data Science Capstone Project - Mortgage Underwriting Asistant
-- [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Generative AI developer site
+- [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Gen AI site - including the Gemini API and Gemma
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [MiesnerJacob/learn-prompting](https://github.com/MiesnerJacob/learn-prompting) - The most comprehensive prompt engineering course available.
 - [pollinations/hive](https://github.com/pollinations/hive) - Generative Colab notebooks for Pollinations.AI
@@ -613,6 +612,7 @@
 
 - [danielbrendel/hortusfox-web](https://github.com/danielbrendel/hortusfox-web) - Self-hosted collaborative plant management system for your local environment
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
+- [elementor/elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
 - [ivanvorobei/awesome-ios](https://github.com/ivanvorobei/awesome-ios) - A collaborative list of awesome for iOS developers. Include quick preview.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [danabrey/sleeper-api](https://github.com/danabrey/sleeper-api) - PHP library for interacting with the read-only Sleeper fantasy football API
