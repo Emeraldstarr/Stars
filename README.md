@@ -839,7 +839,7 @@
 - [MichalBures/obsidian-file-path-to-uri](https://github.com/MichalBures/obsidian-file-path-to-uri) - Convert file path to uri for easier use of links to local files outside of Obsidian
 - [joethei/obsidian-calibre](https://github.com/joethei/obsidian-calibre) - Import information about books from your Calibre Library. WIP
 - [joelseq/obsidian-linkstowr](https://github.com/joelseq/obsidian-linkstowr) - Effortlessly save and organize your web links in Obsidian
-- [Rooyca/obsidian-api-request](https://github.com/Rooyca/obsidian-api-request) - Obsidian plugin that allows you to make API requests and get responses in: JSON, TXT and MD file
+- [Rooyca/obsidian-api-request](https://github.com/Rooyca/obsidian-api-request) - Obsidian plugin that allows you to make requests to API's and receive responses in codeblocks or store them in localStorage.
 - [mgmeyers/obsidian-easy-bake](https://github.com/mgmeyers/obsidian-easy-bake) - Compile many Obsidian notes down to one.
 - [chrisgrieser/new-tab-default-page](https://github.com/chrisgrieser/new-tab-default-page) - Obsidian plugin to open a note of your choice when creating a new tab, like in the browser.
 - [nevernotmove/obsidian-chordlyrics](https://github.com/nevernotmove/obsidian-chordlyrics) - Obsidian.md plugin that displays chords over lyrics.
