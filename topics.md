@@ -51,6 +51,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
@@ -985,6 +986,10 @@
 - [Lathryx/Scriptable-Getting-Started-Guide](https://github.com/Lathryx/Scriptable-Getting-Started-Guide) - A getting started guide to the Scriptable mobile app for iOS.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+
+## dotfiles 
+
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 
 ## education 
 
