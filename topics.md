@@ -1971,7 +1971,7 @@
 - [skilbjo/excel-vba-formatting-macros](https://github.com/skilbjo/excel-vba-formatting-macros) - 
 - [tdalon/outlook-vba](https://github.com/tdalon/outlook-vba) - Collection of Outlook macros/vba code I use
 - [AllenMattson/VBA](https://github.com/AllenMattson/VBA) - Code Blocks relating to everything VBA
-- [redtigre/obsidian-scriptable-tasks-widget](https://github.com/redtigre/obsidian-scriptable-tasks-widget) - This is javascript code to display my tasks from obsidian in an iPad OS extra large widget
+- [angusgthompson/obsidian-scriptable-tasks-widget](https://github.com/angusgthompson/obsidian-scriptable-tasks-widget) - This is javascript code to display my tasks from obsidian in an iPad OS extra large widget
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference) - Take Bible Study notes easily in the popular note-taking app Obsidian, with automatic verse and reference suggestions.
 - [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases) - Bible versions and cross-reference databases.
