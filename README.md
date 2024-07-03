@@ -959,7 +959,7 @@
 - [Canna71/obsidian-chronology](https://github.com/Canna71/obsidian-chronology) - 
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [shaunhurryup/lovely-mindmap](https://github.com/shaunhurryup/lovely-mindmap) - Build your own knowledge graph with smiles :-)
-- [fez-github/obsidian-multi-properties](https://github.com/fez-github/obsidian-multi-properties) - Plugin for Obsidian that allows user to add properties to multiple notes at once.
+- [technohiker/obsidian-multi-properties](https://github.com/technohiker/obsidian-multi-properties) - Plugin for Obsidian that allows user to add properties to multiple notes at once.
 - [mirnovov/obsidian-homepage](https://github.com/mirnovov/obsidian-homepage) - An Obsidian plugin that opens a specified note, canvas, or workspace on startup, instead of the most recent one.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [pfrankov/obsidian-colored-tags](https://github.com/pfrankov/obsidian-colored-tags) - Colorizes tags in different colors.
