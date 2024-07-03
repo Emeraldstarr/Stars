@@ -2055,7 +2055,7 @@
 - [sindresorhus/sindresorhus](https://github.com/sindresorhus/sindresorhus) - 🦄
 - [AgentOps-AI/BestGPTs](https://github.com/AgentOps-AI/BestGPTs) - Top ranked OpenAI GPTs
 - [pjeby/tag-wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search tags from the Obsidian tag pane
-- [fez-github/obsidian-multi-properties](https://github.com/fez-github/obsidian-multi-properties) - Plugin for Obsidian that allows user to add properties to multiple notes at once.
+- [technohiker/obsidian-multi-properties](https://github.com/technohiker/obsidian-multi-properties) - Plugin for Obsidian that allows user to add properties to multiple notes at once.
 - [VBA-tools/VBA-Web](https://github.com/VBA-tools/VBA-Web) - VBA-Web: Connect VBA, Excel, Access, and Office for Windows and Mac to web services and the web
 - [mirnovov/obsidian-homepage](https://github.com/mirnovov/obsidian-homepage) - An Obsidian plugin that opens a specified note, canvas, or workspace on startup, instead of the most recent one.
 - [basilioss/obsidian-scrapers](https://github.com/basilioss/obsidian-scrapers) - Get information from link for Obsidian
