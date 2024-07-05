@@ -252,7 +252,7 @@
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [boilermaker-ben/Google-Sheets-NFL-Pick-Ems-and-Survivor-Pool](https://github.com/boilermaker-ben/Google-Sheets-NFL-Pick-Ems-and-Survivor-Pool) - A single long script to paste into the Google Sheets script editor that generates weekly Google Forms and weekly, overall, and other sheets for running a pick 'ems and/or survivor pool. Hosted by you.
 - [anthonytedja/notion](https://github.com/anthonytedja/notion) - notion hosts a library of interactive widgets for @makenotion pages
 - [notionblog/NotionThemes](https://github.com/notionblog/NotionThemes) - Make your Notion pretty with custom themes
