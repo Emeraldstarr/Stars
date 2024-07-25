@@ -167,6 +167,7 @@
 
 ## JavaScript 
 
+- [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
 - [thomasloven/lovelace-card-tools](https://github.com/thomasloven/lovelace-card-tools) - 🔹A collection of tools for other lovelace plugins to use
 - [Elaws/script_videogames_quickAdd](https://github.com/Elaws/script_videogames_quickAdd) - A script for Obsidian's QuickAdd plugin, to fetch video game data from IGDB API.
 - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
@@ -369,6 +370,7 @@
 
 ## Others 
 
+- [groepl/Take-Useful-Notes](https://github.com/groepl/Take-Useful-Notes) - eBook: "MAKE USEFUL NOTES. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten."
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [ora-sh/Awesome-GPT4-Prompts](https://github.com/ora-sh/Awesome-GPT4-Prompts) - A collection of awesome GPT4 prompts
 - [taranjeet/awesome-gpt4](https://github.com/taranjeet/awesome-gpt4) - Curated list of awesome resources, use cases and demos for GPT-4
