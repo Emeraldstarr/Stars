@@ -160,6 +160,7 @@
 
 ## Java 
 
+- [apitable/apitable-sdks](https://github.com/apitable/apitable-sdks) - APITable officially provides various API, which allow users to get data by HTTPS requests, or push data to APITable.
 - [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [na-ka-na/ExcelCompare](https://github.com/na-ka-na/ExcelCompare) - Command line tool (and API) for diffing Excel Workbooks
@@ -640,6 +641,7 @@
 - [gtalarico/pyairtable](https://github.com/gtalarico/pyairtable) - Python Api Client for Airtable
 - [Fffrank/southwest-alerts](https://github.com/Fffrank/southwest-alerts) - 
 - [natelandau/obsidian-metadata](https://github.com/natelandau/obsidian-metadata) - Batch updates to metadata in an Obsidian vault
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [danymat/Obsidian-Markdown-Parser](https://github.com/danymat/Obsidian-Markdown-Parser) - This repository will give you tools to parse and fetch useful informations of your notes in your Obsidian vault.
@@ -765,7 +767,6 @@
 - [LinkedInLearning/learning-linux-command-line-3005201](https://github.com/LinkedInLearning/learning-linux-command-line-3005201) - Learning Linux Command Line
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [Schaka/media-server-guide](https://github.com/Schaka/media-server-guide) - A full guide for creating and maintaining your media server at home
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [bhagyas/app-urls](https://github.com/bhagyas/app-urls) - A long list of App URLs for iOS, macOS and Android
