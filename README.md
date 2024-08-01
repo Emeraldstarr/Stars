@@ -397,6 +397,7 @@
 - [krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024) - 
 - [agmmnn/starred](https://github.com/agmmnn/starred) - agmmnn's starred repos, updated daily! ✨
 - [faroukx/obsidian-homepage](https://github.com/faroukx/obsidian-homepage) - Obsidian homepage - Minimal and aesthetic template (with my unique features)
+- [aseyedia/Obsidian_DailyNotes](https://github.com/aseyedia/Obsidian_DailyNotes) - Repo containing Obsidian Templates that I use and customize.
 - [groepl/Obsidian-Templates](https://github.com/groepl/Obsidian-Templates) - A repository containing templates and scripts for #Obsidian to support the #Zettelkasten method for note-taking.
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
 - [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts) - Curated list of fonts and everything
@@ -771,7 +772,6 @@
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [bhagyas/app-urls](https://github.com/bhagyas/app-urls) - A long list of App URLs for iOS, macOS and Android
 - [Magic-wei/obsidian_wiki_template](https://github.com/Magic-wei/obsidian_wiki_template) - A personal wiki or note-taking system template based on Obsidian.
-- [aseyedia/Obsidian_DailyNotes](https://github.com/aseyedia/Obsidian_DailyNotes) - Repo containing Obsidian Templates that I use and customize.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [selfire1/goodsidian](https://github.com/selfire1/goodsidian) - A Goodreads to Obsidian script
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
