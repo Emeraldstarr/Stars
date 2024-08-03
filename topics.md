@@ -327,6 +327,7 @@
 
 ## awesome 
 
+- [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [lmammino/awesome-learn-by-playing](https://github.com/lmammino/awesome-learn-by-playing) - A collection of tech resources that allow you to learn new things by playing games
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -494,6 +495,7 @@
 
 ## awesome-list 
 
+- [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [imaurer/awesome-llm-json](https://github.com/imaurer/awesome-llm-json) - Resource list for generating JSON using LLMs via function calling, tools, CFG. Libraries, Models, Notebooks, etc.
 - [lmammino/awesome-learn-by-playing](https://github.com/lmammino/awesome-learn-by-playing) - A collection of tech resources that allow you to learn new things by playing games
 - [burningtree/awesome-json](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
@@ -682,6 +684,8 @@
 
 ## chatgpt 
 
+- [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
+- [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [ryanschiang/chatgpt-export](https://github.com/ryanschiang/chatgpt-export) - Browser script to share and export  ChatGPT chat logs to Markdown, JSON, or as Image (PNG)
@@ -1871,6 +1875,10 @@
 
 ## others 
 
+- [vaibhavk97/Poe](https://github.com/vaibhavk97/Poe) - Reverse engineered API for Quora's Poe - access Claude (Anthropic) and ChatGPT (OpenAI)
+- [aws-samples/prompt-engineering-with-anthropic-claude-v-3](https://github.com/aws-samples/prompt-engineering-with-anthropic-claude-v-3) - 
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
+- [grantjenks/gpt-prompt-notes](https://github.com/grantjenks/gpt-prompt-notes) - GPT Prompt Notes
 - [groepl/Take-Useful-Notes](https://github.com/groepl/Take-Useful-Notes) - eBook: "MAKE USEFUL NOTES. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten."
 - [BurntSushi/nflgame](https://github.com/BurntSushi/nflgame) - An API to retrieve and read NFL Game Center JSON data. It can work with real-time data, which can be used for fantasy football.
 - [andbof/plantdb](https://github.com/andbof/plantdb) - A plant database for keeping track of all your home-grown stuff using the python web framework Django
