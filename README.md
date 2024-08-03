@@ -313,6 +313,8 @@
 
 ## Jupyter Notebook 
 
+- [aws-samples/prompt-engineering-with-anthropic-claude-v-3](https://github.com/aws-samples/prompt-engineering-with-anthropic-claude-v-3) - 
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 - [bjpayne/mortgage-underwriting-assistant](https://github.com/bjpayne/mortgage-underwriting-assistant) - Udacity Data Science Capstone Project - Mortgage Underwriting Asistant
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Gen AI site - including the Gemini API and Gemma
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
@@ -371,6 +373,9 @@
 
 ## Others 
 
+- [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
+- [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
+- [grantjenks/gpt-prompt-notes](https://github.com/grantjenks/gpt-prompt-notes) - GPT Prompt Notes
 - [groepl/Take-Useful-Notes](https://github.com/groepl/Take-Useful-Notes) - eBook: "MAKE USEFUL NOTES. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten."
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [ora-sh/Awesome-GPT4-Prompts](https://github.com/ora-sh/Awesome-GPT4-Prompts) - A collection of awesome GPT4 prompts
@@ -624,6 +629,7 @@
 
 ## Python 
 
+- [vaibhavk97/Poe](https://github.com/vaibhavk97/Poe) - Reverse engineered API for Quora's Poe - access Claude (Anthropic) and ChatGPT (OpenAI)
 - [BurntSushi/nflgame](https://github.com/BurntSushi/nflgame) - An API to retrieve and read NFL Game Center JSON data. It can work with real-time data, which can be used for fantasy football.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
 - [andbof/plantdb](https://github.com/andbof/plantdb) - A plant database for keeping track of all your home-grown stuff using the python web framework Django
