@@ -76,6 +76,7 @@
 
 ## CSS 
 
+- [OpenUp-LabTakizawa/IchigoJam](https://github.com/OpenUp-LabTakizawa/IchigoJam) - Small computer for kids to learn programming🍓
 - [lguenth/obsidian-templates](https://github.com/lguenth/obsidian-templates) - A collection of templates for Obsidian
 - [tomzorz/obsidian-toolkit](https://github.com/tomzorz/obsidian-toolkit) - Plugins, templates, css snippets and more for obsidian.md
 - [ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets) - This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand
@@ -161,6 +162,7 @@
 
 ## Java 
 
+- [oussamabonnor1/Material-design-Math-Teacher](https://github.com/oussamabonnor1/Material-design-Math-Teacher) - This is a simple software with a friendly UI to teach kids some basic mental calculations and it includes a scoring and stage system, made with JavaFX.
 - [apitable/apitable-sdks](https://github.com/apitable/apitable-sdks) - APITable officially provides various API, which allow users to get data by HTTPS requests, or push data to APITable.
 - [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -169,6 +171,8 @@
 
 ## JavaScript 
 
+- [allexlima/AtomsGame](https://github.com/allexlima/AtomsGame) - :video_game: Atom's Game was developed using Javascript and HTML5 to help children and teenagers to learn elements of the periodic table
+- [PencilCode/pencilcode](https://github.com/PencilCode/pencilcode) - An online IDE for kids: pencilcode.net.
 - [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
 - [thomasloven/lovelace-card-tools](https://github.com/thomasloven/lovelace-card-tools) - 🔹A collection of tools for other lovelace plugins to use
 - [Elaws/script_videogames_quickAdd](https://github.com/Elaws/script_videogames_quickAdd) - A script for Obsidian's QuickAdd plugin, to fetch video game data from IGDB API.
@@ -630,6 +634,9 @@
 
 ## Python 
 
+- [lsblakk/koc_khan_offline](https://github.com/lsblakk/koc_khan_offline) - Tools for pulling the Khan Academy videos offline for use with the Kids on Computers project
+- [skilstak/dk-help-your-kids-with-computer-coding](https://github.com/skilstak/dk-help-your-kids-with-computer-coding) - Examples and revisions for DK's 'Help Your Kids with Computer Coding'
+- [tsug0d/AndroidMobilePentest101](https://github.com/tsug0d/AndroidMobilePentest101) - Pentesting Android Application Course For Kids+ (English and Vietnamese edition)
 - [vaibhavk97/Poe](https://github.com/vaibhavk97/Poe) - Reverse engineered API for Quora's Poe - access Claude (Anthropic) and ChatGPT (OpenAI)
 - [BurntSushi/nflgame](https://github.com/BurntSushi/nflgame) - An API to retrieve and read NFL Game Center JSON data. It can work with real-time data, which can be used for fantasy football.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
