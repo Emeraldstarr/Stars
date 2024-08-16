@@ -819,6 +819,7 @@
 
 ## css 
 
+- [allexlima/AtomsGame](https://github.com/allexlima/AtomsGame) - :video_game: Atom's Game was developed using Javascript and HTML5 to help children and teenagers to learn elements of the periodic table
 - [SyedUmairCodes/self-taught-developer](https://github.com/SyedUmairCodes/self-taught-developer) - Free and high quality resources for beginners to learn how to code.
 - [chetachiezikeuzor/MySnippets-Plugin](https://github.com/chetachiezikeuzor/MySnippets-Plugin) - MySnippets is a plugin that adds a status bar menu allowing the user to quickly manage their snippets within the comfort of their workspace 🖌.
 - [ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets) - This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand
@@ -1008,6 +1009,7 @@
 
 ## education 
 
+- [skilstak/dk-help-your-kids-with-computer-coding](https://github.com/skilstak/dk-help-your-kids-with-computer-coding) - Examples and revisions for DK's 'Help Your Kids with Computer Coding'
 - [ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets) - This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
@@ -1129,6 +1131,7 @@
 
 ## game 
 
+- [allexlima/AtomsGame](https://github.com/allexlima/AtomsGame) - :video_game: Atom's Game was developed using Javascript and HTML5 to help children and teenagers to learn elements of the periodic table
 - [lmammino/awesome-learn-by-playing](https://github.com/lmammino/awesome-learn-by-playing) - A collection of tech resources that allow you to learn new things by playing games
 - [michelpereira/awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding) - A curated list of games that can teach you how to learn a programming language.
 - [sightread/sightread](https://github.com/sightread/sightread) - 🎹 Learn to play piano
@@ -1358,6 +1361,7 @@
 
 ## html5 
 
+- [allexlima/AtomsGame](https://github.com/allexlima/AtomsGame) - :video_game: Atom's Game was developed using Javascript and HTML5 to help children and teenagers to learn elements of the periodic table
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 - [learning-zone/website-templates](https://github.com/learning-zone/website-templates) - 150+ HTML5 Website Templates
 - [Asabeneh/30-Days-Of-HTML](https://github.com/Asabeneh/30-Days-Of-HTML) - A step by step guide to learn the concept of HTML, DOM tree, and web development in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
@@ -1431,6 +1435,7 @@
 
 ## javascript 
 
+- [allexlima/AtomsGame](https://github.com/allexlima/AtomsGame) - :video_game: Atom's Game was developed using Javascript and HTML5 to help children and teenagers to learn elements of the periodic table
 - [apitable/apitable-sdks](https://github.com/apitable/apitable-sdks) - APITable officially provides various API, which allow users to get data by HTTPS requests, or push data to APITable.
 - [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
@@ -1875,6 +1880,11 @@
 
 ## others 
 
+- [OpenUp-LabTakizawa/IchigoJam](https://github.com/OpenUp-LabTakizawa/IchigoJam) - Small computer for kids to learn programming🍓
+- [lsblakk/koc_khan_offline](https://github.com/lsblakk/koc_khan_offline) - Tools for pulling the Khan Academy videos offline for use with the Kids on Computers project
+- [oussamabonnor1/Material-design-Math-Teacher](https://github.com/oussamabonnor1/Material-design-Math-Teacher) - This is a simple software with a friendly UI to teach kids some basic mental calculations and it includes a scoring and stage system, made with JavaFX.
+- [tsug0d/AndroidMobilePentest101](https://github.com/tsug0d/AndroidMobilePentest101) - Pentesting Android Application Course For Kids+ (English and Vietnamese edition)
+- [PencilCode/pencilcode](https://github.com/PencilCode/pencilcode) - An online IDE for kids: pencilcode.net.
 - [inhumantsar/slurp](https://github.com/inhumantsar/slurp) - Slurps webpages and saves them as clean, uncluttered Markdown. Think Pocket, but better.
 - [exdial/anbernic-apps](https://github.com/exdial/anbernic-apps) - Anbernic RG35XX Plus APPS
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
@@ -2373,6 +2383,7 @@
 
 ## python 
 
+- [skilstak/dk-help-your-kids-with-computer-coding](https://github.com/skilstak/dk-help-your-kids-with-computer-coding) - Examples and revisions for DK's 'Help Your Kids with Computer Coding'
 - [apitable/apitable-sdks](https://github.com/apitable/apitable-sdks) - APITable officially provides various API, which allow users to get data by HTTPS requests, or push data to APITable.
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
