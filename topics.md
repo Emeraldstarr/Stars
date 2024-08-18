@@ -1880,6 +1880,7 @@
 
 ## others 
 
+- [jaymurali101/Smart-Mortgage-Underwriting-Tool](https://github.com/jaymurali101/Smart-Mortgage-Underwriting-Tool) - 
 - [OpenUp-LabTakizawa/IchigoJam](https://github.com/OpenUp-LabTakizawa/IchigoJam) - Small computer for kids to learn programming🍓
 - [lsblakk/koc_khan_offline](https://github.com/lsblakk/koc_khan_offline) - Tools for pulling the Khan Academy videos offline for use with the Kids on Computers project
 - [oussamabonnor1/Material-design-Math-Teacher](https://github.com/oussamabonnor1/Material-design-Math-Teacher) - This is a simple software with a friendly UI to teach kids some basic mental calculations and it includes a scoring and stage system, made with JavaFX.
