@@ -1896,6 +1896,7 @@
 
 ## others 
 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [AishaEvering/LangChain_Practice_Prompts_And_Chains](https://github.com/AishaEvering/LangChain_Practice_Prompts_And_Chains) - Practice building a simple app with prompts and chains.
 - [interlocklabs/exp-1.0.0-promptlab](https://github.com/interlocklabs/exp-1.0.0-promptlab) - A web app to experiment with chained prompts faster.
 - [MIATECHPARTNERS/PromptChains](https://github.com/MIATECHPARTNERS/PromptChains) - Prompt chains maximize intelligence and results when using LLMs
@@ -2682,6 +2683,7 @@
 
 ## statistics 
 
+- [joeyagreco/leeger](https://github.com/joeyagreco/leeger) - Instant stats for any fantasy football league.
 - [roclark/sportsipy](https://github.com/roclark/sportsipy) - A free sports API written for python
 - [MBB-team/VBA-toolbox](https://github.com/MBB-team/VBA-toolbox) - The VBA toolbox
 - [Moataz-Elmesmary/Data-Science-Roadmap](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap) - Data Science Roadmap from A to Z
