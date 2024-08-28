@@ -215,7 +215,7 @@
 - [treflehq/documentation](https://github.com/treflehq/documentation) - The Trefle API documentation and reference
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [flopp999/Scriptable](https://github.com/flopp999/Scriptable) - 
-- [brianwalborn/nfl-team-schedule-widget](https://github.com/brianwalborn/nfl-team-schedule-widget) - Display your favorite NFL team's schedule on iOS using the Scriptable app
+- [brianwalborn/football-team-schedule-widget](https://github.com/brianwalborn/football-team-schedule-widget) - Display your favorite NCAAF/NFL team's schedule on iOS using the Scriptable app
 - [phpmacher/availability-widget](https://github.com/phpmacher/availability-widget) - Availability-Widget (with Scriptable)
 - [marcjulianschwarz/scriptable-widgets](https://github.com/marcjulianschwarz/scriptable-widgets) - A small collection of my Scriptable iOS widgets.
 - [iamrbn/Inline-Weather](https://github.com/iamrbn/Inline-Weather) - Shows Weather Datas in Widgets on the iOS Lockscreen via Scriptable-App
@@ -262,7 +262,7 @@
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [boilermaker-ben/Google-Sheets-NFL-Pick-Ems-and-Survivor-Pool](https://github.com/boilermaker-ben/Google-Sheets-NFL-Pick-Ems-and-Survivor-Pool) - A single long script to paste into the Google Sheets script editor that generates weekly Google Forms and weekly, overall, and other sheets for running a pick 'ems and/or survivor pool. Hosted by you.
 - [anthonytedja/notion](https://github.com/anthonytedja/notion) - notion hosts a library of interactive widgets for @makenotion pages
 - [notionblog/NotionThemes](https://github.com/notionblog/NotionThemes) - Make your Notion pretty with custom themes
@@ -986,7 +986,7 @@
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [Artel250/Obsidian-Talk-with-Bard](https://github.com/Artel250/Obsidian-Talk-with-Bard) - An obsidian plugin that enables you to talk to Google Bard directly
+- [Artel250/Obsidian-Gemini-Assistant](https://github.com/Artel250/Obsidian-Gemini-Assistant) - An obsidian plugin that enables you to talk to Google Bard directly
 - [Canna71/obsidian-chronology](https://github.com/Canna71/obsidian-chronology) - 
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [shaunhurryup/lovely-mindmap](https://github.com/shaunhurryup/lovely-mindmap) - Build your own knowledge graph with smiles :-)
