@@ -705,6 +705,7 @@
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [yulongwang12/awesome-gpt-store](https://github.com/yulongwang12/awesome-gpt-store) - This repo includes all customized GPTs on openai gpt store
 - [lxfater/Awesome-GPTs](https://github.com/lxfater/Awesome-GPTs) - 1000+ GPTs and 10 categories. 80+ Leaked Prompt，Awesome，chatgpt，Ai，prompt
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [hackerkid/bots](https://github.com/hackerkid/bots) - :zap: Tools for building bots
@@ -2057,7 +2058,7 @@
 - [skilbjo/excel-vba-formatting-macros](https://github.com/skilbjo/excel-vba-formatting-macros) - 
 - [tdalon/outlook-vba](https://github.com/tdalon/outlook-vba) - Collection of Outlook macros/vba code I use
 - [AllenMattson/VBA](https://github.com/AllenMattson/VBA) - Code Blocks relating to everything VBA
-- [angusgthompson/obsidian-scriptable-tasks-widget](https://github.com/angusgthompson/obsidian-scriptable-tasks-widget) - This is javascript code to display my tasks from obsidian in an iPad OS extra large widget
+- [angus-thompson/obsidian-scriptable-tasks-widget](https://github.com/angus-thompson/obsidian-scriptable-tasks-widget) - This is javascript code to display my tasks from obsidian in an iPad OS extra large widget
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference) - Take Bible Study notes easily in the popular note-taking app Obsidian, with automatic verse and reference suggestions.
 - [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases) - Bible versions and cross-reference databases.
