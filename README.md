@@ -77,6 +77,7 @@
 
 ## CSS 
 
+- [Seniblue/Underwater](https://github.com/Seniblue/Underwater) - An obsidian.md theme
 - [OpenUp-LabTakizawa/IchigoJam](https://github.com/OpenUp-LabTakizawa/IchigoJam) - Small computer for kids to learn programming🍓
 - [lguenth/obsidian-templates](https://github.com/lguenth/obsidian-templates) - A collection of templates for Obsidian
 - [tomzorz/obsidian-toolkit](https://github.com/tomzorz/obsidian-toolkit) - Plugins, templates, css snippets and more for obsidian.md
@@ -743,7 +744,7 @@
 - [torchhound/warren](https://github.com/torchhound/warren) - Links to lose yourself in, curated from HN and other sources
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [SwapnikKatkoori/sleeper-api-wrapper](https://github.com/SwapnikKatkoori/sleeper-api-wrapper) - A Python wrapper for the Sleeper Fantasy Football API.
-- [uberfastman/fantasy-football-metrics-weekly-report](https://github.com/uberfastman/fantasy-football-metrics-weekly-report) - Command line application to create weekly reports (containing stats, metrics, and rankings) for Fantasy Football leagues on the following platforms: Yahoo, Fleaflicker, Sleeper, ESPN.
+- [uberfastman/fantasy-football-metrics-weekly-report](https://github.com/uberfastman/fantasy-football-metrics-weekly-report) - Command line application to create weekly reports (containing stats, metrics, and rankings) for Fantasy Football leagues on the following platforms: Yahoo, ESPN, CBS, Sleeper, Fleaflicker
 - [StoneMasons4106/sleeper-ffl-discordbot](https://github.com/StoneMasons4106/sleeper-ffl-discordbot) - Sleeper Fantasy Football Discord Bot
 - [SwapnikKatkoori/sleeper-ff-bot](https://github.com/SwapnikKatkoori/sleeper-ff-bot) - A GroupMe/Slack/Discord Bot for Sleeper fantasy leagues
 - [dtsong/sleeper-api-wrapper](https://github.com/dtsong/sleeper-api-wrapper) - A Python API wrapper for Sleeper's API: https://docs.sleeper.app/
