@@ -1325,7 +1325,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
-- [uberfastman/fantasy-football-metrics-weekly-report](https://github.com/uberfastman/fantasy-football-metrics-weekly-report) - Command line application to create weekly reports (containing stats, metrics, and rankings) for Fantasy Football leagues on the following platforms: Yahoo, Fleaflicker, Sleeper, ESPN.
+- [uberfastman/fantasy-football-metrics-weekly-report](https://github.com/uberfastman/fantasy-football-metrics-weekly-report) - Command line application to create weekly reports (containing stats, metrics, and rankings) for Fantasy Football leagues on the following platforms: Yahoo, ESPN, CBS, Sleeper, Fleaflicker
 
 ## haskell 
 
@@ -1944,6 +1944,7 @@
 
 ## others 
 
+- [Seniblue/Underwater](https://github.com/Seniblue/Underwater) - An obsidian.md theme
 - [learnlatex/learnlatex.github.io](https://github.com/learnlatex/learnlatex.github.io) - Learn LaTeX online
 - [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR ALL MAJOR AI MODELS
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
