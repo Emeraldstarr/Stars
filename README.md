@@ -386,7 +386,7 @@
 ## Others 
 
 - [mrcharlesiv/Flow-Premium-Home-Assistant-Experience](https://github.com/mrcharlesiv/Flow-Premium-Home-Assistant-Experience) - 
-- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR ALL MAJOR AI MODELS
+- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR LIBERATING AI MODELS
 - [atfortes/Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) - Reasoning in Large Language Models: Papers and Resources, including Chain-of-Thought and OpenAI o1 🍓
 - [MIATECHPARTNERS/PromptChains](https://github.com/MIATECHPARTNERS/PromptChains) - Prompt chains maximize intelligence and results when using LLMs
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
