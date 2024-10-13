@@ -1365,7 +1365,7 @@
 ## homebridge 
 
 - [AlexGustafsson/homebridge-wol](https://github.com/AlexGustafsson/homebridge-wol) - A Wake on Lan plugin for Homebridge
-- [homebridge/verified](https://github.com/homebridge/verified) - Plugins Verified by Homebridge
+- [homebridge/plugins](https://github.com/homebridge/plugins) - Information and resources for Homebridge plugins.
 - [bwp91/homebridge-govee](https://github.com/bwp91/homebridge-govee) - Homebridge plugin to integrate Govee devices into HomeKit.
 - [oznu/homebridge-gsh](https://github.com/oznu/homebridge-gsh) - Allow Google Assistant to control your Homebridge accessories.
 - [plasticrake/homebridge-tplink-smarthome](https://github.com/plasticrake/homebridge-tplink-smarthome) - TP-Link Smarthome Plugin for Homebridge
