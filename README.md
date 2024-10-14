@@ -174,6 +174,7 @@
 
 ## JavaScript 
 
+- [marioortizmanero/reddit-search-on-google](https://github.com/marioortizmanero/reddit-search-on-google) - Button on Google to search only for Reddit posts
 - [interlocklabs/exp-1.0.0-promptlab](https://github.com/interlocklabs/exp-1.0.0-promptlab) - A web app to experiment with chained prompts faster.
 - [allexlima/AtomsGame](https://github.com/allexlima/AtomsGame) - :video_game: Atom's Game was developed using Javascript and HTML5 to help children and teenagers to learn elements of the periodic table
 - [PencilCode/pencilcode](https://github.com/PencilCode/pencilcode) - An online IDE for kids: pencilcode.net.
@@ -654,7 +655,7 @@
 - [tsug0d/AndroidMobilePentest101](https://github.com/tsug0d/AndroidMobilePentest101) - Pentesting Android Application Course For Kids+ (English and Vietnamese edition)
 - [vaibhavk97/Poe](https://github.com/vaibhavk97/Poe) - Reverse engineered API for Quora's Poe - access Claude (Anthropic) and ChatGPT (OpenAI)
 - [BurntSushi/nflgame](https://github.com/BurntSushi/nflgame) - An API to retrieve and read NFL Game Center JSON data. It can work with real-time data, which can be used for fantasy football.
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain, open and self-hostable. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3).
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Open and self-hostable. Get answers from the internet or your docs. Use any online or local LLM (e.g gpt, claude, gemini, llama, qwen, mistral). Access from web, obsidian, emacs,
 - [andbof/plantdb](https://github.com/andbof/plantdb) - A plant database for keeping track of all your home-grown stuff using the python web framework Django
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [try V7!] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
@@ -838,6 +839,7 @@
 
 ## TypeScript 
 
+- [benhughes/obsidian-link-exploder](https://github.com/benhughes/obsidian-link-exploder) - 
 - [inhumantsar/slurp](https://github.com/inhumantsar/slurp) - Slurps webpages and saves them as clean, uncluttered Markdown. Think Pocket, but better.
 - [emmercm/igir](https://github.com/emmercm/igir) - 🕹 A zero-setup ROM collection manager that sorts, filters, extracts or archives, patches, and reports on collections of any size on any OS.
 - [pashashocky/obsidian-note-gallery](https://github.com/pashashocky/obsidian-note-gallery) - A masonry note gallery for obsidian.
