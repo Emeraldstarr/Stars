@@ -146,7 +146,6 @@
 - [ShoroukAziz/notion_widgets](https://github.com/ShoroukAziz/notion_widgets) - A set of HTML widgets that could be embedded into  Notion.so  https://www.notion.so/ pages. For more see https://blog.shorouk.dev/notion-widgets-gallery/
 - [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
-- [heroku/java-getting-started](https://github.com/heroku/java-getting-started) - Getting Started with Java on Heroku.
 - [Sven-Bo/Practical-Examples-for-Using-ChatGPT-in-Data-Analysis](https://github.com/Sven-Bo/Practical-Examples-for-Using-ChatGPT-in-Data-Analysis) - 
 - [scotch-io/html-css-website-course](https://github.com/scotch-io/html-css-website-course) - Build a beatiful HTML/CSS website. Code for the scotch.io course.
 - [cassidoo/HTML-CSS-Tutorial](https://github.com/cassidoo/HTML-CSS-Tutorial) - Tutorial for HTML and CSS
