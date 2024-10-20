@@ -188,7 +188,7 @@
 - [custom-cards/secondaryinfo-entity-row](https://github.com/custom-cards/secondaryinfo-entity-row) - Custom entity row for HomeAssistant, providing additional types of data to be displayed in the secondary info area of the Lovelace Entities card
 - [custom-cards/gauge-card](https://github.com/custom-cards/gauge-card) - 
 - [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business) - Using Obsidian.... For Business!
-- [bwp91/homebridge-govee](https://github.com/bwp91/homebridge-govee) - Homebridge plugin to integrate Govee devices into HomeKit.
+- [homebridge-plugins/homebridge-govee](https://github.com/homebridge-plugins/homebridge-govee) - Homebridge plugin to integrate Govee devices into HomeKit.
 - [vojtamolda/homebridge-bluetooth](https://github.com/vojtamolda/homebridge-bluetooth) - Homebridge plugin to expose BLE peripherals as HomeKit accessories.
 - [Airtable/airtable.js](https://github.com/Airtable/airtable.js) - Airtable javascript client
 - [ryanschiang/chatgpt-export](https://github.com/ryanschiang/chatgpt-export) - Browser script to share and export  ChatGPT chat logs to Markdown, JSON, or as Image (PNG)
