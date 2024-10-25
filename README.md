@@ -394,7 +394,7 @@
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [hkirat/project-ideas-v2](https://github.com/hkirat/project-ideas-v2) - Project ideas with prompts
 - [mrcharlesiv/Flow-Premium-Home-Assistant-Experience](https://github.com/mrcharlesiv/Flow-Premium-Home-Assistant-Experience) - 
-- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - TOTALLY HARMLESS PROMPTS FOR GOOD LIL AI'S
+- [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) - TOTALLY HARMLESS PROMPTS FOR GOOD LIL AI'S
 - [atfortes/Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) - Reasoning in Large Language Models: Papers and Resources, including Chain-of-Thought and OpenAI o1 🍓
 - [MIATECHPARTNERS/PromptChains](https://github.com/MIATECHPARTNERS/PromptChains) - Prompt chains maximize intelligence and results when using LLMs
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
@@ -847,6 +847,7 @@
 
 ## TypeScript 
 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [benhughes/obsidian-link-exploder](https://github.com/benhughes/obsidian-link-exploder) - 
 - [inhumantsar/slurp](https://github.com/inhumantsar/slurp) - Slurps webpages and saves them as clean, uncluttered Markdown. Think Pocket, but better.
