@@ -46,6 +46,7 @@
 
 ## AppleScript 
 
+- [unforswearing/applescript](https://github.com/unforswearing/applescript) - Applescript applets, snippets, resources, and links
 - [extracts/mac-scripting](https://github.com/extracts/mac-scripting) - Automation scripts for macOS
 - [mhucka/devonthink-hacks](https://github.com/mhucka/devonthink-hacks) - Scripts and other things for working with DEVONthink, a personal information management system.
 - [briangonzalez/awesome-applescripts](https://github.com/briangonzalez/awesome-applescripts) - A collection of awesome, useful, not-so-obvious applescripts.
