@@ -2206,7 +2206,7 @@
 - [phibr0/obsidian-commander](https://github.com/phibr0/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
 - [Aetherinox/obsidian-dataview-snippets](https://github.com/Aetherinox/obsidian-dataview-snippets) - A collection of Obsidian.md scripts which include Tag & Page Clouds, Table of Contents / ToC, Bad / Missing Link reporting, etc.
 - [darlal/obsidian-switcher-plus](https://github.com/darlal/obsidian-switcher-plus) - Enhanced Quick Switcher plugin for Obsidian.md
-- [edonyzpc/personal-assistant](https://github.com/edonyzpc/personal-assistant) - A plugin which help you to automatically manage Obsidian.
+- [edonyzpc/personal-assistant](https://github.com/edonyzpc/personal-assistant) - A plugin that harnesses AI agents and streamlining techniques to help you automatically manage Obsidian.
 - [HananoshikaYomaru/Obsidian-Frontmatter-Generator](https://github.com/HananoshikaYomaru/Obsidian-Frontmatter-Generator) - A plugin for Obsidian that generates frontmatter for notes
 - [oleeskild/digitalgarden](https://github.com/oleeskild/digitalgarden) - 
 - [1mehdifaraji/ios-settings-url-schemes](https://github.com/1mehdifaraji/ios-settings-url-schemes) - Complete list of iOS settings app url schemes
