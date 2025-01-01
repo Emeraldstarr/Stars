@@ -542,6 +542,7 @@
 - [hobbyquaker/awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt) - A curated list of MQTT related stuff. :sparkles:
 - [pfalcon/awesome-smarthome](https://github.com/pfalcon/awesome-smarthome) - Curated list of awesome SmartHome/Home Automation things (open and leaving users in control)
 - [Kussie/awesome-home-media-server](https://github.com/Kussie/awesome-home-media-server) - This is a carefully compiled list of remarkable projects with the focus on home media.
+- [SyedUmairCodes/self-taught-developer](https://github.com/SyedUmairCodes/self-taught-developer) - Free and high quality resources for beginners to learn how to code.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [bhagyas/app-urls](https://github.com/bhagyas/app-urls) - A long list of App URLs for iOS, macOS and Android
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
@@ -1029,6 +1030,7 @@
 
 ## devops 
 
+- [SyedUmairCodes/self-taught-developer](https://github.com/SyedUmairCodes/self-taught-developer) - Free and high quality resources for beginners to learn how to code.
 - [orsanawwad/awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps) - View roadmaps about developer roles to help you learn
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2024. with learning resources
@@ -1885,6 +1887,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
+- [SyedUmairCodes/self-taught-developer](https://github.com/SyedUmairCodes/self-taught-developer) - Free and high quality resources for beginners to learn how to code.
 - [jasperhartong/scriptable-ts-boilerplate](https://github.com/jasperhartong/scriptable-ts-boilerplate) - A boilerplate for creating remote-updatable Scriptable widgets. Includes setup, components, utils and examples to develop in the comfort of TypeScript.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -2699,6 +2702,7 @@
 
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+- [SyedUmairCodes/self-taught-developer](https://github.com/SyedUmairCodes/self-taught-developer) - Free and high quality resources for beginners to learn how to code.
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [bayne/dot-http](https://github.com/bayne/dot-http) - dot-http is a text-based scriptable HTTP client
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
