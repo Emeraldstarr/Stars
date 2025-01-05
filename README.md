@@ -705,7 +705,7 @@
 - [kevinjalbert/notion-toolbox](https://github.com/kevinjalbert/notion-toolbox) - This is a collection of Notion tools that work in tandem together.
 - [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py) - The official Notion API client library, but rewritten in Python! (sync + async)
 - [jamalex/notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so
-- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best source for dashboard icons.
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - The best source for dashboard icons.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [Sven-Bo/automate-boring-office-tasks-links](https://github.com/Sven-Bo/automate-boring-office-tasks-links) - Live website to showcase ChatGPT automation potential
@@ -1064,7 +1064,6 @@
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
-- [mannalext/FantasyStats](https://github.com/mannalext/FantasyStats) - A tool to consume the Sleeper API and calculate user and league-wide stats for fantasy football players
 - [tjvonbr/keeper-calculator](https://github.com/tjvonbr/keeper-calculator) - 🧮 Calculator that evaluates your keepers in a Sleeper fantasy football league
 - [motivated-developer/dynasty-dawgs](https://github.com/motivated-developer/dynasty-dawgs) - Fantasy football website for viewing team and player information using the Sleeper API
 - [BankkRoll/sleeper-fantasy-football-fetcher](https://github.com/BankkRoll/sleeper-fantasy-football-fetcher) - 
