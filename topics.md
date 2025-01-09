@@ -1735,6 +1735,7 @@
 
 ## machine-learning 
 
+- [narenaryan/promptml-cli](https://github.com/narenaryan/promptml-cli) - A CLI application to run Prompt Markup Language scripts
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AGI's query engine - Platform for building AI that can learn and answer questions over federated data.
@@ -1976,6 +1977,7 @@
 
 ## openai 
 
+- [narenaryan/promptml-cli](https://github.com/narenaryan/promptml-cli) - A CLI application to run Prompt Markup Language scripts
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and us
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
