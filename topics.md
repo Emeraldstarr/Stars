@@ -2299,7 +2299,7 @@
 - [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 - [Developer-Y/all-things-java](https://github.com/Developer-Y/all-things-java) - Collection of links on Java - tech talks/ sites/ advanced topics
 - [nomadcoders/javascript-for-beginners](https://github.com/nomadcoders/javascript-for-beginners) - Learning Javascript by Making a Productivity App
-- [alex-cory/fasthacks](https://github.com/alex-cory/fasthacks) - ⌘ Speed hacks to increase productivity
+- [iamthesiz/fasthacks](https://github.com/iamthesiz/fasthacks) - ⌘ Speed hacks to increase productivity
 - [plskz/100-days-of-productivity](https://github.com/plskz/100-days-of-productivity) - becoming one percent better everyday.
 - [Sven-Bo/Practical-Examples-for-Using-ChatGPT-in-Data-Analysis](https://github.com/Sven-Bo/Practical-Examples-for-Using-ChatGPT-in-Data-Analysis) - 
 - [Sven-Bo/automate-boring-office-tasks-links](https://github.com/Sven-Bo/automate-boring-office-tasks-links) - Live website to showcase ChatGPT automation potential
