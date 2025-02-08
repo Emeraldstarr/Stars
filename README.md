@@ -692,7 +692,6 @@
 - [adriansteffan/obsidian-to-jekyll](https://github.com/adriansteffan/obsidian-to-jekyll) - This is a simple python script that converts Obsidian notes to a format that is compatible with Jekyll themes that support wikilinks and backlinking like Jekyll Garden or Digital Garden Jekyll Templat
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
-- [pollinations/pollinations](https://github.com/pollinations/pollinations) - Free Open-Source Image and Text Generation
 - [roclark/sportsipy](https://github.com/roclark/sportsipy) - A free sports API written for python
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
@@ -990,6 +989,7 @@
 - [lobehub/lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪  Plugin Index - This is the plugin index for LobeChat. It accesses index.json from this repository to display a list of available plugins for LobeChat to the user.
 - [lobehub/lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 Agent Index - This is the agent index for LobeChat. It accesses index.json from this repository to display a list of available agents for LobeChat to the agent market.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
+- [pollinations/pollinations](https://github.com/pollinations/pollinations) - Free Open-Source Image and Text Generation
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [IdreesInc/Waypoint](https://github.com/IdreesInc/Waypoint) - Obsidian plugin that gives you the power to generate dynamic MOCs in your folder notes. Enables folders to show up in the graph view and removes the need for messy tags!
 - [vrtmrz/obsidian-tagfolder](https://github.com/vrtmrz/obsidian-tagfolder) - 
