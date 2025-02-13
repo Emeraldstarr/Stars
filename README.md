@@ -506,7 +506,7 @@
 - [Developer-Y/all-things-java](https://github.com/Developer-Y/all-things-java) - Collection of links on Java - tech talks/ sites/ advanced topics
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [xiaoyu2er/productivity-tools](https://github.com/xiaoyu2er/productivity-tools) - 
-- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2024. with learning resources
+- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources
 - [thecodeholic/php-developer-roadmap](https://github.com/thecodeholic/php-developer-roadmap) - This is PHP Developer Roadmap
 - [mrdbourke/machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
 - [shadsluiter/ExcelExamples](https://github.com/shadsluiter/ExcelExamples) - Example files for Excel Tutorials at https://www.youtube.com/watch?v=dEGVT1_yHKg&list=PLhPyEFL5u-i3ToOEhCPbpak4_S8zAZLn-
@@ -536,7 +536,7 @@
 - [shenwei356/awesome](https://github.com/shenwei356/awesome) - Awesome resources on Bioinformatics, data science, machine learning, programming language (Python, Golang, R, Perl) and miscellaneous stuff.
 - [The-Exchange-Fannie-Mae/theexchange-getting-started](https://github.com/The-Exchange-Fannie-Mae/theexchange-getting-started) - Provides an overview of The Exchange® by Fannie Mae and tips for getting started, including how to sign up, sign in, and try out our APIs and applications that address key housing industry challenges 
 - [dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [MethSarcus/leagueConstitution](https://github.com/MethSarcus/leagueConstitution) - A Fantasy Football Constitution for the 12EG Reddit Fantasy League
 - [dynastyprocess/data](https://github.com/dynastyprocess/data) - An open-data fantasy football repository, maintained by DynastyProcess.com
 - [phillipadsmith/awesome-github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness
