@@ -260,6 +260,7 @@
 - [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions) - This repository contains awesome chrome extensions
 - [Aetherinox/obsidian-dataview-snippets](https://github.com/Aetherinox/obsidian-dataview-snippets) - A collection of Obsidian.md scripts which include Tag & Page Clouds, Table of Contents / ToC, Bad / Missing Link reporting, etc.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [pjeby/tag-wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search tags from the Obsidian tag pane
 - [basilioss/obsidian-scrapers](https://github.com/basilioss/obsidian-scrapers) - Get information from link for Obsidian
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
@@ -472,7 +473,6 @@
 - [daveshap/ChatGPT_Custom_Instructions](https://github.com/daveshap/ChatGPT_Custom_Instructions) - Repo of custom instructions that you can use for ChatGPT
 - [r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets) - Welcome to the ObsidianMD CSS Snippets repository, a collection of CSS code snippets to enhance the user interface elements of ObsidianMD
 - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
-- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [promptslab/Awesome-Openai-GPTs](https://github.com/promptslab/Awesome-Openai-GPTs) - Awesome GPTs
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 - [1mehdifaraji/ios-settings-url-schemes](https://github.com/1mehdifaraji/ios-settings-url-schemes) - Complete list of iOS settings app url schemes
