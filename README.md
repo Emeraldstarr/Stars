@@ -68,6 +68,7 @@
 
 ## C++ 
 
+- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
@@ -105,6 +106,7 @@
 
 ## Dockerfile 
 
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [jaywcjlove/awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) - Collect JS Frameworks, Web components library and Admin Template.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
@@ -128,6 +130,8 @@
 
 ## HTML 
 
+- [GSA/data](https://github.com/GSA/data) - Assorted data from the General Services Administration.
+- [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
 - [learnlatex/learnlatex.github.io](https://github.com/learnlatex/learnlatex.github.io) - Learn LaTeX online
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 - [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - The Best Airplay SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
@@ -175,6 +179,8 @@
 
 ## JavaScript 
 
+- [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses) - A global repository of open address, building, and parcel data.
+- [brunosabot/streamline-card](https://github.com/brunosabot/streamline-card) - Streamline your Lovelace configuration with with a card template system.
 - [GongRzhe/TRAVEL-PLANNER-MCP-Server](https://github.com/GongRzhe/TRAVEL-PLANNER-MCP-Server) - Travel planning and itinerary management microservice server
 - [hannesj/mcp-openapi-schema](https://github.com/hannesj/mcp-openapi-schema) - OpenAPI Schema Model Context Protocol Server
 - [openbnb-org/mcp-server-airbnb](https://github.com/openbnb-org/mcp-server-airbnb) - 
@@ -394,6 +400,9 @@
 
 ## Others 
 
+- [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
+- [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
+- [ricardoquecria/caule-themes-pack-1](https://github.com/ricardoquecria/caule-themes-pack-1) - 10 modern colors  |  4 categories of styles (Black Glass, Black, Dark, Light)  |  40 themes in total  |  Animated icons for the weather forecast card  |  And a bonus automatic theme selector for your 
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
@@ -660,6 +669,9 @@
 
 ## Python 
 
+- [Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
+- [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
+- [Shaier/JFK_Records](https://github.com/Shaier/JFK_Records) - This repository contains the JFK Records dataset with ~2.2k declassified documents (~63k pages), cleaned, summarized, and stored in text files
 - [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) - Share code with LLMs via Model Context Protocol or clipboard. Profile-based customization enables easy switching between different tasks (like code review and documentation). Code outlining support is
 - [mamertofabian/elevenlabs-mcp-server](https://github.com/mamertofabian/elevenlabs-mcp-server) - 
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
@@ -698,7 +710,6 @@
 - [gtalarico/pyairtable](https://github.com/gtalarico/pyairtable) - Python Api Client for Airtable
 - [Fffrank/southwest-alerts](https://github.com/Fffrank/southwest-alerts) - 
 - [natelandau/obsidian-metadata](https://github.com/natelandau/obsidian-metadata) - Batch updates to metadata in an Obsidian vault
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [danymat/Obsidian-Markdown-Parser](https://github.com/danymat/Obsidian-Markdown-Parser) - This repository will give you tools to parse and fetch useful informations of your notes in your Obsidian vault.
@@ -1132,6 +1143,7 @@
 
 ## Vue 
 
+- [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - All-inclusive Python cheatsheet
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [morkro/happy-plants](https://github.com/morkro/happy-plants) - 🌵 Web application to manage plants
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
