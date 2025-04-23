@@ -289,7 +289,7 @@
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [nomadcoders/javascript-for-beginners](https://github.com/nomadcoders/javascript-for-beginners) - Learning Javascript by Making a Productivity App
 - [blenderskool/untab](https://github.com/blenderskool/untab) - 🔍 A productivity tool to boost your browser workflow!
-- [iamthesiz/fasthacks](https://github.com/iamthesiz/fasthacks) - ⌘ Speed hacks to increase productivity
+- [alex-cory/fasthacks](https://github.com/alex-cory/fasthacks) - ⌘ Speed hacks to increase productivity
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
 - [ObjTube/front-end-roadmap](https://github.com/ObjTube/front-end-roadmap) - Tell you how to learn front end development ~
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
@@ -360,6 +360,7 @@
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [jxich0621/Fannie-Mae-Single-Family-Loan](https://github.com/jxich0621/Fannie-Mae-Single-Family-Loan) - Python codes regarding to data conversion, visualization and learning analytics
 - [Machine-Learning-for-Finance/Machine-Learning-Algorithms](https://github.com/Machine-Learning-for-Finance/Machine-Learning-Algorithms) - Machine Learning Algorithms with a Focus on Finance
@@ -1095,7 +1096,6 @@
 - [sightread/sightread](https://github.com/sightread/sightread) - 🎹 Learn to play piano
 - [ZaneH/piano-trainer](https://github.com/ZaneH/piano-trainer) - Memorize piano scales with ease! A piano practice program w/ MIDI support. Consider it an interactive reference manual 🎹
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
