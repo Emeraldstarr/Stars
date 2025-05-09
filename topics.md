@@ -2213,6 +2213,7 @@
 
 ## others 
 
+- [johnnydecimal/awesome-johnnydecimal](https://github.com/johnnydecimal/awesome-johnnydecimal) - Utilities, tools, and scripts that people have built to support the system.
 - [ncwilson78/System-Prompt-Library](https://github.com/ncwilson78/System-Prompt-Library) - A library of shared system prompts for creating customized educational GPT agents.
 - [SabrinaRamonov/prompts](https://github.com/SabrinaRamonov/prompts) - Free Prompts Library | Sabrina Ramonov
 - [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
