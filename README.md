@@ -399,6 +399,7 @@
 
 ## Others 
 
+- [johnnydecimal/awesome-johnnydecimal](https://github.com/johnnydecimal/awesome-johnnydecimal) - Utilities, tools, and scripts that people have built to support the system.
 - [ncwilson78/System-Prompt-Library](https://github.com/ncwilson78/System-Prompt-Library) - A library of shared system prompts for creating customized educational GPT agents.
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
