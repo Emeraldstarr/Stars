@@ -1121,7 +1121,7 @@
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [splitbee/notion-api-worker](https://github.com/splitbee/notion-api-worker) - Notion as CMS with easy API access
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [tryfabric/martian](https://github.com/tryfabric/martian) - Markdown to Notion: Convert Markdown and GitHub Flavoured Markdown to Notion API Blocks and RichText 🔀📝
 - [watsuyo/notion-rss-reader](https://github.com/watsuyo/notion-rss-reader) - You can save articles from your favorite sites in the Notion Database.
 - [vaayne/NotionAI-Plus](https://github.com/vaayne/NotionAI-Plus) - NotionAI Plus is a browser extension that adds NotionAI's powerful features to any website you visit
@@ -1147,7 +1147,7 @@
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 ## VBA 
 
