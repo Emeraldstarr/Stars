@@ -180,7 +180,6 @@
 - [smithery-ai/mcp-obsidian](https://github.com/smithery-ai/mcp-obsidian) - A connector for Claude Desktop to read and search an Obsidian vault.
 - [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer) - An MCP server that installs other MCP servers for you
 - [mikechao/balldontlie-mcp](https://github.com/mikechao/balldontlie-mcp) - An MCP Server implementation that integrates the Balldontlie API, to provide information about players, teams and games for the NBA, NFL and MLB
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [0xshellming/mcp-summarizer](https://github.com/0xshellming/mcp-summarizer) - MCP Server for AI Summarization
 - [pskill9/website-downloader](https://github.com/pskill9/website-downloader) - MCP server to download entire websites
 - [JoshuaRileyDev/supabase-mcp-server](https://github.com/JoshuaRileyDev/supabase-mcp-server) - 
@@ -687,6 +686,7 @@
 - [hellokaton/unsplash-mcp-server](https://github.com/hellokaton/unsplash-mcp-server) - 🔎 A MCP server for Unsplash image search.
 - [devilcoder01/weather-mcp-server](https://github.com/devilcoder01/weather-mcp-server) - 
 - [entanglr/zettelkasten-mcp](https://github.com/entanglr/zettelkasten-mcp) - A Model Context Protocol (MCP) server that implements the Zettelkasten knowledge management methodology, allowing you to create, link, explore and synthesize atomic notes through Claude and other MCP-
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [arrismo/kaggle-mcp](https://github.com/arrismo/kaggle-mcp) - MCP server for Kaggle
 - [SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) - MCP implementation of Claude Code capabilities and more
 - [vivekVells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) - MCP server for document format conversion using pandoc.
