@@ -273,7 +273,7 @@
 - [pollinations/pollinations](https://github.com/pollinations/pollinations) - Free Open-Source Image and Text Generation
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions) - This repository contains awesome chrome extensions
-- [Aetherinox/obsidian-dataview-snippets](https://github.com/Aetherinox/obsidian-dataview-snippets) - A collection of Obsidian.md scripts which include Tag & Page Clouds, Table of Contents / ToC, Bad / Missing Link reporting, etc.
+- [aetherinox/obsidian-dataview-snippets](https://github.com/aetherinox/obsidian-dataview-snippets) - A collection of Obsidian.md scripts which include Tag & Page Clouds, Table of Contents / ToC, Bad / Missing Link reporting, etc.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [pjeby/tag-wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search tags from the Obsidian tag pane
 - [basilioss/obsidian-scrapers](https://github.com/basilioss/obsidian-scrapers) - Get information from link for Obsidian
@@ -712,7 +712,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [spyoungtech/FreeSimpleGUI](https://github.com/spyoungtech/FreeSimpleGUI) - The free-forever GUI library
 - [narenaryan/promptml-cli](https://github.com/narenaryan/promptml-cli) - A CLI application to run Prompt Markup Language scripts
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [jabberjabberjabber/ImageIndexer](https://github.com/jabberjabberjabber/ImageIndexer) - Creates an index of images, queries a local LLM and adds tags to the image metadata
 - [joeyagreco/leeger](https://github.com/joeyagreco/leeger) - Instant stats for any fantasy football league.
 - [AishaEvering/LangChain_Practice_Prompts_And_Chains](https://github.com/AishaEvering/LangChain_Practice_Prompts_And_Chains) - Practice building a simple app with prompts and chains.
