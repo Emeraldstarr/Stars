@@ -684,7 +684,7 @@
 - [pab1it0/tripadvisor-mcp](https://github.com/pab1it0/tripadvisor-mcp) - A Model Context Protocol (MCP) server for Tripadvisor Content API.  This provides access to Tripadvisor location data, reviews, and photos through standardized MCP interfaces, allowing AI assistants t
 - [reading-plus-ai/mcp-server-deep-research](https://github.com/reading-plus-ai/mcp-server-deep-research) - 
 - [hellokaton/unsplash-mcp-server](https://github.com/hellokaton/unsplash-mcp-server) - 🔎 A MCP server for Unsplash image search.
-- [sjanaX01/weather-mcp-server](https://github.com/sjanaX01/weather-mcp-server) - 
+- [devilcoder01/weather-mcp-server](https://github.com/devilcoder01/weather-mcp-server) - 
 - [entanglr/zettelkasten-mcp](https://github.com/entanglr/zettelkasten-mcp) - A Model Context Protocol (MCP) server that implements the Zettelkasten knowledge management methodology, allowing you to create, link, explore and synthesize atomic notes through Claude and other MCP-
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [arrismo/kaggle-mcp](https://github.com/arrismo/kaggle-mcp) - MCP server for Kaggle
