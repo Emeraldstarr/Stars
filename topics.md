@@ -160,6 +160,7 @@
 - [php](#php)
 - [postgresql](#postgresql)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [programming](#programming)
 - [project-management](#project-management)
 - [pwa](#pwa)
@@ -1925,7 +1926,6 @@
 
 ## mysql 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 
 ## natural-language-processing 
@@ -2245,7 +2245,7 @@
 - [pab1it0/tripadvisor-mcp](https://github.com/pab1it0/tripadvisor-mcp) - A Model Context Protocol (MCP) server for Tripadvisor Content API.  This provides access to Tripadvisor location data, reviews, and photos through standardized MCP interfaces, allowing AI assistants t
 - [mikechao/balldontlie-mcp](https://github.com/mikechao/balldontlie-mcp) - An MCP Server implementation that integrates the Balldontlie API, to provide information about players, teams and games for the NBA, NFL and MLB
 - [reading-plus-ai/mcp-server-deep-research](https://github.com/reading-plus-ai/mcp-server-deep-research) - 
-- [sjanaX01/weather-mcp-server](https://github.com/sjanaX01/weather-mcp-server) - 
+- [devilcoder01/weather-mcp-server](https://github.com/devilcoder01/weather-mcp-server) - 
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [arrismo/kaggle-mcp](https://github.com/arrismo/kaggle-mcp) - MCP server for Kaggle
 - [jjsantos01/jupyter-notebook-mcp](https://github.com/jjsantos01/jupyter-notebook-mcp) - A Model Context Protocol (MCP) for Jupyter Notebook
@@ -2467,7 +2467,6 @@
 - [Developer-Y/all-things-java](https://github.com/Developer-Y/all-things-java) - Collection of links on Java - tech talks/ sites/ advanced topics
 - [nomadcoders/javascript-for-beginners](https://github.com/nomadcoders/javascript-for-beginners) - Learning Javascript by Making a Productivity App
 - [iamthesiz/fasthacks](https://github.com/iamthesiz/fasthacks) - ⌘ Speed hacks to increase productivity
-- [plskz/100-days-of-productivity](https://github.com/plskz/100-days-of-productivity) - becoming one percent better everyday.
 - [Sven-Bo/Practical-Examples-for-Using-ChatGPT-in-Data-Analysis](https://github.com/Sven-Bo/Practical-Examples-for-Using-ChatGPT-in-Data-Analysis) - 
 - [Sven-Bo/automate-boring-office-tasks-links](https://github.com/Sven-Bo/automate-boring-office-tasks-links) - Live website to showcase ChatGPT automation potential
 - [Sven-Bo/python-beginner-projects-with-chatgpt](https://github.com/Sven-Bo/python-beginner-projects-with-chatgpt) - Learn how to use the power of ChatGPT to kickstart your next Python project as a beginner. Discover how this language model can help you with code and idea generation.
@@ -2663,6 +2662,22 @@
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+## productivity 
+
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
+- [extracts/mac-scripting](https://github.com/extracts/mac-scripting) - Automation scripts for macOS
+- [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
+- [kevinjalbert/notion-toolbox](https://github.com/kevinjalbert/notion-toolbox) - This is a collection of Notion tools that work in tandem together.
+- [blenderskool/untab](https://github.com/blenderskool/untab) - 🔍 A productivity tool to boost your browser workflow!
+- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
+- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
+- [plskz/100-days-of-productivity](https://github.com/plskz/100-days-of-productivity) - becoming one percent better everyday.
+- [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
+- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
+- [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
+- [sarthology/ProjectSoundtracks](https://github.com/sarthology/ProjectSoundtracks) - 🎧 List of best Soundtracks to boost your Productivity and Focus
 
 ## programming 
 
