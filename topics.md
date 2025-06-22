@@ -1372,7 +1372,6 @@
 - [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses) - A global repository of open address, building, and parcel data.
 - [brunosabot/streamline-card](https://github.com/brunosabot/streamline-card) - Streamline your Lovelace configuration with with a card template system.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-- [emmercm/igir](https://github.com/emmercm/igir) - 🕹 A zero-setup ROM collection manager that sorts, filters, extracts or archives, patches, and reports on collections of any size on any OS.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant) - Presence tracking and more for automation on the room-level
 - [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player) - Minimalistic media card for Home Assistant Lovelace UI
@@ -2294,6 +2293,7 @@
 - [tsug0d/AndroidMobilePentest101](https://github.com/tsug0d/AndroidMobilePentest101) - Pentesting Android Application Course For Kids+ (English and Vietnamese edition)
 - [PencilCode/pencilcode](https://github.com/PencilCode/pencilcode) - An online IDE for kids: pencilcode.net.
 - [inhumantsar/slurp](https://github.com/inhumantsar/slurp) - Slurps webpages and saves them as clean, uncluttered Markdown. Think Pocket, but better.
+- [emmercm/igir](https://github.com/emmercm/igir) - 🕹 A zero-setup ROM collection manager that sorts, filters, extracts or archives, patches, and reports on collections of any size on any OS.
 - [exdial/anbernic-apps](https://github.com/exdial/anbernic-apps) - Anbernic RG35XX Plus APPS
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 - [vaibhavk97/Poe](https://github.com/vaibhavk97/Poe) - Reverse engineered API for Quora's Poe - access Claude (Anthropic) and ChatGPT (OpenAI)
