@@ -780,7 +780,6 @@
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [adv1996/ff-data-engine](https://github.com/adv1996/ff-data-engine) - Fantasy Football Data Platform to collect data from different sources like: Sleeper, ESPN, Yahoo...etc. Will be used to create a data warehouse along with NFL statistics data.
 - [KevinEmery/FantasyFootballAdminScripts](https://github.com/KevinEmery/FantasyFootballAdminScripts) - Repository for a handful of Python scripts designed to parse various information from Sleeper fantasy football leagues
 - [beaugrimmel/fantasy-football-webscraper](https://github.com/beaugrimmel/fantasy-football-webscraper) - This application scrapes my fantasy footabll league (on Sleeper) and builds an optimal lineup out of free agents.
@@ -1137,6 +1136,7 @@
 - [ZaneH/piano-trainer](https://github.com/ZaneH/piano-trainer) - Memorize piano scales with ease! A piano practice program w/ MIDI support. Consider it an interactive reference manual 🎹
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [tjvonbr/keeper-calculator](https://github.com/tjvonbr/keeper-calculator) - 🧮 Calculator that evaluates your keepers in a Sleeper fantasy football league
