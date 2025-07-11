@@ -982,7 +982,7 @@
 - [Feel-ix-343/obsidian-canvas-moc](https://github.com/Feel-ix-343/obsidian-canvas-moc) - Converts MOC note files to an obsidian canvas
 - [l1xnan/obsidian-better-export-pdf](https://github.com/l1xnan/obsidian-better-export-pdf) - Obsidian PDF export enhancement plugin
 - [ruivieira/obsidian-plugin-logseq](https://github.com/ruivieira/obsidian-plugin-logseq) - A simple plugin to make Obsidian's preview of LogSeq markdown a bit more pleasant.
-- [chrisgrieser/obsidian-theme-design-utilities](https://github.com/chrisgrieser/obsidian-theme-design-utilities) - Some Utilities and Quality-of-Life Features for Designers of Obsidian Themes
+- [chrisgrieser/obsidian-theme-design-utilities](https://github.com/chrisgrieser/obsidian-theme-design-utilities) - Some utilities and Quality-of-Life features for designers of Obsidian themes.
 - [franciskafieh/obsidian-list-modified](https://github.com/franciskafieh/obsidian-list-modified) - 🪨 The advanced and adaptive changelog for Obsidian. Links all modified files meeting certain criteria to a timed (daily, weekly, monthly) note.
 - [czottmann/obsidian-actions-uri](https://github.com/czottmann/obsidian-actions-uri) - A plugin for Obsidian (https://obsidian.md) that adds additional `x-callback-url` endpoints to the app for common actions — it's a clean, super-charged addition to Obsidian URI.
 - [nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin) - This is a plugin for Obsidian (https://obsidian.md). Can open document with .html and .htm file extensions.
