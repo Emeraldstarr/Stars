@@ -667,7 +667,7 @@
 - [giuliacassara/awesome-social-engineering](https://github.com/giuliacassara/awesome-social-engineering) - A curated list of awesome social engineering resources.
 - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+- [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## PHP 
