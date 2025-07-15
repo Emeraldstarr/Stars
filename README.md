@@ -715,7 +715,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [spyoungtech/FreeSimpleGUI](https://github.com/spyoungtech/FreeSimpleGUI) - The free-forever GUI library
 - [narenaryan/promptml-cli](https://github.com/narenaryan/promptml-cli) - A CLI application to run Prompt Markup Language scripts
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [jabberjabberjabber/ImageIndexer](https://github.com/jabberjabberjabber/ImageIndexer) - Creates an index of images, queries a local LLM and adds tags to the image metadata
 - [joeyagreco/leeger](https://github.com/joeyagreco/leeger) - Instant stats for any fantasy football league.
 - [AishaEvering/LangChain_Practice_Prompts_And_Chains](https://github.com/AishaEvering/LangChain_Practice_Prompts_And_Chains) - Practice building a simple app with prompts and chains.
