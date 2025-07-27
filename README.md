@@ -450,7 +450,7 @@
 - [SyedUmairCodes/self-taught-developer](https://github.com/SyedUmairCodes/self-taught-developer) - Free and high quality resources for beginners to learn how to code.
 - [sophi-li/OKRs-self-learning](https://github.com/sophi-li/OKRs-self-learning) - Sophia's OKRs for learning how to code.
 - [coderplex-org/learn](https://github.com/coderplex-org/learn) - Open Source Learning Guides to master your favorite technology
-- [zee-shan-ahmad/learn-regex](https://github.com/zee-shan-ahmad/learn-regex) - Learn regex the easy way
+- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [bcdavasconcelos/DEVONthink-3](https://github.com/bcdavasconcelos/DEVONthink-3) - Applescripts, smart rules and templates for DEVONthink 3
 - [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
 - [Twigonometry/Cybersecurity-Notes](https://github.com/Twigonometry/Cybersecurity-Notes) - My Markdown notes for all things cybersecurity
