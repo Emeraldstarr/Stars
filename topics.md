@@ -227,6 +227,7 @@
 - [windows](#windows)
 - [xcode](#xcode)
 - [xml](#xml)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -2407,7 +2408,7 @@
 - [chhoumann/Templater_Templates](https://github.com/chhoumann/Templater_Templates) - My templates for the Templater Obsidian.md plugin.
 - [lguenth/obsidian-templates](https://github.com/lguenth/obsidian-templates) - A collection of templates for Obsidian
 - [tomzorz/obsidian-toolkit](https://github.com/tomzorz/obsidian-toolkit) - Plugins, templates, css snippets and more for obsidian.md
-- [ykerus/obsidian-templates](https://github.com/ykerus/obsidian-templates) - Obsidian vault with task reminders, lesson tracker, milestone tracker, habit tracker, several templates to kickstart meetings, projects, goals, and more! 🚀
+- [ykerus/obsidian-templates](https://github.com/ykerus/obsidian-templates) - Obsidian vault with task reminders, milestone and lesson trackers, automated tools for keeping things tidy, several templates to kickstart meetings and projects, create kanban boards and more! 🚀
 - [Pamela-Wang/Obsidian-Starter-Vaults](https://github.com/Pamela-Wang/Obsidian-Starter-Vaults) - This repo contains the templates used in my automated obsidian weekly review video and also an accompanying vault with the folder structure expected and plugins (periodic note settings etc)
 - [faroukx/obsidian-homepage](https://github.com/faroukx/obsidian-homepage) - Obsidian homepage - Minimal and aesthetic template (with my unique features)
 - [aseyedia/Obsidian_DailyNotes](https://github.com/aseyedia/Obsidian_DailyNotes) - Repo containing Obsidian Templates that I use and customize.
@@ -3256,6 +3257,12 @@
 
 - [godlytalias/Bible-Database](https://github.com/godlytalias/Bible-Database) - Bible databases as XML, JSON, SQL & SQLITE3 Database format for various languages. Developers can download it freely for their development works. Freely received, freely give.
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
+
+## zsh 
+
+- [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 
 
 ## License
