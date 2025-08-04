@@ -390,7 +390,6 @@
 
 ## Makefile 
 
-- [ykerus/obsidian-templates](https://github.com/ykerus/obsidian-templates) - Obsidian vault with task reminders, lesson tracker, milestone tracker, habit tracker, several templates to kickstart meetings, projects, goals, and more! 🚀
 - [susam/gitpr](https://github.com/susam/gitpr) - Quick reference guide on fork and pull request workflow
 
 ## Markdown 
@@ -870,6 +869,7 @@
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [bhagyas/app-urls](https://github.com/bhagyas/app-urls) - A long list of App URLs for iOS, macOS and Android
 - [Magic-wei/obsidian_wiki_template](https://github.com/Magic-wei/obsidian_wiki_template) - A personal wiki or note-taking system template based on Obsidian.
+- [ykerus/obsidian-templates](https://github.com/ykerus/obsidian-templates) - Obsidian vault with task reminders, milestone and lesson trackers, automated tools for keeping things tidy, several templates to kickstart meetings and projects, create kanban boards and more! 🚀
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [selfire1/goodsidian](https://github.com/selfire1/goodsidian) - A Goodreads to Obsidian script
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
