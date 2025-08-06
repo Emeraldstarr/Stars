@@ -254,7 +254,6 @@
 - [unvsDev/pixel-widget](https://github.com/unvsDev/pixel-widget) - Scriptable Widget inspired by Pixel's "At a Glance" widget.
 - [doersino/scriptable-widgets](https://github.com/doersino/scriptable-widgets) - A collection of Scriptable widgets I've built.
 - [thisisevanfox/nhl-my-team-ios-widget](https://github.com/thisisevanfox/nhl-my-team-ios-widget) - "NHL-MyTeam" Scriptable iOS widget 🏒
-- [wt365/florus](https://github.com/wt365/florus) - Florus is a piece of Javascript code applied to the Scriptable App, displaying date, lunar date, weekday, year progress, weather information, events reminder, funds valuation, stock quotes, as well as
 - [dharmikumbhani/scriptable](https://github.com/dharmikumbhani/scriptable) - Collection of widgets and scripts made using scriptable app for iOS
 - [mzeryck/Weather-Cal](https://github.com/mzeryck/Weather-Cal) - This is a Scriptable widget that lets you display, position, and format multiple elements, including dates and events, weather information, battery level, and more. You can even create your own elemen
 - [schl3ck/ios-scriptable-types](https://github.com/schl3ck/ios-scriptable-types) - 
@@ -352,6 +351,7 @@
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Gen AI site - including the Gemini API and Gemma
 - [MiesnerJacob/learn-prompting](https://github.com/MiesnerJacob/learn-prompting) - The most comprehensive prompt engineering course available.
 - [pollinations/hive_old](https://github.com/pollinations/hive_old) - Generative Colab notebooks for Pollinations.AI
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [Azure/azureml-examples](https://github.com/Azure/azureml-examples) - Official community-driven Azure Machine Learning examples, tested with GitHub Actions.
 - [milaan9/01_Python_Introduction](https://github.com/milaan9/01_Python_Introduction) - Learn the basics of Python. These tutorials are for Python beginners. so even if you have no prior knowledge of Python, you won’t face any difficulty understanding these tutorials.
@@ -385,7 +385,6 @@
 
 ## MDX 
 
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 
 ## Makefile 
