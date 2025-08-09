@@ -2314,7 +2314,7 @@
 - [mamertofabian/elevenlabs-mcp-server](https://github.com/mamertofabian/elevenlabs-mcp-server) - 
 - [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) - 🗂️🤖 Airtable Model Context Protocol Server, for allowing AI systems to interact with your Airtable bases
 - [openbnb-org/mcp-server-airbnb](https://github.com/openbnb-org/mcp-server-airbnb) - 
-- [ppl-ai/modelcontextprotocol](https://github.com/ppl-ai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
+- [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
 - [StevenStavrakis/obsidian-mcp](https://github.com/StevenStavrakis/obsidian-mcp) - A simple MCP server for Obsidian
 - [thehookup/Node-RED-Examples](https://github.com/thehookup/Node-RED-Examples) - Example flows to get started with Node-RED and hass.io
 - [kevinpdev/gpt-from-scratch](https://github.com/kevinpdev/gpt-from-scratch) - Educational implementation of a small GPT model from scratch in a single Jupyter Notebook
@@ -2423,7 +2423,6 @@
 - [ycrao/scripts-for-scriptable](https://github.com/ycrao/scripts-for-scriptable) - as its name
 - [PascalBru/ios-scriptable](https://github.com/PascalBru/ios-scriptable) - Some scripts for the Scriptable App on iOS
 - [gebeto/scriptables](https://github.com/gebeto/scriptables) - Scriptable Development Environment for VSCode
-- [wt365/florus](https://github.com/wt365/florus) - Florus is a piece of Javascript code applied to the Scriptable App, displaying date, lunar date, weekday, year progress, weather information, events reminder, funds valuation, stock quotes, as well as
 - [schl3ck/ios-scriptable-types](https://github.com/schl3ck/ios-scriptable-types) - 
 - [Saudumm/scriptable-News-Widget](https://github.com/Saudumm/scriptable-News-Widget) - iOS Scriptable News Widget (WordPress & RSS)
 - [kylereddoch/scriptable](https://github.com/kylereddoch/scriptable) - A repository for scriptable (iOS app) JavaScript files that provide little snippets of information.
