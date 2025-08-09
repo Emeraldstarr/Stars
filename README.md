@@ -190,7 +190,7 @@
 - [hannesj/mcp-openapi-schema](https://github.com/hannesj/mcp-openapi-schema) - OpenAPI Schema Model Context Protocol Server
 - [janwilmake/openapi-mcp-server](https://github.com/janwilmake/openapi-mcp-server) - Allow AI to wade through complex OpenAPIs using Simple Language
 - [openbnb-org/mcp-server-airbnb](https://github.com/openbnb-org/mcp-server-airbnb) - 
-- [ppl-ai/modelcontextprotocol](https://github.com/ppl-ai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
+- [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
 - [thehookup/Node-RED-Examples](https://github.com/thehookup/Node-RED-Examples) - Example flows to get started with Node-RED and hass.io
 - [marioortizmanero/reddit-search-on-google](https://github.com/marioortizmanero/reddit-search-on-google) - Button on Google to search only for Reddit posts
 - [interlocklabs/exp-1.0.0-promptlab](https://github.com/interlocklabs/exp-1.0.0-promptlab) - A web app to experiment with chained prompts faster.
