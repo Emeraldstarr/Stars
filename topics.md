@@ -2581,7 +2581,7 @@
 - [oleeskild/digitalgarden](https://github.com/oleeskild/digitalgarden) - 
 - [1mehdifaraji/ios-settings-url-schemes](https://github.com/1mehdifaraji/ios-settings-url-schemes) - Complete list of iOS settings app url schemes
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [Artel250/Obsidian-Gemini-Assistant](https://github.com/Artel250/Obsidian-Gemini-Assistant) - An obsidian plugin that enables you to talk to Google Gemnini directly
 - [Canna71/obsidian-chronology](https://github.com/Canna71/obsidian-chronology) - 
