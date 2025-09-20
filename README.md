@@ -66,7 +66,7 @@
 
 - [Marcus-L/m4rcus.HatchBaby.Rest](https://github.com/Marcus-L/m4rcus.HatchBaby.Rest) - Control Hatch Baby Rest devices using Bluetooth LE
 - [EPPlusSoftware/EPPlus](https://github.com/EPPlusSoftware/EPPlus) - EPPlus-Excel spreadsheets for .NET
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 
 ## C++ 
 
