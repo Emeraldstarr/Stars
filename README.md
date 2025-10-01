@@ -349,7 +349,6 @@
 - [bjpayne/mortgage-underwriting-assistant](https://github.com/bjpayne/mortgage-underwriting-assistant) - Udacity Data Science Capstone Project - Mortgage Underwriting Asistant
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Gen AI site - including the Gemini API and Gemma
 - [MiesnerJacob/learn-prompting](https://github.com/MiesnerJacob/learn-prompting) - The most comprehensive prompt engineering course available.
-- [pollinations/hive_old](https://github.com/pollinations/hive_old) - Generative Colab notebooks for Pollinations.AI
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [Azure/azureml-examples](https://github.com/Azure/azureml-examples) - Official community-driven Azure Machine Learning examples, tested with GitHub Actions.
