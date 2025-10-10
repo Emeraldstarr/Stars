@@ -347,7 +347,7 @@
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [NARKOZ/guides](https://github.com/NARKOZ/guides) - Design and development guides
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - 🚀 A hand-curated list of free, open, and developer-friendly APIs
 - [trntv/apis-list](https://github.com/trntv/apis-list) - Community maintained, human and machine readable list of Public APIs 📝
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 
@@ -1379,7 +1379,6 @@
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources
-- [nikitavoloboev/flow](https://github.com/nikitavoloboev/flow) - Do things fast
 - [ty4z2008/Qix](https://github.com/ty4z2008/Qix) - Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang
 
 ## golang 
@@ -1449,7 +1448,6 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [HQarroum/awesome-iot](https://github.com/HQarroum/awesome-iot) - 🤖 A curated list of awesome Internet of Things projects and resources.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [treflehq/trefle-api](https://github.com/treflehq/trefle-api) - 🍀 Trefle is a botanical JSON REST API for plants species, allowing you to search and query over all the registered species, and build the next gardening apps and farming robots.
 - [marcreichel/scriptable-ios-widgets](https://github.com/marcreichel/scriptable-ios-widgets) - A collection of Scriptable iOS Widgets
 - [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note.
@@ -2577,7 +2575,7 @@
 - [mamertofabian/elevenlabs-mcp-server](https://github.com/mamertofabian/elevenlabs-mcp-server) - 
 - [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) - 🗂️🤖 Airtable Model Context Protocol Server, for allowing AI systems to interact with your Airtable bases
 - [openbnb-org/mcp-server-airbnb](https://github.com/openbnb-org/mcp-server-airbnb) - Search Airbnb using your AI Agent
-- [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
+- [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - The official MCP server implementation for the Perplexity API Platform
 - [StevenStavrakis/obsidian-mcp](https://github.com/StevenStavrakis/obsidian-mcp) - A simple MCP server for Obsidian
 - [thehookup/Node-RED-Examples](https://github.com/thehookup/Node-RED-Examples) - Example flows to get started with Node-RED and hass.io
 - [kevinpdev/gpt-from-scratch](https://github.com/kevinpdev/gpt-from-scratch) - Educational implementation of a small GPT model from scratch in a single Jupyter Notebook
@@ -3179,6 +3177,7 @@
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [bayne/dot-http](https://github.com/bayne/dot-http) - dot-http is a text-based scriptable HTTP client
 - [ZaneH/piano-trainer](https://github.com/ZaneH/piano-trainer) - Memorize piano scales with ease! A piano practice program w/ MIDI support. Consider it an interactive reference manual 🎹
+- [nikitavoloboev/flow](https://github.com/nikitavoloboev/flow) - Do things fast
 
 ## scala 
 
