@@ -233,6 +233,7 @@
 - [windows](#windows)
 - [xcode](#xcode)
 - [xml](#xml)
+- [youtube](#youtube)
 - [zsh](#zsh)
 
 ## ai 
@@ -3501,6 +3502,15 @@
 
 - [godlytalias/Bible-Database](https://github.com/godlytalias/Bible-Database) - Bible databases as XML, JSON, SQL & SQLITE3 Database format for various languages. Developers can download it freely for their development works. Freely received, freely give.
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
+
+## youtube 
+
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+- [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
+- [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
+- [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
+- [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
+- [learn-anything/youtube](https://github.com/learn-anything/youtube) - Awesome YouTube channels
 
 ## zsh 
 
