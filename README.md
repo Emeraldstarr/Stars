@@ -962,7 +962,7 @@
 - [joethei/obsidian-calibre](https://github.com/joethei/obsidian-calibre) - Import information about books from your Calibre Library. WIP
 - [joelseq/obsidian-linkstowr](https://github.com/joelseq/obsidian-linkstowr) - Effortlessly save and organize your web links in Obsidian
 - [czottmann/obsidian-mononote](https://github.com/czottmann/obsidian-mononote) - An Obsidian plugin that ensures each note occupies only one tab. If a note is already open, its existing tab will be focussed instead of opening the same file in the current tab.
-- [Rooyca/obsidian-api-request](https://github.com/Rooyca/obsidian-api-request) - Obsidian plugin that allows you to make HTTP requests and display responses directly in the document, in codeblocks, or store them in localStorage.
+- [Rooyca/obsidian-api-request](https://github.com/Rooyca/obsidian-api-request) - Obsidian plugin that allows you to integrate API data into your notes with request caching, variable support, and precise JSON extraction.
 - [mgmeyers/obsidian-easy-bake](https://github.com/mgmeyers/obsidian-easy-bake) - Compile many Obsidian notes down to one.
 - [chrisgrieser/new-tab-default-page](https://github.com/chrisgrieser/new-tab-default-page) - Obsidian plugin to open a note of your choice when creating a new tab, like in the browser.
 - [nevernotmove/obsidian-chordlyrics](https://github.com/nevernotmove/obsidian-chordlyrics) - Obsidian.md plugin that displays chords over lyrics.
