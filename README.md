@@ -769,7 +769,7 @@
 - [Sven-Bo/automate-office-tasks-using-chatgpt-python](https://github.com/Sven-Bo/automate-office-tasks-using-chatgpt-python) - Use ChatGPT and Python to automate tedious office tasks such as automating Outlook, creating PowerPoint presentations, generating charts from Excel data and manipulating PDFs
 - [marcomusy/pianoplayer](https://github.com/marcomusy/pianoplayer) - Automatic fingering generator for piano scores
 - [srafay/Machine_Learning_A-Z](https://github.com/srafay/Machine_Learning_A-Z) - Learning to create Machine Learning Algorithms
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
