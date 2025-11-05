@@ -188,7 +188,6 @@
 - [GongRzhe/TRAVEL-PLANNER-MCP-Server](https://github.com/GongRzhe/TRAVEL-PLANNER-MCP-Server) - 
 - [hannesj/mcp-openapi-schema](https://github.com/hannesj/mcp-openapi-schema) - OpenAPI Schema Model Context Protocol Server
 - [openbnb-org/mcp-server-airbnb](https://github.com/openbnb-org/mcp-server-airbnb) - Search Airbnb using your AI Agent
-- [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - The official MCP server implementation for the Perplexity API Platform
 - [thehookup/Node-RED-Examples](https://github.com/thehookup/Node-RED-Examples) - Example flows to get started with Node-RED and hass.io
 - [marioortizmanero/reddit-search-on-google](https://github.com/marioortizmanero/reddit-search-on-google) - Button on Google to search only for Reddit posts
 - [interlocklabs/exp-1.0.0-promptlab](https://github.com/interlocklabs/exp-1.0.0-promptlab) - A web app to experiment with chained prompts faster.
@@ -919,6 +918,7 @@
 - [tevonsb/homeassistant-mcp](https://github.com/tevonsb/homeassistant-mcp) - A MCP server for Home Assistant
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) - A flexible HTTP fetching Model Context Protocol server.
 - [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) - 🗂️🤖 Airtable Model Context Protocol Server, for allowing AI systems to interact with your Airtable bases
+- [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - The official MCP server implementation for the Perplexity API Platform
 - [StevenStavrakis/obsidian-mcp](https://github.com/StevenStavrakis/obsidian-mcp) - A simple MCP server for Obsidian
 - [emreloper/apple-health-api](https://github.com/emreloper/apple-health-api) - Create a personal Apple Health API using Shortcuts and Firebase
 - [plasticrake/tplink-smarthome-api](https://github.com/plasticrake/tplink-smarthome-api) - TP-Link Smarthome WiFi API
