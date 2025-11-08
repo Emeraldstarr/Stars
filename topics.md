@@ -39,6 +39,7 @@
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
+- [config](#config)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [crawler](#crawler)
@@ -943,6 +944,10 @@
 - [Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete) - A comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques.
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
+
+## config 
+
+- [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
 
 ## continuous-integration 
 
