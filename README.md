@@ -707,7 +707,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [spyoungtech/FreeSimpleGUI](https://github.com/spyoungtech/FreeSimpleGUI) - The free-forever GUI library
 - [narenaryan/promptml-cli](https://github.com/narenaryan/promptml-cli) - A CLI application to run Prompt Markup Language scripts
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [jabberjabberjabber/ImageIndexer](https://github.com/jabberjabberjabber/ImageIndexer) - Creates an index of images, queries a local LLM and adds tags to the image metadata
 - [joeyagreco/leeger](https://github.com/joeyagreco/leeger) - Instant stats for any fantasy football league.
 - [AishaEvering/LangChain_Practice_Prompts_And_Chains](https://github.com/AishaEvering/LangChain_Practice_Prompts_And_Chains) - Practice building a simple app with prompts and chains.
@@ -904,6 +904,7 @@
 
 ## TypeScript 
 
+- [kt474/fantasy-football-wrapped](https://github.com/kt474/fantasy-football-wrapped) - Detailed insights and charts for sleeper fantasy football leagues
 - [zueai/mcp-manager](https://github.com/zueai/mcp-manager) - simple web ui to manage mcp (model context protocol) servers in the claude app
 - [KyrieTangSheng/mcp-server-nationalparks](https://github.com/KyrieTangSheng/mcp-server-nationalparks) - 
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
@@ -1182,7 +1183,6 @@
 
 ## Vue 
 
-- [kt474/fantasy-football-wrapped](https://github.com/kt474/fantasy-football-wrapped) - Detailed insights and charts for sleeper fantasy football leagues
 - [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - All-inclusive Python cheatsheet
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [morkro/happy-plants](https://github.com/morkro/happy-plants) - 🌵 Web application to manage plants
