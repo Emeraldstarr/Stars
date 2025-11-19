@@ -405,7 +405,6 @@
 
 ## Others 
 
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [johnnydecimal/awesome-johnnydecimal](https://github.com/johnnydecimal/awesome-johnnydecimal) - Utilities, tools, and scripts that people have built to support the system.
 - [ncwilson78/System-Prompt-Library](https://github.com/ncwilson78/System-Prompt-Library) - A library of shared system prompts for creating customized educational GPT agents.
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
@@ -1183,7 +1182,7 @@
 
 ## Vue 
 
-- [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - All-inclusive Python cheatsheet
+- [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - All-inclusive Python cheatsheet
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [morkro/happy-plants](https://github.com/morkro/happy-plants) - 🌵 Web application to manage plants
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
