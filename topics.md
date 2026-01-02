@@ -2183,7 +2183,7 @@
 - [entanglr/zettelkasten-mcp](https://github.com/entanglr/zettelkasten-mcp) - A Model Context Protocol (MCP) server that implements the Zettelkasten knowledge management methodology, allowing you to create, link, explore and synthesize atomic notes through Claude and other MCP-
 - [Seniblue/Underwater](https://github.com/Seniblue/Underwater) - An obsidian.md theme
 - [inhumantsar/slurp](https://github.com/inhumantsar/slurp) - Slurps webpages and saves them as clean, uncluttered Markdown. Think Pocket, but better.
-- [groepl/Take-Useful-Notes](https://github.com/groepl/Take-Useful-Notes) - eBook: "MAKE USEFUL NOTES. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten."
+- [groepl/Take-Useful-Notes](https://github.com/groepl/Take-Useful-Notes) - The Minimalist’s Zettelkasten. Think Better with Less.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [obsidian-community/obsidian-full-calendar](https://github.com/obsidian-community/obsidian-full-calendar) - Keep events and manage your calendar alongside all your other notes in your Obsidian Vault.
 - [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business) - Using Obsidian.... For Business!
