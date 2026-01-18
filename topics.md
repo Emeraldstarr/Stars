@@ -509,7 +509,7 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-- [learn-anything/curated-lists](https://github.com/learn-anything/curated-lists) - Curated lists on various topics
+- [linsa-io/curated-lists](https://github.com/linsa-io/curated-lists) - Curated lists on various topics
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [JingwenTian/awesome-frontend](https://github.com/JingwenTian/awesome-frontend) - A curated list of amazingly awesome frontend libraries, resources and shiny things.
 - [shenwei356/awesome](https://github.com/shenwei356/awesome) - Awesome resources on Bioinformatics, data science, machine learning, programming language (Python, Golang, R, Perl) and miscellaneous stuff.
@@ -548,21 +548,21 @@
 - [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript Learning Resources
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
-- [learn-anything/websites](https://github.com/learn-anything/websites) - Awesome Websites
-- [learn-anything/youtube](https://github.com/learn-anything/youtube) - Awesome YouTube channels
-- [learn-anything/documentaries](https://github.com/learn-anything/documentaries) - Awesome Documentaries
-- [learn-anything/safari-extensions](https://github.com/learn-anything/safari-extensions) - Awesome Safari extensions
-- [learn-anything/programming-languages](https://github.com/learn-anything/programming-languages) - Awesome Programming Languages
-- [learn-anything/firefox-extensions](https://github.com/learn-anything/firefox-extensions) - Awesome Firefox Extensions
-- [learn-anything/chrome-extensions](https://github.com/learn-anything/chrome-extensions) - Awesome Chrome Extensions
-- [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
+- [linsa-io/websites](https://github.com/linsa-io/websites) - Awesome Websites
+- [linsa-io/youtube](https://github.com/linsa-io/youtube) - Awesome YouTube channels
+- [linsa-io/documentaries](https://github.com/linsa-io/documentaries) - Awesome Documentaries
+- [linsa-io/safari-extensions](https://github.com/linsa-io/safari-extensions) - Awesome Safari extensions
+- [linsa-io/programming-languages](https://github.com/linsa-io/programming-languages) - Awesome Programming Languages
+- [linsa-io/firefox-extensions](https://github.com/linsa-io/firefox-extensions) - Awesome Firefox Extensions
+- [linsa-io/chrome-extensions](https://github.com/linsa-io/chrome-extensions) - Awesome Chrome Extensions
+- [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-- [learn-anything/macos-apps](https://github.com/learn-anything/macos-apps) - Awesome macOS apps
+- [linsa-io/macos-apps](https://github.com/linsa-io/macos-apps) - Awesome macOS apps
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
 - [noahbuscher/inspire](https://github.com/noahbuscher/inspire) - Collection of frontend dev and web design links :bulb:
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
@@ -677,7 +677,7 @@
 - [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion) - A curated list of awesome Notion related things.
 - [thedaviddias/Resources-Front-End-Beginner](https://github.com/thedaviddias/Resources-Front-End-Beginner) - 💯 The most essential list of resources for Front-End beginners (🇺🇸 & 🇫🇷)
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [learn-anything/curated-lists](https://github.com/learn-anything/curated-lists) - Curated lists on various topics
+- [linsa-io/curated-lists](https://github.com/linsa-io/curated-lists) - Curated lists on various topics
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [simsieg/awesome-maps](https://github.com/simsieg/awesome-maps) - There is more than google: A collection of great online maps 🌍🗺🌎
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -706,19 +706,19 @@
 - [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript Learning Resources
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
-- [learn-anything/websites](https://github.com/learn-anything/websites) - Awesome Websites
-- [learn-anything/youtube](https://github.com/learn-anything/youtube) - Awesome YouTube channels
-- [learn-anything/documentaries](https://github.com/learn-anything/documentaries) - Awesome Documentaries
-- [learn-anything/safari-extensions](https://github.com/learn-anything/safari-extensions) - Awesome Safari extensions
-- [learn-anything/programming-languages](https://github.com/learn-anything/programming-languages) - Awesome Programming Languages
-- [learn-anything/firefox-extensions](https://github.com/learn-anything/firefox-extensions) - Awesome Firefox Extensions
-- [learn-anything/chrome-extensions](https://github.com/learn-anything/chrome-extensions) - Awesome Chrome Extensions
-- [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
+- [linsa-io/websites](https://github.com/linsa-io/websites) - Awesome Websites
+- [linsa-io/youtube](https://github.com/linsa-io/youtube) - Awesome YouTube channels
+- [linsa-io/documentaries](https://github.com/linsa-io/documentaries) - Awesome Documentaries
+- [linsa-io/safari-extensions](https://github.com/linsa-io/safari-extensions) - Awesome Safari extensions
+- [linsa-io/programming-languages](https://github.com/linsa-io/programming-languages) - Awesome Programming Languages
+- [linsa-io/firefox-extensions](https://github.com/linsa-io/firefox-extensions) - Awesome Firefox Extensions
+- [linsa-io/chrome-extensions](https://github.com/linsa-io/chrome-extensions) - Awesome Chrome Extensions
+- [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-- [learn-anything/macos-apps](https://github.com/learn-anything/macos-apps) - Awesome macOS apps
+- [linsa-io/macos-apps](https://github.com/linsa-io/macos-apps) - Awesome macOS apps
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
 - [noahbuscher/inspire](https://github.com/noahbuscher/inspire) - Collection of frontend dev and web design links :bulb:
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
@@ -890,7 +890,7 @@
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [blenderskool/untab](https://github.com/blenderskool/untab) - 🔍 A productivity tool to boost your browser workflow!
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
-- [learn-anything/chrome-extensions](https://github.com/learn-anything/chrome-extensions) - Awesome Chrome Extensions
+- [linsa-io/chrome-extensions](https://github.com/linsa-io/chrome-extensions) - Awesome Chrome Extensions
 
 ## chrome-extension 
 
@@ -1240,7 +1240,7 @@
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [yrgo/awesome-educational-games](https://github.com/yrgo/awesome-educational-games) - A curated list of awesome educational games to learn editors, languages, programming, etc
-- [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
+- [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
@@ -1298,7 +1298,7 @@
 - [blenderskool/untab](https://github.com/blenderskool/untab) - 🔍 A productivity tool to boost your browser workflow!
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
 - [Hunter-Github/evil-and-not-wholly-awesome-firefox](https://github.com/Hunter-Github/evil-and-not-wholly-awesome-firefox) - [deprecated since Mozilla turned evil] A list of resources for and about Mozilla Firefox
-- [learn-anything/firefox-extensions](https://github.com/learn-anything/firefox-extensions) - Awesome Firefox Extensions
+- [linsa-io/firefox-extensions](https://github.com/linsa-io/firefox-extensions) - Awesome Firefox Extensions
 
 ## flask 
 
@@ -1849,12 +1849,12 @@
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [ObjTube/front-end-roadmap](https://github.com/ObjTube/front-end-roadmap) - Tell you how to learn front end development ~
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [learn-anything/curated-lists](https://github.com/learn-anything/curated-lists) - Curated lists on various topics
+- [linsa-io/curated-lists](https://github.com/linsa-io/curated-lists) - Curated lists on various topics
 - [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript Learning Resources
-- [learn-anything/documentaries](https://github.com/learn-anything/documentaries) - Awesome Documentaries
-- [learn-anything/safari-extensions](https://github.com/learn-anything/safari-extensions) - Awesome Safari extensions
-- [learn-anything/programming-languages](https://github.com/learn-anything/programming-languages) - Awesome Programming Languages
-- [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
+- [linsa-io/documentaries](https://github.com/linsa-io/documentaries) - Awesome Documentaries
+- [linsa-io/safari-extensions](https://github.com/linsa-io/safari-extensions) - Awesome Safari extensions
+- [linsa-io/programming-languages](https://github.com/linsa-io/programming-languages) - Awesome Programming Languages
+- [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
 
 ## library 
 
@@ -1990,7 +1990,7 @@
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
-- [learn-anything/macos-apps](https://github.com/learn-anything/macos-apps) - Awesome macOS apps
+- [linsa-io/macos-apps](https://github.com/linsa-io/macos-apps) - Awesome macOS apps
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
@@ -3608,7 +3608,7 @@
 ## website 
 
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
-- [learn-anything/websites](https://github.com/learn-anything/websites) - Awesome Websites
+- [linsa-io/websites](https://github.com/linsa-io/websites) - Awesome Websites
 
 ## windows 
 
@@ -3638,7 +3638,7 @@
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
 - [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
-- [learn-anything/youtube](https://github.com/learn-anything/youtube) - Awesome YouTube channels
+- [linsa-io/youtube](https://github.com/linsa-io/youtube) - Awesome YouTube channels
 
 ## zsh 
 
