@@ -85,7 +85,7 @@
 - [lguenth/obsidian-templates](https://github.com/lguenth/obsidian-templates) - A collection of templates for Obsidian
 - [tomzorz/obsidian-toolkit](https://github.com/tomzorz/obsidian-toolkit) - Plugins, templates, css snippets and more for obsidian.md
 - [ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets) - This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2026
 - [Jekyll-Garden/jekyll-garden.github.io](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - A simple Jekyll theme that turns your Obsidian notes into a beautiful website.
 - [efemkay/obsidian-modular-css-layout](https://github.com/efemkay/obsidian-modular-css-layout) - CSS Layout hack for Obsidian.md
 - [deathau/Notation-for-Obsidian](https://github.com/deathau/Notation-for-Obsidian) - A theme for Obsidian, inspired by and borrowing elements from Notion
