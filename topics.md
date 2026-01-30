@@ -839,7 +839,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [ryanschiang/chatgpt-export](https://github.com/ryanschiang/chatgpt-export) - Browser script to share and export  ChatGPT chat logs to Markdown, JSON, or as Image (PNG)
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
-- [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - Extract your entire ChatGPT history from JSON files to nicely formatted markdown files + Word clouds.
+- [mohamed-chs/convoviz](https://github.com/mohamed-chs/convoviz) - Extract your entire ChatGPT history from JSON files to nicely formatted markdown files + Word clouds.
 - [pandodao/botastic](https://github.com/pandodao/botastic) - An AI framework for building cool things.
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT and OpenAI API
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
@@ -1799,7 +1799,7 @@
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [burningtree/awesome-json](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-- [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - Extract your entire ChatGPT history from JSON files to nicely formatted markdown files + Word clouds.
+- [mohamed-chs/convoviz](https://github.com/mohamed-chs/convoviz) - Extract your entire ChatGPT history from JSON files to nicely formatted markdown files + Word clouds.
 - [godlytalias/Bible-Database](https://github.com/godlytalias/Bible-Database) - Bible databases as XML, JSON, SQL & SQLITE3 Database format for various languages. Developers can download it freely for their development works. Freely received, freely give.
 - [seven1m/bible_api](https://github.com/seven1m/bible_api) - Ruby web app that serves JSON API for open and public domain bibles
 - [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - A curated list of awesome JSON datasets that don't require authentication.
@@ -2009,7 +2009,7 @@
 - [cristianvasquez/obsidian-prettify](https://github.com/cristianvasquez/obsidian-prettify) - A markdown prettifier for obsidian
 - [ganesshkumar/obsidian-excel-to-markdown-table](https://github.com/ganesshkumar/obsidian-excel-to-markdown-table) - An Obsidian plugin to paste data from Microsoft Excel, Google Sheets, Apple Numbers and LibreOffice Calc as Markdown tables in Obsidian editor.
 - [trashhalo/obsidian-extract-url](https://github.com/trashhalo/obsidian-extract-url) - Plugin to extract markdown out of urls
-- [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - Extract your entire ChatGPT history from JSON files to nicely formatted markdown files + Word clouds.
+- [mohamed-chs/convoviz](https://github.com/mohamed-chs/convoviz) - Extract your entire ChatGPT history from JSON files to nicely formatted markdown files + Word clouds.
 - [adriansteffan/obsidian-to-jekyll](https://github.com/adriansteffan/obsidian-to-jekyll) - This is a simple python script that converts Obsidian notes to a format that is compatible with Jekyll themes that support wikilinks and backlinking like Jekyll Garden or Digital Garden Jekyll Templat
 - [ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets) - This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand
 - [mokeyish/obsidian-code-emitter](https://github.com/mokeyish/obsidian-code-emitter) - An obsidian plugin that allows  code blocks executed interactively in sandbox like jupyter notebooks. Supported language rust、kotlin、python、Javascript、TypeScript etc.
@@ -2266,7 +2266,7 @@
 - [vslinko/obsidian-outliner](https://github.com/vslinko/obsidian-outliner) - Work with your lists like in Workflowy or RoamResearch
 - [Twigonometry/Cybersecurity-Notes](https://github.com/Twigonometry/Cybersecurity-Notes) - My Markdown notes for all things cybersecurity
 - [danymat/Obsidian-Markdown-Parser](https://github.com/danymat/Obsidian-Markdown-Parser) - This repository will give you tools to parse and fetch useful informations of your notes in your Obsidian vault.
-- [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - Extract your entire ChatGPT history from JSON files to nicely formatted markdown files + Word clouds.
+- [mohamed-chs/convoviz](https://github.com/mohamed-chs/convoviz) - Extract your entire ChatGPT history from JSON files to nicely formatted markdown files + Word clouds.
 - [danielo515/obsidian-modal-form](https://github.com/danielo515/obsidian-modal-form) - Define forms for filling data that you will be able to open from anywhere you can run JS
 - [ykerus/obsidian-templates](https://github.com/ykerus/obsidian-templates) - Obsidian vault with task reminders, milestone and lesson trackers, automated tools for keeping things tidy, several templates to kickstart meetings and projects, create kanban boards and more! 🚀
 - [ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets) - This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand
@@ -2609,7 +2609,7 @@
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - Extract your entire ChatGPT history from JSON files to nicely formatted markdown files + Word clouds.
+- [mohamed-chs/convoviz](https://github.com/mohamed-chs/convoviz) - Extract your entire ChatGPT history from JSON files to nicely formatted markdown files + Word clouds.
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT and OpenAI API
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
@@ -2884,7 +2884,7 @@
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [gg314/plant-calendar](https://github.com/gg314/plant-calendar) - Planting and harvesting calendar based on average frost dates
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
@@ -3109,7 +3109,7 @@
 - [SyedUmairCodes/self-taught-developer](https://github.com/SyedUmairCodes/self-taught-developer) - Free and high quality resources for beginners to learn how to code.
 - [tillahoffmann/obsidian-jupyter](https://github.com/tillahoffmann/obsidian-jupyter) - 
 - [danymat/Obsidian-Markdown-Parser](https://github.com/danymat/Obsidian-Markdown-Parser) - This repository will give you tools to parse and fetch useful informations of your notes in your Obsidian vault.
-- [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - Extract your entire ChatGPT history from JSON files to nicely formatted markdown files + Word clouds.
+- [mohamed-chs/convoviz](https://github.com/mohamed-chs/convoviz) - Extract your entire ChatGPT history from JSON files to nicely formatted markdown files + Word clouds.
 - [adriansteffan/obsidian-to-jekyll](https://github.com/adriansteffan/obsidian-to-jekyll) - This is a simple python script that converts Obsidian notes to a format that is compatible with Jekyll themes that support wikilinks and backlinking like Jekyll Garden or Digital Garden Jekyll Templat
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
