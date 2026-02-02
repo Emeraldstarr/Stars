@@ -317,7 +317,7 @@
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [discord/discord-open-source](https://github.com/discord/discord-open-source) - List of open source communities living on Discord
-- [trntv/apis-list](https://github.com/trntv/apis-list) - Community maintained, human and machine readable list of Public APIs 📝
+- [tools-collection/apis-collection](https://github.com/tools-collection/apis-collection) - Community maintained, human and machine readable list of Public APIs 📝
 - [edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) - A curated list of awesome and exceptional board games. Please contribute!
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
