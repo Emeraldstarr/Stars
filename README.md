@@ -330,7 +330,7 @@
 
 ## Jinja 
 
-- [hassio-addons/addon-adguard-home](https://github.com/hassio-addons/addon-adguard-home) - AdGuard Home - Home Assistant Community Add-ons
+- [hassio-addons/app-adguard-home](https://github.com/hassio-addons/app-adguard-home) - AdGuard Home - Home Assistant Community Apps
 
 ## Jupyter Notebook 
 
