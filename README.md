@@ -443,6 +443,7 @@
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [bcdavasconcelos/DEVONthink-3](https://github.com/bcdavasconcelos/DEVONthink-3) - Applescripts, smart rules and templates for DEVONthink 3
 - [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
+- [ganesshkumar/obsidian-plugins-stats-ui](https://github.com/ganesshkumar/obsidian-plugins-stats-ui) - 📊 This tool helps you explore and track Obsidian plugin ecosystem.
 - [Twigonometry/Cybersecurity-Notes](https://github.com/Twigonometry/Cybersecurity-Notes) - My Markdown notes for all things cybersecurity
 - [krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2025](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2025) - 
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
@@ -742,7 +743,7 @@
 - [roclark/sportsipy](https://github.com/roclark/sportsipy) - A free sports API written for python
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [obsidian-html/obsidian-html](https://github.com/obsidian-html/obsidian-html) - Python code to convert Obsidian notes to proper markdown and optionally to create an html site too.
@@ -964,7 +965,6 @@
 - [mgmeyers/obsidian-easy-bake](https://github.com/mgmeyers/obsidian-easy-bake) - Compile many Obsidian notes down to one.
 - [chrisgrieser/new-tab-default-page](https://github.com/chrisgrieser/new-tab-default-page) - Obsidian plugin to open a note of your choice when creating a new tab, like in the browser.
 - [nevernotmove/obsidian-chordlyrics](https://github.com/nevernotmove/obsidian-chordlyrics) - Obsidian.md plugin that displays chords over lyrics.
-- [ganesshkumar/obsidian-plugins-stats-ui](https://github.com/ganesshkumar/obsidian-plugins-stats-ui) - 📊 This tool helps you explore and track Obsidian plugin ecosystem.
 - [eleanorkonik/concatenate](https://github.com/eleanorkonik/concatenate) - A plugin for Obsidian.md to allow you to put the contents of sections together in one file
 - [konhi/obsidian-community-list](https://github.com/konhi/obsidian-community-list) - 📃 • updated list of community themes & plugins for obsidian.md!
 - [Eldritch-Oliver/file-hider](https://github.com/Eldritch-Oliver/file-hider) - A plugin for https://obsidian.md that allows hiding specific files and folders from the file explorer.
