@@ -176,7 +176,6 @@
 
 ## JavaScript 
 
-- [smithery-ai/mcp-obsidian](https://github.com/smithery-ai/mcp-obsidian) - A connector for Claude Desktop to read and search an Obsidian vault.
 - [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer) - An MCP server that installs other MCP servers for you
 - [mikechao/balldontlie-mcp](https://github.com/mikechao/balldontlie-mcp) - An MCP Server implementation that integrates the Balldontlie API, to provide information about players, teams and games for the NBA, NFL and MLB
 - [0xshellming/mcp-summarizer](https://github.com/0xshellming/mcp-summarizer) - MCP Server for AI Summarization
@@ -400,7 +399,6 @@
 
 ## Others 
 
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [johnnydecimal/awesome-johnnydecimal](https://github.com/johnnydecimal/awesome-johnnydecimal) - Utilities, tools, and scripts that people have built to support the system.
 - [ncwilson78/System-Prompt-Library](https://github.com/ncwilson78/System-Prompt-Library) - A library of shared system prompts for creating customized educational GPT agents.
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
