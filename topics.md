@@ -2747,7 +2747,7 @@
 - [pashashocky/obsidian-note-gallery](https://github.com/pashashocky/obsidian-note-gallery) - A masonry note gallery for obsidian.
 - [thomasloven/lovelace-card-tools](https://github.com/thomasloven/lovelace-card-tools) - 🔹A collection of tools for other lovelace plugins to use
 - [coddingtonbear/obsidian-itinerary](https://github.com/coddingtonbear/obsidian-itinerary) - Make planning your trip or event easier by rendering a calendar from event information found in your notes.
-- [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - Unlock your automation needs by interacting with your notes in Obsidian over a secure REST API.
+- [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - A secure REST API and Model Context Protocol (MCP) server for your vault.
 - [Elaws/script_videogames_quickAdd](https://github.com/Elaws/script_videogames_quickAdd) - A script for Obsidian's QuickAdd plugin, to fetch video game data from IGDB API.
 - [ericeya/mortgage-buddy](https://github.com/ericeya/mortgage-buddy) - Mortgage calculator and simple qualification check terminal program. A little taste of mortgage lending fun facts coming from professional mortgage underwriter.
 - [toddwschneider/agency-loan-level](https://github.com/toddwschneider/agency-loan-level) - Loan-level analysis of Fannie Mae and Freddie Mac data
