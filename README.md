@@ -923,7 +923,7 @@
 - [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card
 - [obsidian-community/obsidian-full-calendar](https://github.com/obsidian-community/obsidian-full-calendar) - Keep events and manage your calendar alongside all your other notes in your Obsidian Vault.
 - [coddingtonbear/obsidian-itinerary](https://github.com/coddingtonbear/obsidian-itinerary) - Make planning your trip or event easier by rendering a calendar from event information found in your notes.
-- [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - Unlock your automation needs by interacting with your notes in Obsidian over a secure REST API.
+- [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - A secure REST API and Model Context Protocol (MCP) server for your vault.
 - [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant) - Presence tracking and more for automation on the room-level
 - [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player) - Minimalistic media card for Home Assistant Lovelace UI
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Build a beautiful Home Assistant dashboard easily
