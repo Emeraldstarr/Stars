@@ -1176,7 +1176,7 @@
 
 ## Vue 
 
-- [kt474/fantasy-football-wrapped](https://github.com/kt474/fantasy-football-wrapped) - Detailed insights and charts for sleeper fantasy football leagues
+- [kt474/fantasy-football-wrapped](https://github.com/kt474/fantasy-football-wrapped) - Detailed insights and charts for Sleeper and ESPN fantasy football leagues
 - [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - All-inclusive Python cheatsheet
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [morkro/happy-plants](https://github.com/morkro/happy-plants) - 🌵 Web application to manage plants
