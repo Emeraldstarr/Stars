@@ -2683,7 +2683,7 @@
 
 ## others 
 
-- [kt474/fantasy-football-wrapped](https://github.com/kt474/fantasy-football-wrapped) - Detailed insights and charts for sleeper fantasy football leagues
+- [kt474/fantasy-football-wrapped](https://github.com/kt474/fantasy-football-wrapped) - Detailed insights and charts for Sleeper and ESPN fantasy football leagues
 - [tanigami/mcp-server-perplexity](https://github.com/tanigami/mcp-server-perplexity) - 
 - [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - MCP server that interacts with Obsidian via the Obsidian rest API community plugin
 - [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer) - An MCP server that installs other MCP servers for you
