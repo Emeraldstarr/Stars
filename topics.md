@@ -2057,12 +2057,14 @@
 - [cristianvasquez/obsidian-prettify](https://github.com/cristianvasquez/obsidian-prettify) - A markdown prettifier for obsidian
 - [ganesshkumar/obsidian-excel-to-markdown-table](https://github.com/ganesshkumar/obsidian-excel-to-markdown-table) - An Obsidian plugin to paste data from Microsoft Excel, Google Sheets, Apple Numbers and LibreOffice Calc as Markdown tables in Obsidian editor.
 - [trashhalo/obsidian-extract-url](https://github.com/trashhalo/obsidian-extract-url) - Plugin to extract markdown out of urls
+- [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Convert your data to Markdown files you can use in Obsidian. Works with Apple Notes, OneNote, Evernote, Notion, Google Keep, and many other formats.
 - [mohamed-chs/convoviz](https://github.com/mohamed-chs/convoviz) - Convert your ChatGPT export (ZIP) into clean Markdown text files with inline media, and generate data visualizations like word clouds and usage graphs.
 - [adriansteffan/obsidian-to-jekyll](https://github.com/adriansteffan/obsidian-to-jekyll) - This is a simple python script that converts Obsidian notes to a format that is compatible with Jekyll themes that support wikilinks and backlinking like Jekyll Garden or Digital Garden Jekyll Templat
 - [ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets) - This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand
 - [mokeyish/obsidian-code-emitter](https://github.com/mokeyish/obsidian-code-emitter) - An obsidian plugin that allows  code blocks executed interactively in sandbox like jupyter notebooks. Supported language rust、kotlin、python、Javascript、TypeScript etc.
 - [efemkay/obsidian-modular-css-layout](https://github.com/efemkay/obsidian-modular-css-layout) - CSS Layout hack for Obsidian.md
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
 - [obsidian-html/obsidian-html](https://github.com/obsidian-html/obsidian-html) - Python code to convert Obsidian notes to proper markdown and optionally to create an html site too.
 - [secure-77/Perlite](https://github.com/secure-77/Perlite) - A web-based markdown viewer optimized for Obsidian
@@ -2309,7 +2311,7 @@
 - [joethei/obsidian-rss](https://github.com/joethei/obsidian-rss) - Read RSS Feeds from inside Obsidian
 - [chhoumann/MetaEdit](https://github.com/chhoumann/MetaEdit) - MetaEdit for Obsidian
 - [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin | Create editable, interactive and animated Charts in Obsidian via Chart.js
-- [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Obsidian Importer lets you import notes from other apps and file formats into your Obsidian vault.
+- [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Convert your data to Markdown files you can use in Obsidian. Works with Apple Notes, OneNote, Evernote, Notion, Google Keep, and many other formats.
 - [FlorianWoelki/obsidian-iconize](https://github.com/FlorianWoelki/obsidian-iconize) - Simply add icons to anything you want in Obsidian.
 - [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 - [vslinko/obsidian-outliner](https://github.com/vslinko/obsidian-outliner) - Work with your lists like in Workflowy or RoamResearch
@@ -2571,7 +2573,7 @@
 - [tillahoffmann/obsidian-jupyter](https://github.com/tillahoffmann/obsidian-jupyter) - 
 - [argenos/nldates-obsidian](https://github.com/argenos/nldates-obsidian) - Work with dates in natural language in Obsidian
 - [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin | Create editable, interactive and animated Charts in Obsidian via Chart.js
-- [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Obsidian Importer lets you import notes from other apps and file formats into your Obsidian vault.
+- [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Convert your data to Markdown files you can use in Obsidian. Works with Apple Notes, OneNote, Evernote, Notion, Google Keep, and many other formats.
 - [chetachiezikeuzor/Highlightr-Plugin](https://github.com/chetachiezikeuzor/Highlightr-Plugin) - A minimal and aesthetically pleasing highlighting menu that makes color-coded highlighting much easier 🎨.
 - [FlorianWoelki/obsidian-iconize](https://github.com/FlorianWoelki/obsidian-iconize) - Simply add icons to anything you want in Obsidian.
 - [obsidian-community/obsidian-zotero-integration](https://github.com/obsidian-community/obsidian-zotero-integration) - Insert and import citations, bibliographies, notes, and PDF annotations from Zotero into Obsidian.
