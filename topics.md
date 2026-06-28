@@ -6,6 +6,7 @@
 ## Contents
 
 - [agent](#agent)
+- [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
@@ -263,6 +264,10 @@
 - [lobehub/lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 Agent Index - This is the agent index for LobeChat. It accesses index.json from this repository to display a list of available agents for LobeChat to the agent market.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+
+## agent-skills 
+
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
 
 ## agents 
 
