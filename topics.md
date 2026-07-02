@@ -135,6 +135,7 @@
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [laravel](#laravel)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -1883,6 +1884,18 @@
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
+## learn-to-code 
+
+- [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
+- [jackdoe/programming-for-kids](https://github.com/jackdoe/programming-for-kids) - book for parents and kids.
+- [denysdovhan/learnyouhtml](https://github.com/denysdovhan/learnyouhtml) - Learn you how to create your first web page
+- [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
+- [plskz/100-days-of-productivity](https://github.com/plskz/100-days-of-productivity) - becoming one percent better everyday.
+- [apptension/developer-handbook](https://github.com/apptension/developer-handbook) - An opinionated guide on how to become a professional Web/Mobile App Developer.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+
 ## learning 
 
 - [lmammino/awesome-learn-by-playing](https://github.com/lmammino/awesome-learn-by-playing) - A collection of tech resources that allow you to learn new things by playing games
@@ -3096,7 +3109,7 @@
 
 ## programming 
 
-- [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - Python Cheatsheet
+- [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - Python Cheatsheet - interactive hands-on course by LabEx.
 - [lmammino/awesome-learn-by-playing](https://github.com/lmammino/awesome-learn-by-playing) - A collection of tech resources that allow you to learn new things by playing games
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
@@ -3139,7 +3152,7 @@
 
 - [entanglr/zettelkasten-mcp](https://github.com/entanglr/zettelkasten-mcp) - A Model Context Protocol (MCP) server that implements the Zettelkasten knowledge management methodology, allowing you to create, link, explore and synthesize atomic notes through Claude and other MCP-
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
-- [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - Python Cheatsheet
+- [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - Python Cheatsheet - interactive hands-on course by LabEx.
 - [Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
