@@ -191,6 +191,7 @@
 - [programming-language](#programming-language)
 - [project-management](#project-management)
 - [prompt-engineering](#prompt-engineering)
+- [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
@@ -414,7 +415,7 @@
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [NARKOZ/guides](https://github.com/NARKOZ/guides) - Design and development guides
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs — searchable, community-maintained, with a free JSON API.
 - [tools-collection/apis-collection](https://github.com/tools-collection/apis-collection) - Community maintained, human, machine and AI readable list of Public APIs 📝
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 
@@ -454,6 +455,7 @@
 - [amrwc/ios-scriptable-scripts](https://github.com/amrwc/ios-scriptable-scripts) - JS scripts for the iOS Scriptable app
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
+- [ma2za/python-substack](https://github.com/ma2za/python-substack) - Python library and CLI for publishing Markdown drafts, images, tags, and MCP workflows to Substack
 
 ## awesome 
 
@@ -591,7 +593,7 @@
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs — searchable, community-maintained, with a free JSON API.
 - [linsa-io/macos-apps](https://github.com/linsa-io/macos-apps) - Awesome macOS apps
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
 - [noahbuscher/inspire](https://github.com/noahbuscher/inspire) - Collection of frontend dev and web design links :bulb:
@@ -748,7 +750,7 @@
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs — searchable, community-maintained, with a free JSON API.
 - [linsa-io/macos-apps](https://github.com/linsa-io/macos-apps) - Awesome macOS apps
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
 - [noahbuscher/inspire](https://github.com/noahbuscher/inspire) - Collection of frontend dev and web design links :bulb:
@@ -962,6 +964,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
+- [ma2za/python-substack](https://github.com/ma2za/python-substack) - Python library and CLI for publishing Markdown drafts, images, tags, and MCP workflows to Substack
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -1216,7 +1219,7 @@
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs — searchable, community-maintained, with a free JSON API.
 
 ## development 
 
@@ -1601,7 +1604,7 @@
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of GitHub Repositories full of FREE Resources.
 - [PanXProject/awesome-certificates](https://github.com/PanXProject/awesome-certificates) - Curated list of 20,000+ hours and 200+ free courses with certificates in IT, CS, Design and Business.
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs — searchable, community-maintained, with a free JSON API.
 - [adrianmoisey/learn-python](https://github.com/adrianmoisey/learn-python) - List of resources useful for learning Python 🐍
 - [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos) - This is a collection of GitHub repositories that you can use in your coding journey.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -2095,6 +2098,7 @@
 - [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
 - [obsidian-html/obsidian-html](https://github.com/obsidian-html/obsidian-html) - Python code to convert Obsidian notes to proper markdown and optionally to create an html site too.
 - [secure-77/Perlite](https://github.com/secure-77/Perlite) - A web-based markdown viewer optimized for Obsidian
+- [ma2za/python-substack](https://github.com/ma2za/python-substack) - Python library and CLI for publishing Markdown drafts, images, tags, and MCP workflows to Substack
 - [tryfabric/martian](https://github.com/tryfabric/martian) - Markdown to Notion: Convert Markdown and GitHub Flavoured Markdown to Notion API Blocks and RichText 🔀📝
 - [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert Notion pages, blocks, or entire lists into any format: Markdown, MDX, JSX, HTML, LaTeX, and more. A powerful Notion conversion engine that lets you write once in Notion and publish seamlessly 
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
@@ -2124,7 +2128,7 @@
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [ma2za/python-substack](https://github.com/ma2za/python-substack) - Substack API python implementation
+- [ma2za/python-substack](https://github.com/ma2za/python-substack) - Python library and CLI for publishing Markdown drafts, images, tags, and MCP workflows to Substack
 
 ## microservices 
 
@@ -2657,7 +2661,7 @@
 ## open-data 
 
 - [OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP) - Connect any Open Data to any LLM with Model Context Protocol.
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs — searchable, community-maintained, with a free JSON API.
 
 ## open-source 
 
@@ -2676,7 +2680,7 @@
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [openfarmcc/OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge. You can grow anything!
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs — searchable, community-maintained, with a free JSON API.
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [cugu/awesome-forensics](https://github.com/cugu/awesome-forensics) - ⭐️ A curated list of awesome forensic analysis tools and resources
@@ -3156,6 +3160,10 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
+## publishing 
+
+- [ma2za/python-substack](https://github.com/ma2za/python-substack) - Python library and CLI for publishing Markdown drafts, images, tags, and MCP workflows to Substack
+
 ## pwa 
 
 - [morkro/happy-plants](https://github.com/morkro/happy-plants) - 🌵 Web application to manage plants
@@ -3198,7 +3206,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [amitness/learning](https://github.com/amitness/learning) - A log of things I'm learning
-- [ma2za/python-substack](https://github.com/ma2za/python-substack) - Substack API python implementation
+- [ma2za/python-substack](https://github.com/ma2za/python-substack) - Python library and CLI for publishing Markdown drafts, images, tags, and MCP workflows to Substack
 - [vaayne/NotionAI-Plus](https://github.com/vaayne/NotionAI-Plus) - NotionAI Plus is a browser extension that adds NotionAI's powerful features to any website you visit
 - [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py) - Notion API client SDK, rewritten in Python! (sync + async)
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -3346,7 +3354,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs — searchable, community-maintained, with a free JSON API.
 
 ## reverse-engineering 
 
