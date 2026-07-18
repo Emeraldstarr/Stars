@@ -456,7 +456,7 @@
 - [amrwc/ios-scriptable-scripts](https://github.com/amrwc/ios-scriptable-scripts) - JS scripts for the iOS Scriptable app
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
-- [ma2za/python-substack](https://github.com/ma2za/python-substack) - Python library and CLI for publishing Markdown drafts, images, tags, and MCP workflows to Substack
+- [ma2za/python-substack](https://github.com/ma2za/python-substack) - Python SDK and CLI for managing Substack publications, drafts, schedules, publishing, and MCP workflows
 
 ## awesome 
 
@@ -966,7 +966,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
-- [ma2za/python-substack](https://github.com/ma2za/python-substack) - Python library and CLI for publishing Markdown drafts, images, tags, and MCP workflows to Substack
+- [ma2za/python-substack](https://github.com/ma2za/python-substack) - Python SDK and CLI for managing Substack publications, drafts, schedules, publishing, and MCP workflows
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -1766,7 +1766,7 @@
 
 - [apitable/apitable-sdks](https://github.com/apitable/apitable-sdks) - APITable officially provides various API, which allow users to get data by HTTPS requests, or push data to APITable.
 - [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
-- [heroku/java-getting-started](https://github.com/heroku/java-getting-started) - Getting Started with Java on Heroku.
+- [heroku/java-getting-started](https://github.com/heroku/java-getting-started) - Getting Started with Java on Heroku
 - [sdcalmes/sleeper-api](https://github.com/sdcalmes/sleeper-api) - Java wrapper around the Sleeper Fantasy Football API
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info
 
@@ -2103,7 +2103,7 @@
 - [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
 - [obsidian-html/obsidian-html](https://github.com/obsidian-html/obsidian-html) - Python code to convert Obsidian notes to proper markdown and optionally to create an html site too.
 - [secure-77/Perlite](https://github.com/secure-77/Perlite) - A web-based markdown viewer optimized for Obsidian
-- [ma2za/python-substack](https://github.com/ma2za/python-substack) - Python library and CLI for publishing Markdown drafts, images, tags, and MCP workflows to Substack
+- [ma2za/python-substack](https://github.com/ma2za/python-substack) - Python SDK and CLI for managing Substack publications, drafts, schedules, publishing, and MCP workflows
 - [tryfabric/martian](https://github.com/tryfabric/martian) - Markdown to Notion: Convert Markdown and GitHub Flavoured Markdown to Notion API Blocks and RichText 🔀📝
 - [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert Notion pages, blocks, or entire lists into any format: Markdown, MDX, JSX, HTML, LaTeX, and more. A powerful Notion conversion engine that lets you write once in Notion and publish seamlessly 
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
@@ -2133,7 +2133,7 @@
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [ma2za/python-substack](https://github.com/ma2za/python-substack) - Python library and CLI for publishing Markdown drafts, images, tags, and MCP workflows to Substack
+- [ma2za/python-substack](https://github.com/ma2za/python-substack) - Python SDK and CLI for managing Substack publications, drafts, schedules, publishing, and MCP workflows
 
 ## microservices 
 
@@ -3165,7 +3165,7 @@
 
 ## publishing 
 
-- [ma2za/python-substack](https://github.com/ma2za/python-substack) - Python library and CLI for publishing Markdown drafts, images, tags, and MCP workflows to Substack
+- [ma2za/python-substack](https://github.com/ma2za/python-substack) - Python SDK and CLI for managing Substack publications, drafts, schedules, publishing, and MCP workflows
 
 ## pwa 
 
@@ -3209,7 +3209,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [amitness/learning](https://github.com/amitness/learning) - A log of things I'm learning
-- [ma2za/python-substack](https://github.com/ma2za/python-substack) - Python library and CLI for publishing Markdown drafts, images, tags, and MCP workflows to Substack
+- [ma2za/python-substack](https://github.com/ma2za/python-substack) - Python SDK and CLI for managing Substack publications, drafts, schedules, publishing, and MCP workflows
 - [vaayne/NotionAI-Plus](https://github.com/vaayne/NotionAI-Plus) - NotionAI Plus is a browser extension that adds NotionAI's powerful features to any website you visit
 - [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py) - Notion API client SDK, rewritten in Python! (sync + async)
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -3474,7 +3474,7 @@
 
 ## spring-boot 
 
-- [heroku/java-getting-started](https://github.com/heroku/java-getting-started) - Getting Started with Java on Heroku.
+- [heroku/java-getting-started](https://github.com/heroku/java-getting-started) - Getting Started with Java on Heroku
 
 ## sql 
 
