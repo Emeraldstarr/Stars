@@ -85,7 +85,6 @@
 - [ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets) - This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2026
 - [hfactor/jekyll-garden](https://github.com/hfactor/jekyll-garden) - A simple Jekyll theme that turns your Obsidian notes into a beautiful website.
-- [r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets) - Welcome to the ObsidianMD CSS Snippets repository, a collection of CSS code snippets to enhance the user interface elements of ObsidianMD
 - [jsmorabito/obsidian-commander](https://github.com/jsmorabito/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
 - [efemkay/obsidian-modular-css-layout](https://github.com/efemkay/obsidian-modular-css-layout) - CSS Layout hack for Obsidian.md
 - [deathau/Notation-for-Obsidian](https://github.com/deathau/Notation-for-Obsidian) - A theme for Obsidian, inspired by and borrowing elements from Notion
@@ -305,8 +304,6 @@
 - [jacqizee/Plantpedia](https://github.com/jacqizee/Plantpedia) - Encyclopedia for Houseplants! 🌸🪴🌱 Built with the MERN stack (MongoDB, Express.js, React, and Node.js), with Material UI components
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [javve/list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
-- [tvkarambelas/ff-league-season-recap](https://github.com/tvkarambelas/ff-league-season-recap) - A React tool to generate a visualized season recap for Sleeper fantasy football leagues.
-- [tvkarambelas/sleeper-draft-recap](https://github.com/tvkarambelas/sleeper-draft-recap) - A tool to grade drafts completed in the Sleeper fantasy football platform.
 - [siemenjm/frontend-sleeper-sheets](https://github.com/siemenjm/frontend-sleeper-sheets) - A fantasy football app consuming Sleeper API endpoints and rendering data with React.
 - [HeyParkerJ/ff-sleeper-scripts](https://github.com/HeyParkerJ/ff-sleeper-scripts) - A collection of Node scripts that query the Sleeper Fantasy Football API and aggregate a few data points for my fantasy football league. sleeper-data-pipeline is a more modern version of this idea.
 - [bcavs/sleeper-ff-companion](https://github.com/bcavs/sleeper-ff-companion) - Companion app for our Sleeper fantasy football league
@@ -478,6 +475,7 @@
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [1mrat/gpt-stats](https://github.com/1mrat/gpt-stats) - Stats for Custom Chat GPTs not created by OpenAI
 - [daveshap/ChatGPT_Custom_Instructions](https://github.com/daveshap/ChatGPT_Custom_Instructions) - Repo of custom instructions that you can use for ChatGPT
+- [r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets) - Welcome to the ObsidianMD CSS Snippets repository, a collection of CSS code snippets to enhance the user interface elements of ObsidianMD
 - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [promptslab/Awesome-Openai-GPTs](https://github.com/promptslab/Awesome-Openai-GPTs) - Awesome GPTs
