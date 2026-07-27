@@ -756,7 +756,6 @@
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-- [adv1996/ff-data-engine](https://github.com/adv1996/ff-data-engine) - Fantasy Football Data Platform to collect data from different sources like: Sleeper, ESPN, Yahoo...etc. Will be used to create a data warehouse along with NFL statistics data.
 - [KevinEmery/FantasyFootballAdminScripts](https://github.com/KevinEmery/FantasyFootballAdminScripts) - Repository for a handful of Python scripts designed to parse various information from Sleeper fantasy football leagues
 - [beaugrimmel/fantasy-football-webscraper](https://github.com/beaugrimmel/fantasy-football-webscraper) - This application scrapes my fantasy footabll league (on Sleeper) and builds an optimal lineup out of free agents.
 - [scarroll142/sleeper_data_collection](https://github.com/scarroll142/sleeper_data_collection) - A project designed to grab meaningful statistics from your Sleeper fantasy football league(s) leveraging Sleeper's API.
@@ -1179,7 +1178,7 @@
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [morkro/happy-plants](https://github.com/morkro/happy-plants) - 🌵 Web application to manage plants
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
-- [adv1996/sleeper-viz](https://github.com/adv1996/sleeper-viz) - Visualize Sleeper Fantasy Football
+- [advnyc/sleeper-viz](https://github.com/advnyc/sleeper-viz) - Visualize Sleeper Fantasy Football
 
 
 ## License
