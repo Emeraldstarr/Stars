@@ -2975,7 +2975,6 @@
 - [jxich0621/Fannie-Mae-Single-Family-Loan](https://github.com/jxich0621/Fannie-Mae-Single-Family-Loan) - Python codes regarding to data conversion, visualization and learning analytics
 - [Machine-Learning-for-Finance/Machine-Learning-Algorithms](https://github.com/Machine-Learning-for-Finance/Machine-Learning-Algorithms) - Machine Learning Algorithms with a Focus on Finance
 - [Machine-Learning-for-Finance/FannieMae](https://github.com/Machine-Learning-for-Finance/FannieMae) - 
-- [adv1996/ff-data-engine](https://github.com/adv1996/ff-data-engine) - Fantasy Football Data Platform to collect data from different sources like: Sleeper, ESPN, Yahoo...etc. Will be used to create a data warehouse along with NFL statistics data.
 - [dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
 - [tjvonbr/keeper-calculator](https://github.com/tjvonbr/keeper-calculator) - 🧮 Calculator that evaluates your keepers in a Sleeper fantasy football league
 - [KevinEmery/FantasyFootballAdminScripts](https://github.com/KevinEmery/FantasyFootballAdminScripts) - Repository for a handful of Python scripts designed to parse various information from Sleeper fantasy football leagues
@@ -3040,7 +3039,7 @@
 - [danabrey/sleeper-api](https://github.com/danabrey/sleeper-api) - PHP library for interacting with the read-only Sleeper fantasy football API
 - [nmelhado/league-page](https://github.com/nmelhado/league-page) - Create a custom league page for your Sleeper fantasy football league!
 - [flipperbw/FantasyPlus](https://github.com/flipperbw/FantasyPlus) - Adds FantasyPros projections to fantasy football sites.
-- [adv1996/sleeper-viz](https://github.com/adv1996/sleeper-viz) - Visualize Sleeper Fantasy Football
+- [advnyc/sleeper-viz](https://github.com/advnyc/sleeper-viz) - Visualize Sleeper Fantasy Football
 - [StoneMasons4106/sleeper-ffl-discordbot](https://github.com/StoneMasons4106/sleeper-ffl-discordbot) - Sleeper Fantasy Football Discord Bot
 - [dtsong/sleeper-api-wrapper](https://github.com/dtsong/sleeper-api-wrapper) - A Python API wrapper for Sleeper's API: https://docs.sleeper.app/
 - [joeyagreco/sleeper](https://github.com/joeyagreco/sleeper) - A Python wrapper for the Sleeper API.
