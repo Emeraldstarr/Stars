@@ -688,6 +688,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [spyoungtech/FreeSimpleGUI](https://github.com/spyoungtech/FreeSimpleGUI) - The free-forever GUI library
 - [narenaryan/promptml-cli](https://github.com/narenaryan/promptml-cli) - A CLI application to run Prompt Markup Language scripts
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [jabberjabberjabber/ImageIndexer](https://github.com/jabberjabberjabber/ImageIndexer) - Creates an index of images, queries a local LLM and adds tags to the image metadata
 - [joeyagreco/leeger](https://github.com/joeyagreco/leeger) - Instant stats for any fantasy football league.
 - [AishaEvering/LangChain_Practice_Prompts_And_Chains](https://github.com/AishaEvering/LangChain_Practice_Prompts_And_Chains) - Practice building a simple app with prompts and chains.
@@ -735,7 +736,7 @@
 - [peteryushunli/fantasy-football-weekly-email](https://github.com/peteryushunli/fantasy-football-weekly-email) - leverage ESPN and Sleeper APIs, and GPT-4 to automate weekly emails to your fantasy league
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [elblogbruno/NotionAI-MyMind](https://github.com/elblogbruno/NotionAI-MyMind) - This repo uses AI and the wonderful Notion to enable you to add anything on the web to your "Mind" and forget about everything else.
-- [ma2za/python-substack](https://github.com/ma2za/python-substack) - Python SDK and CLI for managing Substack publications, drafts, schedules, publishing, and MCP workflows
+- [ma2za/python-substack](https://github.com/ma2za/python-substack) - Write and safely manage Substack drafts from Markdown with Python, CLI, and MCP.
 - [kevinjalbert/notion-toolbox](https://github.com/kevinjalbert/notion-toolbox) - This is a collection of Notion tools that work in tandem together.
 - [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py) - Notion API client SDK, rewritten in Python! (sync + async)
 - [jamalex/notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so
@@ -914,7 +915,6 @@
 - [plasticrake/tplink-smarthome-api](https://github.com/plasticrake/tplink-smarthome-api) - TP-Link Smarthome WiFi API
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [benhughes/obsidian-link-exploder](https://github.com/benhughes/obsidian-link-exploder) - 
 - [inhumantsar/slurp](https://github.com/inhumantsar/slurp) - Slurps webpages and saves them as clean, uncluttered Markdown. Think Pocket, but better.
 - [emmercm/igir](https://github.com/emmercm/igir) - 🕹 A zero-setup ROM collection manager that sorts, filters, extracts or archives, patches, and reports on collections of any size on any OS.
