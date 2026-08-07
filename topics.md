@@ -2987,7 +2987,6 @@
 - [HeyParkerJ/ff-sleeper-scripts](https://github.com/HeyParkerJ/ff-sleeper-scripts) - A collection of Node scripts that query the Sleeper Fantasy Football API and aggregate a few data points for my fantasy football league. sleeper-data-pipeline is a more modern version of this idea.
 - [matthewhuntt/draft-wisely](https://github.com/matthewhuntt/draft-wisely) - A classification model for determining a fantasy football team's success given their draft strategy
 - [matthewhuntt/sleeper-fantasy-simulation](https://github.com/matthewhuntt/sleeper-fantasy-simulation) - Simulation tools for the Sleeper fantasy football platform
-- [bcavs/sleeper-ff-companion](https://github.com/bcavs/sleeper-ff-companion) - Companion app for our Sleeper fantasy football league
 - [windleypratt/sleeper-league-dashboard](https://github.com/windleypratt/sleeper-league-dashboard) - Data model to visualize league history for Sleeper Fantasy Football
 - [jwreilly23/sleeper-league-history](https://github.com/jwreilly23/sleeper-league-history) - Dynasty Fantasy Football league history app using Sleeper API
 - [smlederer/Fantasy-Football-Sleeper-API-Predict](https://github.com/smlederer/Fantasy-Football-Sleeper-API-Predict) - Shiny App created to predict the end result of a season based on the data for your Fantasy Football League for the Sleeper App.
