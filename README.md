@@ -307,7 +307,6 @@
 - [javve/list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
 - [siemenjm/frontend-sleeper-sheets](https://github.com/siemenjm/frontend-sleeper-sheets) - A fantasy football app consuming Sleeper API endpoints and rendering data with React.
 - [HeyParkerJ/ff-sleeper-scripts](https://github.com/HeyParkerJ/ff-sleeper-scripts) - A collection of Node scripts that query the Sleeper Fantasy Football API and aggregate a few data points for my fantasy football league. sleeper-data-pipeline is a more modern version of this idea.
-- [bcavs/sleeper-ff-companion](https://github.com/bcavs/sleeper-ff-companion) - Companion app for our Sleeper fantasy football league
 - [jwreilly23/sleeper-league-history](https://github.com/jwreilly23/sleeper-league-history) - Dynasty Fantasy Football league history app using Sleeper API
 - [rghart/my-sleeper-app](https://github.com/rghart/my-sleeper-app) - Fantasy Football Team Assistant for the Sleeper fantasy platform
 - [mkreiser/ESPN-Fantasy-Football-API](https://github.com/mkreiser/ESPN-Fantasy-Football-API) - Connect to ESPN's fantasy football API via this JS API client for web and NodeJS. Available as an npm package.
