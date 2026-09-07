@@ -1309,7 +1309,6 @@
 - [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 
 ## elixir 
 
