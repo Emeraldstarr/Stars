@@ -122,7 +122,6 @@
 - [pandodao/botastic](https://github.com/pandodao/botastic) - An AI framework for building cool things.
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [yks0000/starred-repo-toc](https://github.com/yks0000/starred-repo-toc) - Generates Markdown table for all Starred Repositories by a GitHub user.
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [aubm/postmanerator](https://github.com/aubm/postmanerator) - A HTTP API documentation generator that use Postman collections
@@ -383,6 +382,7 @@
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -913,7 +913,7 @@
 - [StevenStavrakis/obsidian-mcp](https://github.com/StevenStavrakis/obsidian-mcp) - A simple MCP server for Obsidian
 - [emreloper/apple-health-api](https://github.com/emreloper/apple-health-api) - Create a personal Apple Health API using Shortcuts and Firebase
 - [plasticrake/tplink-smarthome-api](https://github.com/plasticrake/tplink-smarthome-api) - TP-Link Smarthome WiFi API
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [benhughes/obsidian-link-exploder](https://github.com/benhughes/obsidian-link-exploder) - 
 - [inhumantsar/slurp](https://github.com/inhumantsar/slurp) - Slurps webpages and saves them as clean, uncluttered Markdown. Think Pocket, but better.
