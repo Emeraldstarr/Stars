@@ -157,6 +157,7 @@
 - [Asabeneh/10-days-of-git-and-github](https://github.com/Asabeneh/10-days-of-git-and-github) - Some video lessons on YouTube: This videos may help too: https://www.youtube.com/watch?v=9cCApTLb_Io&t=3s&ab_channel=WasheraAcademy
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
 - [roberttaylorV/fantasyfootballdashboard](https://github.com/roberttaylorV/fantasyfootballdashboard) - fantasy football dashboard with sleeper API
+- [sengi12/SleeperScripts](https://github.com/sengi12/SleeperScripts) - Fantasy Football related python scripts that utilize the sleeper API to accumulate interesting statistics
 - [FantasyFootballAnalytics/FantasyFootballAnalyticsR](https://github.com/FantasyFootballAnalytics/FantasyFootballAnalyticsR) - R scripts and data files for the Fantasy Football Analytics website
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
@@ -766,7 +767,6 @@
 - [matthewhuntt/draft-wisely](https://github.com/matthewhuntt/draft-wisely) - A classification model for determining a fantasy football team's success given their draft strategy
 - [matthewhuntt/sleeper-fantasy-simulation](https://github.com/matthewhuntt/sleeper-fantasy-simulation) - Simulation tools for the Sleeper fantasy football platform
 - [felix-clark/sleeper-power](https://github.com/felix-clark/sleeper-power) - Power rankings for a Sleeper fantasy football league
-- [sengi12/SleeperScripts](https://github.com/sengi12/SleeperScripts) - Fantasy Football related python scripts that utilize the sleeper API to accumulate interesting statistics
 - [steve-bush/sleeper_football](https://github.com/steve-bush/sleeper_football) - 
 - [SleeperPy/SleeperPositionBreakdown](https://github.com/SleeperPy/SleeperPositionBreakdown) - This Python script produces a graph showing the distribution of each position group among managers of Sleeper fantasy football teams.
 - [SleeperPy/SleeperTradesGraph](https://github.com/SleeperPy/SleeperTradesGraph) - This Python script uses the Sleeper API to gather data on the number of trades made by each player in your fantasy football league, and generates a graph to visualize this data.
@@ -1050,6 +1050,9 @@
 - [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [jon-heard/obsidian-inline-scripts](https://github.com/jon-heard/obsidian-inline-scripts) - Obsidian plugin: Type text shortcuts that expand into javascript generated text.
+- [lobehub/lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪  Plugin Index - This is the plugin index for LobeChat. It accesses index.json from this repository to display a list of available plugins for LobeChat to the user.
+- [lobehub/lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 Agent Index - This is the agent index for LobeChat. It accesses index.json from this repository to display a list of available agents for LobeChat to the agent market.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [pollinations/pollinations](https://github.com/pollinations/pollinations) - Your Friendly Open-Source Gen-AI Platform
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [IdreesInc/Waypoint](https://github.com/IdreesInc/Waypoint) - Obsidian plugin that gives you the power to generate dynamic MOCs in your folder notes. Enables folders to show up in the graph view and removes the need for messy tags!
