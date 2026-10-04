@@ -257,6 +257,7 @@
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [workflow](#workflow)
 - [xcode](#xcode)
 - [xml](#xml)
@@ -3724,6 +3725,10 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+
+## windows-11 
+
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
 ## workflow 
