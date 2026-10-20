@@ -180,7 +180,6 @@
 
 - [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer) - An MCP server that installs other MCP servers for you
 - [mikechao/balldontlie-mcp](https://github.com/mikechao/balldontlie-mcp) - An MCP Server implementation that integrates the Balldontlie API, to provide information about players, teams and games for the NBA, NFL and MLB
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [0xshellming/mcp-summarizer](https://github.com/0xshellming/mcp-summarizer) - MCP Server for AI Summarization
 - [pskill9/website-downloader](https://github.com/pskill9/website-downloader) - MCP server to download entire websites
 - [JoshuaRileyDev/supabase-mcp-server](https://github.com/JoshuaRileyDev/supabase-mcp-server) - 
@@ -654,7 +653,7 @@
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 - [elementor/elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
 - [ivanvorobei/awesome-ios](https://github.com/ivanvorobei/awesome-ios) - A collaborative list of awesome for iOS developers. Include quick preview.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [danabrey/sleeper-api](https://github.com/danabrey/sleeper-api) - PHP library for interacting with the read-only Sleeper fantasy football API
 
@@ -797,6 +796,7 @@
 - [ujjwalkarn/DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) - common data analysis and machine learning tasks using python
 - [torchhound/warren](https://github.com/torchhound/warren) - Links to lose yourself in, curated from HN and other sources
 - [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [SwapnikKatkoori/sleeper-api-wrapper](https://github.com/SwapnikKatkoori/sleeper-api-wrapper) - A Python wrapper for the Sleeper Fantasy Football API.
 - [uberfastman/fantasy-football-metrics-weekly-report](https://github.com/uberfastman/fantasy-football-metrics-weekly-report) - Command line application to create weekly reports (containing stats, metrics, and rankings) for Fantasy Football leagues on the following platforms: Yahoo, ESPN, CBS, Sleeper, Fleaflicker
 - [StoneMasons4106/sleeper-ffl-discordbot](https://github.com/StoneMasons4106/sleeper-ffl-discordbot) - Sleeper Fantasy Football Discord Bot
@@ -897,6 +897,7 @@
 - [FezVrasta/cafe-hass](https://github.com/FezVrasta/cafe-hass) - The "Third Way" for Home Assistant Automations.
 - [amxv/mcp-manager](https://github.com/amxv/mcp-manager) - simple web ui to manage mcp (model context protocol) servers in the claude app
 - [KyrieTangSheng/mcp-server-nationalparks](https://github.com/KyrieTangSheng/mcp-server-nationalparks) - 
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs) - An MCP server implementation that provides tools for retrieving and processing documentation through vector search, enabling AI assistants to augment their responses with relevant documentation contex
 - [jinzcdev/markmap-mcp-server](https://github.com/jinzcdev/markmap-mcp-server) - An MCP server for converting Markdown to interactive mind maps with export support (PNG/JPG/SVG).
 - [kadykov/mcp-openapi-schema-explorer](https://github.com/kadykov/mcp-openapi-schema-explorer) - MCP server providing token-efficient access to OpenAPI/Swagger specs via MCP Resource Templates for client-side exploration.
