@@ -6,6 +6,7 @@
 ## Contents
 
 - [AppleScript](#applescript)
+- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -50,6 +51,10 @@
 - [extracts/mac-scripting](https://github.com/extracts/mac-scripting) - Automation scripts for macOS
 - [mhucka/devonthink-hacks](https://github.com/mhucka/devonthink-hacks) - Scripts and other things for working with DEVONthink, a personal information management system.
 - [briangonzalez/awesome-applescripts](https://github.com/briangonzalez/awesome-applescripts) - A collection of awesome, useful, not-so-obvious applescripts.
+
+## Astro 
+
+- [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of GitHub Repositories full of FREE Resources.
 
 ## Batchfile 
 
@@ -554,7 +559,6 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
-- [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of GitHub Repositories full of FREE Resources.
 - [dictcp/awesome-git](https://github.com/dictcp/awesome-git) - A curated list of amazingly awesome Git tools, resources and shiny things
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - A curated list of awesome things related to functional programming in Python.
