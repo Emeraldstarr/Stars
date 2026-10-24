@@ -74,6 +74,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [downloader](#downloader)
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
@@ -1296,6 +1297,10 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+
+## downloader 
+
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 ## education 
 
