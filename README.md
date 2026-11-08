@@ -536,7 +536,7 @@
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
-- [linsa-io/curated-lists](https://github.com/linsa-io/curated-lists) - Curated lists on various topics
+- [gendotnew/curated-lists](https://github.com/gendotnew/curated-lists) - Curated lists on various topics
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [JingwenTian/awesome-frontend](https://github.com/JingwenTian/awesome-frontend) - A curated list of amazingly awesome frontend libraries, resources and shiny things.
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
@@ -578,15 +578,15 @@
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
 - [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css) - :art: A curated contents of amazing CSS :)
 - [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript Learning Resources
-- [linsa-io/websites](https://github.com/linsa-io/websites) - Awesome Websites
-- [linsa-io/youtube](https://github.com/linsa-io/youtube) - Awesome YouTube channels
-- [linsa-io/documentaries](https://github.com/linsa-io/documentaries) - Awesome Documentaries
-- [linsa-io/safari-extensions](https://github.com/linsa-io/safari-extensions) - Awesome Safari extensions
-- [linsa-io/programming-languages](https://github.com/linsa-io/programming-languages) - Awesome Programming Languages
-- [linsa-io/firefox-extensions](https://github.com/linsa-io/firefox-extensions) - Awesome Firefox Extensions
+- [gendotnew/websites](https://github.com/gendotnew/websites) - Awesome Websites
+- [gendotnew/youtube](https://github.com/gendotnew/youtube) - Awesome YouTube channels
+- [gendotnew/documentaries](https://github.com/gendotnew/documentaries) - Awesome Documentaries
+- [gendotnew/safari-extensions](https://github.com/gendotnew/safari-extensions) - Awesome Safari extensions
+- [gendotnew/programming-languages](https://github.com/gendotnew/programming-languages) - Awesome Programming Languages
+- [gendotnew/firefox-extensions](https://github.com/gendotnew/firefox-extensions) - Awesome Firefox Extensions
 - [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
-- [linsa-io/chrome-extensions](https://github.com/linsa-io/chrome-extensions) - Awesome Chrome Extensions
-- [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
+- [gendotnew/chrome-extensions](https://github.com/gendotnew/chrome-extensions) - Awesome Chrome Extensions
+- [gendotnew/books](https://github.com/gendotnew/books) - Awesome Books
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
@@ -595,7 +595,7 @@
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs — searchable, community-maintained, with a free JSON API.
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [gillesheinesch/opensource-discordbots](https://github.com/gillesheinesch/opensource-discordbots) - Curated list of awesome open-source Discord Bots
-- [linsa-io/macos-apps](https://github.com/linsa-io/macos-apps) - Awesome macOS apps
+- [gendotnew/macos-apps](https://github.com/gendotnew/macos-apps) - Awesome macOS apps
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
 - [karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) - Educational resources to learn to program (Foundation in Web Development)
 - [adrianmoisey/learn-python](https://github.com/adrianmoisey/learn-python) - List of resources useful for learning Python 🐍
