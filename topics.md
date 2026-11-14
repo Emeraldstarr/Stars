@@ -3306,7 +3306,6 @@
 - [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - A comprehensive Python cheat sheet with code examples, built-in functions, module references, and hands-on labs by LabEx.
 - [Asabeneh/Python-for-Everyone](https://github.com/Asabeneh/Python-for-Everyone) - A step by step guide to learn Python Programming
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
-- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [torchhound/warren](https://github.com/torchhound/warren) - Links to lose yourself in, curated from HN and other sources
 
 ## pytorch 
