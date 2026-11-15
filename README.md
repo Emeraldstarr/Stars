@@ -278,7 +278,7 @@
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [boilermaker-ben/Google-Sheets-NFL-Pick-Ems-and-Survivor-Pool](https://github.com/boilermaker-ben/Google-Sheets-NFL-Pick-Ems-and-Survivor-Pool) - A single long script to paste into the Google Sheets script editor that generates weekly Google Forms and weekly, overall, and other sheets for running a pick 'ems and/or survivor pool. Hosted by you.
 - [anthonytedja/notion](https://github.com/anthonytedja/notion) - notion hosts a library of interactive widgets for @makenotion pages
 - [notionblog/NotionThemes](https://github.com/notionblog/NotionThemes) - Make your Notion pretty with custom themes
@@ -1173,7 +1173,7 @@
 
 - [kt474/fantasy-football-wrapped](https://github.com/kt474/fantasy-football-wrapped) - Detailed insights and charts for Sleeper and ESPN fantasy football leagues
 - [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - A comprehensive Python cheat sheet with code examples, built-in functions, module references, and hands-on labs by LabEx.
-- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+- [homer-dashboard/homer](https://github.com/homer-dashboard/homer) - A very simple static homepage for your server.
 - [morkro/happy-plants](https://github.com/morkro/happy-plants) - 🌵 Web application to manage plants
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [advnyc/sleeper-viz](https://github.com/advnyc/sleeper-viz) - Visualize Sleeper Fantasy Football
