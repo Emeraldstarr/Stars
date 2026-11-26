@@ -2961,7 +2961,7 @@
 - [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
 - [deathau/obsidian-snippets](https://github.com/deathau/obsidian-snippets) - 
 - [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) - Type definitions for the latest Obsidian API.
-- [peteryushunli/fantasy-football-weekly-email](https://github.com/peteryushunli/fantasy-football-weekly-email) - leverage ESPN and Sleeper APIs, and GPT-4 to automate weekly emails to your fantasy league
+- [yspli/fantasy-football-weekly-email](https://github.com/yspli/fantasy-football-weekly-email) - leverage ESPN and Sleeper APIs, and GPT-4 to automate weekly emails to your fantasy league
 - [boilermaker-ben/Google-Sheets-NFL-Pick-Ems-and-Survivor-Pool](https://github.com/boilermaker-ben/Google-Sheets-NFL-Pick-Ems-and-Survivor-Pool) - A single long script to paste into the Google Sheets script editor that generates weekly Google Forms and weekly, overall, and other sheets for running a pick 'ems and/or survivor pool. Hosted by you.
 - [cheald/srp-bill-calculator](https://github.com/cheald/srp-bill-calculator) - Compute your power bill on APS & SRP's various billing plans
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
