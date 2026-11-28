@@ -434,7 +434,6 @@
 - [syedumaircodes/self-taught-developer](https://github.com/syedumaircodes/self-taught-developer) - Free and high-quality resources for self-taught developers!
 - [sophi-li/OKRs-self-learning](https://github.com/sophi-li/OKRs-self-learning) - Sophia's OKRs for learning how to code.
 - [coderplex-org/learn](https://github.com/coderplex-org/learn) - Open Source Learning Guides to master your favorite technology
-- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [bcdavasconcelos/DEVONthink-3](https://github.com/bcdavasconcelos/DEVONthink-3) - Applescripts, smart rules and templates for DEVONthink 3
 - [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
 - [ganesshkumar/obsidian-plugins-stats-ui](https://github.com/ganesshkumar/obsidian-plugins-stats-ui) - 📊 This tool helps you explore and track Obsidian plugin ecosystem.
@@ -716,6 +715,7 @@
 - [Fffrank/southwest-alerts](https://github.com/Fffrank/southwest-alerts) - 
 - [natelandau/obsidian-metadata](https://github.com/natelandau/obsidian-metadata) - Batch updates to metadata in an Obsidian vault
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [danymat/Obsidian-Markdown-Parser](https://github.com/danymat/Obsidian-Markdown-Parser) - This repository will give you tools to parse and fetch useful informations of your notes in your Obsidian vault.
 - [jackdoe/programming-for-kids](https://github.com/jackdoe/programming-for-kids) - book for parents and kids.
 - [mohamed-chs/convoviz](https://github.com/mohamed-chs/convoviz) - Export your ChatGPT history to Markdown: readable notes for Obsidian, plus private charts and word clouds of how you use ChatGPT. Runs locally.
